@@ -1,0 +1,824 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7890857,
+          "lng" : 35.2093903
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7905598302915,
+            "lng" : 35.2108503802915
+          },
+          "southwest" : {
+            "lat" : 31.7878618697085,
+            "lng" : 35.2081524197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "Park",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 1080,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106337299827554869699\"\u003eMoises Zack\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJ3pml-esVJCMnYzKj_RnIbjyyu4THTJ_M7F4tI5rTIKi458PWg1VpzbAYM9Wl0ToDzXtk5EJvMnWvGZSSLIyT_1m9hSwBmma7V-c7d-F-RaFd0XPfYWgsGrROgaZf9l3EXG36vobc5LmWA4SBFcq9ATsq9jO6Q4qxOP7QpaW3fftCv",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJJ92SbMfXAhURPvmUi7K1QSg",
+      "plus_code" : {
+        "compound_code" : "Q6Q5+JQ ירושלים, ישראל",
+        "global_code" : "8G3QQ6Q5+JQ"
+      },
+      "reference" : "ChIJJ92SbMfXAhURPvmUi7K1QSg",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "vicinity" : "בר גיורא 42, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7724029,
+          "lng" : 35.1908264
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7737518802915,
+            "lng" : 35.1921753802915
+          },
+          "southwest" : {
+            "lat" : 31.7710539197085,
+            "lng" : 35.1894774197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גינה לשחרור כלבים",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2976,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102061924724300172762\"\u003eRuth Carmi\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwK8vHOeE7fnZqLWb2cJQeHsfmt1GonvUx1lGZgmGRdcsvdPcInZHoBTaARbSCnz4LEHYoOD4PqYOPMaIVvVc2WCTipmWqPsfbnJ6zc075LdqJEFFKpbwTzRPDVidYxuPt-I_KioPYJuBPwpQQyiXTeuv5jOB2DGLcQ5tPuNzWie2OFn",
+          "width" : 3968
+        }
+      ],
+      "place_id" : "ChIJ-dT_KQjXAhURVvaaCPyobyY",
+      "plus_code" : {
+        "compound_code" : "Q5CR+X8 ירושלים, ישראל",
+        "global_code" : "8G3QQ5CR+X8"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJ-dT_KQjXAhURVvaaCPyobyY",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 36,
+      "vicinity" : "Yohay Bin Nun, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.796555,
+          "lng" : 35.203727
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.79731529999999,
+            "lng" : 35.2053666302915
+          },
+          "southwest" : {
+            "lat" : 31.7942741,
+            "lng" : 35.2026686697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "פארק נחל רוממה",
+      "photos" : [
+        {
+          "height" : 3000,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105494301012147001876\"\u003eיהונתן הימן\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIk8mVli6Zq4CnxbI3pxXijKSALMLyATuDAb5dlITnlYE6Zl43Q0bCWSv5amFEXpkoMkSQcZtFSFB5-Ni5tGyANV86_zNUToS4VeD4POBe2JD_m8Ntiidy0jRyn7StvCnfZ0pfsAkK_gbpSW9jo40xpTCpeySEjCR1Nw5CzkeOffgTS",
+          "width" : 4000
+        }
+      ],
+      "place_id" : "ChIJgy-C237XAhURHobdDmgfMac",
+      "plus_code" : {
+        "compound_code" : "Q6W3+JF ירושלים, ישראל",
+        "global_code" : "8G3QQ6W3+JF"
+      },
+      "rating" : 4,
+      "reference" : "ChIJgy-C237XAhURHobdDmgfMac",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1,
+      "vicinity" : "הרב סורוצקין 7, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7825739,
+          "lng" : 35.2105802
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7840099302915,
+            "lng" : 35.21162408029149
+          },
+          "southwest" : {
+            "lat" : 31.7813119697085,
+            "lng" : 35.20892611970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "הגינה הקהילתית של רחוב באר שבע",
+      "photos" : [
+        {
+          "height" : 1080,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/100646732984850707591\"\u003eliraz tzvi zeira\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJT9BZBWQJW7KrFtBNhgF-vVwGJqGQL19jBclfJOHIqf9_dLXjg1U_FxUaE5OveLaZC9MNxWS30flAAkx1lfdj9hyL-KHcIeE7TIBL0hhKwtUcEL6kZwi-padwQPanPVQtsxTlouGLAEeKSvycP1ya2gL4Ynn7X4JC-qWIG-rxuaan-",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJuZqVXxXXAhURk2CNV5MBD3s",
+      "plus_code" : {
+        "compound_code" : "Q6M6+26 ירושלים, ישראל",
+        "global_code" : "8G3QQ6M6+26"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJuZqVXxXXAhURk2CNV5MBD3s",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 2,
+      "vicinity" : "באר שבע 28, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7777475,
+          "lng" : 35.208251
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7790964802915,
+            "lng" : 35.20959998029149
+          },
+          "southwest" : {
+            "lat" : 31.7763985197085,
+            "lng" : 35.2069020197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "لبیک یا خامنه ای",
+      "place_id" : "ChIJ1VbPp4LXAhURyQMnx0-Gydw",
+      "plus_code" : {
+        "compound_code" : "Q6H5+38 ירושלים, ישראל",
+        "global_code" : "8G3QQ6H5+38"
+      },
+      "reference" : "ChIJ1VbPp4LXAhURyQMnx0-Gydw",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "vicinity" : "اورشلیم،"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7842576,
+          "lng" : 35.2109381
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7855021802915,
+            "lng" : 35.2123609802915
+          },
+          "southwest" : {
+            "lat" : 31.7828042197085,
+            "lng" : 35.2096630197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "כיכר גזר",
+      "place_id" : "ChIJNWiRGcvXAhURQEjCA1nP19w",
+      "plus_code" : {
+        "compound_code" : "Q6M6+P9 ירושלים, ישראל",
+        "global_code" : "8G3QQ6M6+P9"
+      },
+      "reference" : "ChIJNWiRGcvXAhURQEjCA1nP19w",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "vicinity" : "גזר, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.77557729999999,
+          "lng" : 35.1831168
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.77684038029149,
+            "lng" : 35.1845847302915
+          },
+          "southwest" : {
+            "lat" : 31.7741424197085,
+            "lng" : 35.1818867697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "היכל הזיכרון הממלכתי בהר הרצל",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103840838028911807630\"\u003eOmer Livne\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJDOI3-DomVlZWRG3PdiqpWd4HGif2IKka9TUpHDQ5ZwGK4jvw9lcleUPuCvV6qWyfrQWgQPNsIkorldxJbu8BoL02CRlOWx93lgmaYRT0uAJsemsKZR9_wflw8aAoj-4b5Qpw9H9O6pNpbCw2gpiWb3fEBXe9zXsatwfRPIZPuW7e5",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJGQwPdbDXAhURcTavz3HSKSI",
+      "plus_code" : {
+        "compound_code" : "Q5GM+66 ירושלים, ישראל",
+        "global_code" : "8G3QQ5GM+66"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJGQwPdbDXAhURcTavz3HSKSI",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1009,
+      "vicinity" : "שדרות הרצל 124-128, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7824409,
+          "lng" : 35.210744
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7836249802915,
+            "lng" : 35.2124284802915
+          },
+          "southwest" : {
+            "lat" : 31.7809270197085,
+            "lng" : 35.2097305197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "הגינה",
+      "photos" : [
+        {
+          "height" : 1844,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/100646732984850707591\"\u003eliraz tzvi zeira\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKoO2M3EnNEuFxxnG6vMy0lC-194JK8QR5zJobacddCgizcvnXe36B9TEd60q9O2u-Jt3RMJDC8w37EBlaCRvV6Z5fWGSWe_uXhz8qcNEreY_KC6zHCtxOZz-2JKepyt33G1CibXRHSER20ZvEPsIcSGGYr7K58HqoemMb2aeok05v5",
+          "width" : 4000
+        }
+      ],
+      "place_id" : "ChIJ2UTX1CTXAhUR3TpI9Q-DN2s",
+      "plus_code" : {
+        "compound_code" : "Q6J6+X7 ירושלים, ישראל",
+        "global_code" : "8G3QQ6J6+X7"
+      },
+      "rating" : 5,
+      "reference" : "ChIJ2UTX1CTXAhUR3TpI9Q-DN2s",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 2,
+      "vicinity" : "באר שבע 19, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7993207,
+          "lng" : 35.195942
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8006942802915,
+            "lng" : 35.19727408029149
+          },
+          "southwest" : {
+            "lat" : 31.7979963197085,
+            "lng" : 35.1945761197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "פארק נחל שורק",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1050,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106677551075817648193\"\u003ePerla Berkowitz\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwII248RQBknpOpwLZIrOKYrIFRyOCzHfVci9PZECjnAgCXhL-pgJ9dBcGlT7u17grBUqBrG6aPG7kMztP3mhLt8bqhE9zm1arhbXqV5XqcpVRDVmoq5ir78v4mYRWL-xaT0y8LX24dS0lgGeBkRxjJaNjBY0AjHV54UxVbRFPH3sIxt",
+          "width" : 1006
+        }
+      ],
+      "place_id" : "ChIJu_oeUj7WAhURfS1_XMQrGHE",
+      "plus_code" : {
+        "compound_code" : "Q5XW+P9 ירושלים, ישראל",
+        "global_code" : "8G3QQ5XW+P9"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJu_oeUj7WAhURfS1_XMQrGHE",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 659,
+      "vicinity" : "ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.77964960000001,
+          "lng" : 35.2100849
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.78099398029149,
+            "lng" : 35.2114164802915
+          },
+          "southwest" : {
+            "lat" : 31.7782960197085,
+            "lng" : 35.2087185197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "פארק סניף לב-העיר",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 1080,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106337299827554869699\"\u003eMoises Zack\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwISJXC0vgBwa-e-b_x76Kak5yTfKt4-g4ahqy88k99ikbJbg0FVcySSD3A1_fQM1S1ULUgqJnl-aokcs-g8oIcRFejvxEcAbLqLMuuN2QqbplAW-MoqcdnlAjduc-SjftJ9BzczXogI2gzQ1S3LXfCAy7DJw0_eAOhn8TrHttezFc36",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJZTqmnCvWAhUReP0qGiHpGQg",
+      "plus_code" : {
+        "compound_code" : "Q6H6+V2 ירושלים, ישראל",
+        "global_code" : "8G3QQ6H6+V2"
+      },
+      "rating" : 3.8,
+      "reference" : "ChIJZTqmnCvWAhUReP0qGiHpGQg",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 4,
+      "vicinity" : "הרב יוסף קאפח 22-24, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7769405,
+          "lng" : 35.18110590000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7783142802915,
+            "lng" : 35.18245733029151
+          },
+          "southwest" : {
+            "lat" : 31.7756163197085,
+            "lng" : 35.17975936970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן אוסטרליה",
+      "photos" : [
+        {
+          "height" : 2268,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116244740815091355342\"\u003eChezi Liberman\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJppWO3QGcqvtPSnvDX6fBIiPmtBLGG8LYHBQTat1uBfmrpdUBf7j08okw7sN_oQ5iqLw7jSuLfyrF6lMm-BVxyHGxL2ALdVg6pvKUbgCr6YO7q44rdhi5wQTeC0W2iLhkh4Jv7pdRCwGg4y3zKMA2nrEf2IZYwdIY2OOgo6sFXPpDd",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJzX5I76_XAhURujzIChq6vOY",
+      "plus_code" : {
+        "compound_code" : "Q5GJ+QC ירושלים, ישראל",
+        "global_code" : "8G3QQ5GJ+QC"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJzX5I76_XAhURujzIChq6vOY",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 93,
+      "vicinity" : "דוד מרדכי מאיר, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.77686730000001,
+          "lng" : 35.1810964
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7782162802915,
+            "lng" : 35.1824453802915
+          },
+          "southwest" : {
+            "lat" : 31.7755183197085,
+            "lng" : 35.1797474197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן אוסטרליה",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 2448,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107038592110322357467\"\u003eLiran Kosman\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwI6Om3DkgW3jSXPu7iK0USKXeLwiwPNBF_GUjXVu2tMFBvlflhHl7Y21oe0Oazz_k0OtlSuHsKwuiZVj7hvH_InXpm_tNTPQG0c71spcKo5LI2BxOYg1ohruTn4oBx2Dn0CnuG0alQ-LWDSPnn6JqpP8XZbtnj9xhDUE6IUyZT-3FdR",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJq7IS76_XAhURrmgVFutJeCQ",
+      "plus_code" : {
+        "compound_code" : "Q5GJ+PC ירושלים, ישראל",
+        "global_code" : "8G3QQ5GJ+PC"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJq7IS76_XAhURrmgVFutJeCQ",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 23,
+      "vicinity" : "ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7898706,
+          "lng" : 35.21123249999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7912503302915,
+            "lng" : 35.21258958029149
+          },
+          "southwest" : {
+            "lat" : 31.7885523697085,
+            "lng" : 35.2098916197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "Parque infantil",
+      "permanently_closed" : true,
+      "place_id" : "ChIJrWltEoHXAhURWTrhD4H9wOc",
+      "plus_code" : {
+        "compound_code" : "Q6Q6+WF ירושלים, ישראל",
+        "global_code" : "8G3QQ6Q6+WF"
+      },
+      "reference" : "ChIJrWltEoHXAhURWTrhD4H9wOc",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "vicinity" : "הזית, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7733553,
+          "lng" : 35.184062
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7746923302915,
+            "lng" : 35.1853986302915
+          },
+          "southwest" : {
+            "lat" : 31.7719943697085,
+            "lng" : 35.1827006697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן זאב חקלאי",
+      "place_id" : "ChIJIw8WTFvXAhURP0uDEAFuyUs",
+      "plus_code" : {
+        "compound_code" : "Q5FM+8J ירושלים, ישראל",
+        "global_code" : "8G3QQ5FM+8J"
+      },
+      "rating" : 3,
+      "reference" : "ChIJIw8WTFvXAhURP0uDEAFuyUs",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1,
+      "vicinity" : "זאב חקלאי 2, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7733299,
+          "lng" : 35.2056127
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7746788802915,
+            "lng" : 35.2069616802915
+          },
+          "southwest" : {
+            "lat" : 31.7719809197085,
+            "lng" : 35.2042637197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "עמק המלבה",
+      "photos" : [
+        {
+          "height" : 1800,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115815856640684076290\"\u003eGilad Pomerantz\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKNumL9wX9t69R5-4mFHKyxmgy69ip20mpYOH18edNEsmHVOx3jOwegkVnSDgW-dwQdAfqLiyd93QNN7lVH2AR3uLocInBxUnrRyZxbarDBXL5UHAByauXq5qB0CVSwjrCJbae8lIvcVFxyWoizkBQBl9OoJZJj2am2kMbHL3zKieye",
+          "width" : 4000
+        }
+      ],
+      "place_id" : "ChIJ_3vHUJjXAhUR0M_I_68mre0",
+      "plus_code" : {
+        "compound_code" : "Q6F4+86 ירושלים, ישראל",
+        "global_code" : "8G3QQ6F4+86"
+      },
+      "rating" : 5,
+      "reference" : "ChIJ_3vHUJjXAhUR0M_I_68mre0",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1,
+      "vicinity" : "ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7742056,
+          "lng" : 35.1820742
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7756552802915,
+            "lng" : 35.1834447302915
+          },
+          "southwest" : {
+            "lat" : 31.7729573197085,
+            "lng" : 35.1807467697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "Ethiopian Jewry Memorial",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 3120,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108055469817201410161\"\u003eJanek R\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLLi_0bqL6j9io7w23_74iD09Ateq2AnezOGVjML2wujbwz4ZttnG0_1erM8DNiwd0-a7fKWp68YzGBd0DGrmrFIDtAjpbig940D0MTeqMM26CbPFloNyVPJHG4U4lErzcHx03MdHZcFQADNw60khVoP-AY__ewX3u0AF0-nL2v-VrR",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJNWZ4tbrXAhUR6KtNwNVxIvs",
+      "plus_code" : {
+        "compound_code" : "Q5FJ+MR ירושלים, ישראל",
+        "global_code" : "8G3QQ5FJ+MR"
+      },
+      "rating" : 5,
+      "reference" : "ChIJNWZ4tbrXAhUR6KtNwNVxIvs",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 4,
+      "vicinity" : "שדרות הרצל 124-128, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7742003,
+          "lng" : 35.1820721
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7756526302915,
+            "lng" : 35.1834436802915
+          },
+          "southwest" : {
+            "lat" : 31.7729546697085,
+            "lng" : 35.1807457197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "אתר ההנצחה לזכר יהודי אתיופיה שנספו בדרכם לישראל",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3120,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/114904880709485141662\"\u003eאפרת וחיים גרבר\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKmTU5PitPdNjtVsogdtoQu5-M64eA4neCV1B847hY-XPlWckz5vu8oTDaFjqgLl0WjYlatAAmjLy3LTAG7f1yWt2KWGV4URXCHtWEvBz6tmbnPv0ozLQYXmDACeCUydaTOF5p9weTBMBCgA4X6GfwX_3LczmoVwPSlyfUp6D2M0FLn",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJAYSGy7rXAhUR1S04a6Csr7Q",
+      "plus_code" : {
+        "compound_code" : "Q5FJ+MR ירושלים, ישראל",
+        "global_code" : "8G3QQ5FJ+MR"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJAYSGy7rXAhUR1S04a6Csr7Q",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 4,
+      "vicinity" : "ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7725712,
+          "lng" : 35.2059168
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.77610410000001,
+            "lng" : 35.20959310000001
+          },
+          "southwest" : {
+            "lat" : 31.7691645,
+            "lng" : 35.20292509999999
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "פארק רחביה",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2336,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101138889743886429531\"\u003eJavan W\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJhHFsP_SKVzR-Bof2UDDfnhpUir36lbLAxWeDWQ6J0488RPrJiTdFRx53gOEWSCUz5hHTCrwkBC39ojVPG2A7g0IY2yHXtUR9uVq4_JcG898KcyyYJnxYQMfBpsaaQfBvuZcPkbd36RKY9dillEgJtvoMTAq9gwtz56oE7gQDq0m68",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJj_WDiNHXAhURa5kDIenSzFk",
+      "plus_code" : {
+        "compound_code" : "Q6F4+29 ירושלים, ישראל",
+        "global_code" : "8G3QQ6F4+29"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJj_WDiNHXAhURa5kDIenSzFk",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1247,
+      "vicinity" : "ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.78293529999999,
+          "lng" : 35.2131514
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7842756302915,
+            "lng" : 35.2146049302915
+          },
+          "southwest" : {
+            "lat" : 31.7815776697085,
+            "lng" : 35.2119069697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "כיכר יצחק לוי",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1080,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102407085378711140112\"\u003eZvi Tavens\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJQ93-FjcT43itItiDeePBQXj8LTgy0d2WMceS-DKzVNTqGYpVaoaS1n1Pw6zdfa8ThA61RtdcZ2-LOHRsnj7bUOfN1Y4wVL7d3HSZN5euT80mW-AYxH6wMfaeavkGKzpdq8nsg71ZxXbtcVBtIKm6b5YLExTwaTBnB4D9dOqJMJpZn",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJLR-262bXAhURI4Nhe7-6oUA",
+      "plus_code" : {
+        "compound_code" : "Q6M7+57 ירושלים, ישראל",
+        "global_code" : "8G3QQ6M7+57"
+      },
+      "rating" : 5,
+      "reference" : "ChIJLR-262bXAhURI4Nhe7-6oUA",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1,
+      "vicinity" : "אוהל משה 17, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7821278,
+          "lng" : 35.1760494
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7835115302915,
+            "lng" : 35.1774072302915
+          },
+          "southwest" : {
+            "lat" : 31.7808135697085,
+            "lng" : 35.1747092697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "יער ירושלים ,הר נוף",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3104,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/114159546589346440272\"\u003eShai Carmi\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLV9ZBXN9opc2SiU1ped7tXXXodYFaxX1HhosA8YPZAZoZrOS8Avf4UzzC5HQoMmPUnw5kTYZB5Qc5TnrIX_tBh8atQblnLz148GZHj-ACJYw4K3Y03tB7oe9cUxYj824-SI1vXGDIwsYAGlKHQg0TQbmRxjOaQ2E92UZuanKzY71Py",
+          "width" : 4192
+        }
+      ],
+      "place_id" : "ChIJbyspUqnXAhUR95Mp06dmOIs",
+      "plus_code" : {
+        "compound_code" : "Q5JG+VC ירושלים, ישראל",
+        "global_code" : "8G3QQ5JG+VC"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJbyspUqnXAhUR95Mp06dmOIs",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 95,
+      "vicinity" : "הרב שמעון אגסי 33, ירושלים"
+    }
+  ],
+  "status" : "OK"
+}

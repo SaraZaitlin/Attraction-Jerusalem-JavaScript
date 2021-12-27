@@ -1,0 +1,707 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "ATtYBwKAYk0RBozw3-PHWda5gwp6JVTH4yP8hxsv54OYA2SbAAQnEN1uqc9O3cKiEy348JiRKmZ1MHSuLqysKfHanR23dk-W4Nhwn-5hnlQfT8E5dq0izwcBYng_cp_Pu1ORW5jDpTWc3SfWqWgxzcBAJKyt7Ia84pLrLC0QJX6VasV542BP5DszVdznIfhYvVhF_81cYDhaHT8bLe3YpB5pIVL3hQM82WXxj8jbnSlMIvkZUXs_n1_2T9m5QI4PKNEOmJJX2B7GdZx9JYaM7PmS-rWzjpq5U1ucGNC5Mz-Zz2r-FWAMrh2yjXbl3H1c5l8SYNS5WGkaNaVmaElOgn6trXY8I19sI-6WxYKlOEIDjNPviR2ZIJpdA0qE5a34veJmd25PZyg5ooRtNpYpTowNTz22YzYGMTnX8r7kocChq0gX_rdyJhbC",
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8343149,
+          "lng" : 35.2391579
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8357183302915,
+            "lng" : 35.24043543029149
+          },
+          "southwest" : {
+            "lat" : 31.8330203697085,
+            "lng" : 35.23773746970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "יער פסגת זאב – נווה יעקב",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1080,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110253468972627841560\"\u003eפסח קוק\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwITYY47ifHxqeyF2yXCw7lj59KuvCd_VgOaat1HNoSkWBMX3OwxrDi9Yt31JYzPZkQcsMYRa2PaYqKan7ua9_xzPTMxwQ9PM5I0oYMDxkM3BcsPKYMiRDYHDsHm5dFU6v32j3bcmWuER0TASiLRSNzzk0Twjcwv4c-6OJCXE6Lq4S8e",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJVeHkBj4qAxURZxbDGLEa_kc",
+      "plus_code" : {
+        "compound_code" : "R6MQ+PM ירושלים",
+        "global_code" : "8G3QR6MQ+PM"
+      },
+      "rating" : 4.2,
+      "reference" : "ChIJVeHkBj4qAxURZxbDGLEa_kc",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 64,
+      "vicinity" : "ואדי אל חפי,, Jerusalem"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8314244,
+          "lng" : 35.2412881
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8327733802915,
+            "lng" : 35.24263708029149
+          },
+          "southwest" : {
+            "lat" : 31.8300754197085,
+            "lng" : 35.2399391197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "פארק ארכיאולוגי",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 2322,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106822650029616227605\"\u003eדן חובב\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLdYS-B1vhEbvLz6b2pNmPPeqs7UZUB51BieJxX8nWwL-qMECnZgDac3IP65Ny-HY3yOJL-JqxI5zi7jJpcqntx_sBNnT8pAoyMjgh33m8xK6qE8tjWReaF2gL_X9eMnDk5sdXLqtvI574FSnqW1Elqq4s5ouHL_N9OsUyo0SGLxyPl",
+          "width" : 4128
+        }
+      ],
+      "place_id" : "ChIJkV1CVEEqAxUR4ctDvUvUehU",
+      "plus_code" : {
+        "compound_code" : "R6JR+HG ירושלים",
+        "global_code" : "8G3QR6JR+HG"
+      },
+      "rating" : 4.1,
+      "reference" : "ChIJkV1CVEEqAxUR4ctDvUvUehU",
+      "scope" : "GOOGLE",
+      "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 252,
+      "vicinity" : "ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8292321,
+          "lng" : 35.23821330000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8305140302915,
+            "lng" : 35.2395513302915
+          },
+          "southwest" : {
+            "lat" : 31.8278160697085,
+            "lng" : 35.2368533697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "פארק ישיבה",
+      "photos" : [
+        {
+          "height" : 2160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102275071233325033492\"\u003eYosef Roitman\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJ8rZbIro1yDZRb3k6A5I7E7e78oaILA4lvqZRFBTUDNMA3gRUspp1r05aPnnE5WcMZVFlS1e5v6zA2nRaJyYeBrlI8x-SB5TL5V2GMaA1WpuxslqLANcPrRfQB5_48PVJTqoKYIVVLkv3CwcozxOns9C-bSs5Hf1ebK_qymtd60rae",
+          "width" : 3840
+        }
+      ],
+      "place_id" : "ChIJr8GmQEAqAxURE97_W1FSGgU",
+      "plus_code" : {
+        "compound_code" : "R6HQ+M7 ירושלים",
+        "global_code" : "8G3QR6HQ+M7"
+      },
+      "rating" : 3.7,
+      "reference" : "ChIJr8GmQEAqAxURE97_W1FSGgU",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 10,
+      "vicinity" : "שדרות משה דיין, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8285308,
+          "lng" : 35.2378465
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.83008343029151,
+            "lng" : 35.2392402802915
+          },
+          "southwest" : {
+            "lat" : 31.82738546970851,
+            "lng" : 35.23654231970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "פארק פסגת זאב",
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111709400396306785923\"\u003eAryeh Beitz\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJe6aQHvN-tvljccRNAU6YHynVKWVcFc9evt1qJMXVHNDNjNUWcOXP7LFP0IaXsjo3D6zxQT8mPGfbKxAD_9AZpbNU6IMucVK7UkBGSpM_MrM1vmRvY0UuII3uqWI9tgmspTJJVkDAbLyKiwCLjpmjcSkOvn-f_801tyaeJDhgbk2B-",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJr8j1EUAqAxURg_x34z-vbpk",
+      "plus_code" : {
+        "compound_code" : "R6HQ+C4 ירושלים",
+        "global_code" : "8G3QR6HQ+C4"
+      },
+      "rating" : 4.1,
+      "reference" : "ChIJr8j1EUAqAxURg_x34z-vbpk",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 429,
+      "vicinity" : "שדרות משה דיין 70, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8352451,
+          "lng" : 35.2375658
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8365420302915,
+            "lng" : 35.2392764802915
+          },
+          "southwest" : {
+            "lat" : 31.8338440697085,
+            "lng" : 35.2365785197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "יער מיר",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1920,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117525614528493962224\"\u003eיעקב אלום\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKgaPQ4_4MbE46CA5wV8D8QguDV0Uz43T5TlxvRHmYbfaIYu83ZQq8JRBSomzSGdfMFvJ8Xy_Ew8g9E_mn4uT38qYxQD44WRnub3lpcFIMPu21BX0nR83hqWSUJ6ZR1-4OtOaDhKeQDh5GtLo8XS3HADPbu_siGsjw5HinVclLKxZDi",
+          "width" : 1080
+        }
+      ],
+      "place_id" : "ChIJTdL0_WcqAxURsiQSS3H_xfw",
+      "plus_code" : {
+        "compound_code" : "R6PQ+32 ירושלים",
+        "global_code" : "8G3QR6PQ+32"
+      },
+      "rating" : 4.1,
+      "reference" : "ChIJTdL0_WcqAxURsiQSS3H_xfw",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 106,
+      "vicinity" : "פסגת זאב - נווה יעקב"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8324584,
+          "lng" : 35.2343352
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8337037802915,
+            "lng" : 35.2357414802915
+          },
+          "southwest" : {
+            "lat" : 31.8310058197085,
+            "lng" : 35.23304351970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גינה קהילתית",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 4128,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117775363176030106838\"\u003eשרלי גבאי\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKWvHvGUTR8avpgxa0ktyisJVYK6N6wT82Iro822fpyptqcvJ9ju6kiwska-UqahWxW4RY21C47fH6h045bgx9VYlwjLATLcprag2nME768qi1gEPyobzuoR1QtxgTXPo3-Qeed_nuF5UWpfSa7ZILEQBRcIoPDIdWxRQidLN4UjC0A",
+          "width" : 2322
+        }
+      ],
+      "place_id" : "ChIJgYR3S2oqAxURcvIeqaGcn5g",
+      "plus_code" : {
+        "compound_code" : "R6JM+XP ירושלים",
+        "global_code" : "8G3QR6JM+XP"
+      },
+      "rating" : 4.2,
+      "reference" : "ChIJgYR3S2oqAxURcvIeqaGcn5g",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 127,
+      "vicinity" : "ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8194478,
+          "lng" : 35.24069600000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8209518302915,
+            "lng" : 35.24203033029151
+          },
+          "southwest" : {
+            "lat" : 31.8182538697085,
+            "lng" : 35.23933236970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן הנופלים",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3480,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104268185367995685566\"\u003eAlon Aharon\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKfof2062CNJGzyeEd1zGfmLCt23QFynGBzWErPPWbhyO7Y2EGN5zODczzTC-KxcHft_YZsGw29M-pS9e1TdORP_o3IeEt4yVUkCHwbELpBwk3EWsaMNhBQnfYaX_JwpUK0wgwT4KyDp8vQCQnCXrw5Q5yC20MNeqNQssXRybeVQyEv",
+          "width" : 4640
+        }
+      ],
+      "place_id" : "ChIJffyM9TwqAxUR1Li3Sar3BnE",
+      "plus_code" : {
+        "compound_code" : "R69R+Q7 ירושלים",
+        "global_code" : "8G3QR69R+Q7"
+      },
+      "rating" : 3.9,
+      "reference" : "ChIJffyM9TwqAxUR1Li3Sar3BnE",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 93,
+      "vicinity" : "מאיר גרשון, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8364421,
+          "lng" : 35.2273141
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8377881302915,
+            "lng" : 35.2285339802915
+          },
+          "southwest" : {
+            "lat" : 31.8350901697085,
+            "lng" : 35.2258360197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "Beit Hanina Park",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106610011359079429899\"\u003eRaymos Javer\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJPRBID4Giu5enDyi1QlNBN7mcZqfHhZgpwPSkczhDPH9zvzNJlb1IPjXv38JqAZhOGMMTvGTu2cdQJFIk4enc7UQd8cAuK7Xt0eZzmKoBgHU_GUjmMZM6cHwdfuz9JBWlt6-1hZCcKF6HrEDC1QVgVHOIn_9Jtb6PE02AYd11fU7jA",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJ5XCZdG4qAxURql3thhIc8g8",
+      "plus_code" : {
+        "compound_code" : "R6PG+HW ירושלים",
+        "global_code" : "8G3QR6PG+HW"
+      },
+      "rating" : 3.6,
+      "reference" : "ChIJ5XCZdG4qAxURql3thhIc8g8",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 307,
+      "vicinity" : "דרך בית חנינא, ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8285227,
+          "lng" : 35.2411164
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.83005706120337,
+            "lng" : 35.24241955032873
+          },
+          "southwest" : {
+            "lat" : 31.82735910062037,
+            "lng" : 35.23972158974573
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן משטרת היישובים",
+      "place_id" : "ChIJv03DwkAqAxURM18ortcOiIo",
+      "reference" : "ChIJv03DwkAqAxURM18ortcOiIo",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8268075,
+          "lng" : 35.2413739
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.82806908547369,
+            "lng" : 35.24281427090354
+          },
+          "southwest" : {
+            "lat" : 31.82537112489069,
+            "lng" : 35.24011631032054
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן הניידות",
+      "place_id" : "ChIJmxB9p0AqAxURMlzUMH970gs",
+      "reference" : "ChIJmxB9p0AqAxURMlzUMH970gs",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.83512829999999,
+          "lng" : 35.2433481
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.83637800400417,
+            "lng" : 35.24525070534143
+          },
+          "southwest" : {
+            "lat" : 31.83368004342118,
+            "lng" : 35.23874781004805
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "יער קהילתי פסגת זאב נווה יעקב",
+      "photos" : [
+        {
+          "height" : 2048,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108055469817201410161\"\u003eJanek R\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKncMTBI1t08fWmy1V-Jz2kTqXTkBCooPzliRS-vUypmPtk9qhQD07MXjwlHCkSbWDxd_o__nIm8Gzw3LngkX3DLZN2yYgGf1xC6Y8ZR3jihUNYUJduXIIjdbZVhYzCPqNEp_-scQXcbqVmHOosTD13dqGErV19wJq-W9Q1o-fT7IQi",
+          "width" : 1536
+        }
+      ],
+      "place_id" : "ChIJ06Tdo0QqAxURss6YGq9noXc",
+      "reference" : "ChIJ06Tdo0QqAxURss6YGq9noXc",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8373729,
+          "lng" : 35.2405585
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.83868363969983,
+            "lng" : 35.24199699915078
+          },
+          "southwest" : {
+            "lat" : 31.83598567911683,
+            "lng" : 35.23929903856778
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן הספרייה",
+      "place_id" : "ChIJUdzTyFwqAxUR-F-bjMCV7K4",
+      "reference" : "ChIJUdzTyFwqAxUR-F-bjMCV7K4",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8396155,
+          "lng" : 35.2414598
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.84093529126377,
+            "lng" : 35.242778138251
+          },
+          "southwest" : {
+            "lat" : 31.83823733068077,
+            "lng" : 35.240080177668
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "פארק פטרי",
+      "photos" : [
+        {
+          "height" : 3120,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/114978040957746038795\"\u003eСтупак Алексей\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKCiQ1CM90he_A_CE6q_0hLwOP7fCRJfOSYSSUwko7ce-kPQx_n-G0HCUdXRmofW7Pb4A7evpPMHtg0NMpoNwg4GJ22Y6xgitG6QGsRpCUatZk92uyRUojXXpFI1ADzJ4HCtdXOv-rPQUsPqpa79hwZKMg-GBUKn8BwXV-FL5htljBH",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJv3smZVwqAxURXf74gICBYys",
+      "reference" : "ChIJv3smZVwqAxURXf74gICBYys",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8348219,
+          "lng" : 35.232275
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.83618749555381,
+            "lng" : 35.23367218540017
+          },
+          "southwest" : {
+            "lat" : 31.83348953497081,
+            "lng" : 35.23097422481717
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן הגבורה",
+      "photos" : [
+        {
+          "height" : 4208,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109572123248181908164\"\u003eצביקי א\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLp6ajsTW74LSTnN0FE25opcpbvstbSb3adYD21T_bYVpaZJryuJUmMsE5-rN72rm1oMr0l5A4AFZsBA2IrTA3UoaSVl4RjAWs4HKP68rtOV6pnlKJhDC8yAdJvjned79aUN0prBQSCIL9VMD0skXBdF-mhs1LFV5T2X_wn5GqDijrP",
+          "width" : 3120
+        }
+      ],
+      "place_id" : "ChIJUzhEWWkqAxURPdkRJ7AaCf4",
+      "reference" : "ChIJUzhEWWkqAxURPdkRJ7AaCf4",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8391544,
+          "lng" : 35.2446356
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.84050626732983,
+            "lng" : 35.24593743081673
+          },
+          "southwest" : {
+            "lat" : 31.83780830674684,
+            "lng" : 35.24323947023373
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן המדרגות",
+      "place_id" : "ChIJ6zj2zlsqAxURT1HebLD1sPw",
+      "reference" : "ChIJ6zj2zlsqAxURT1HebLD1sPw",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8384175,
+          "lng" : 35.2346786
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.83993077447293,
+            "lng" : 35.23588505709976
+          },
+          "southwest" : {
+            "lat" : 31.83723281388993,
+            "lng" : 35.23318709651677
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "פארק המים",
+      "place_id" : "ChIJjzGEeWgqAxURN_zqxn5lisQ",
+      "reference" : "ChIJjzGEeWgqAxURN_zqxn5lisQ",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8203973,
+          "lng" : 35.2363096
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8217102540396,
+            "lng" : 35.24334800333993
+          },
+          "southwest" : {
+            "lat" : 31.8190122934566,
+            "lng" : 35.23477222575089
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "פארק מרכזי",
+      "photos" : [
+        {
+          "height" : 3120,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110076190374342734176\"\u003eАндрей Ефремов\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLtTiFskA1vBw258jSx9ThX7pxi4lL8JgaBdpqeyxIX-X_SdOPYtjZPdowhkJbQKI5bfCJjiuQWj7bAMLEXld7Ovf-OrPRc66yPaYFG-WV9QZ2fzNWM7R1in2i1eoRd4nnjxTM_YBThpmwOc9vC6RbPibGo3sDz9jFrUBfcD_c2vsCZ",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJ_ZOP9jsqAxUReT44b_WR5DE",
+      "reference" : "ChIJ_ZOP9jsqAxUReT44b_WR5DE",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.82115869999999,
+          "lng" : 35.2374684
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.82253267404463,
+            "lng" : 35.23888508952615
+          },
+          "southwest" : {
+            "lat" : 31.81983471346163,
+            "lng" : 35.23618712894315
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן פרחי השכונה",
+      "place_id" : "ChIJ9f3cjz0qAxURedxrXPex8JQ",
+      "reference" : "ChIJ9f3cjz0qAxURedxrXPex8JQ",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.84292929999999,
+          "lng" : 35.2418031
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.84431598653502,
+            "lng" : 35.24310052276222
+          },
+          "southwest" : {
+            "lat" : 31.84161802595202,
+            "lng" : 35.24040256217923
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן השבלול",
+      "photos" : [
+        {
+          "height" : 2160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113519620887808261507\"\u003eMichael Nishlyuk\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwL_GROgM8USu2GbiL4TJdobzYKZjFfQK1BQAQZSfe-BgCqoXDzHPCws-3ClS1hkZQxPXIMNsC3GQWxK3tLlNzaIy1BxLc8seAa_F0M-DAo2UkdkgDe5QxFK5y-5KC2jUaDRJgJB81sHuJvsHLjBe0KEg0Nlub9uFYhgnFcD5mfugs8a",
+          "width" : 3840
+        }
+      ],
+      "place_id" : "ChIJgSluyF4qAxURmpt5BuBm2OE",
+      "reference" : "ChIJgSluyF4qAxURmpt5BuBm2OE",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8421812,
+          "lng" : 35.2468671
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.84372168702127,
+            "lng" : 35.24810957752708
+          },
+          "southwest" : {
+            "lat" : 31.84102372643827,
+            "lng" : 35.24541161694408
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן כפר עברי",
+      "place_id" : "ChIJJSYEy1kqAxURAmtjtWftlYg",
+      "reference" : "ChIJJSYEy1kqAxURAmtjtWftlYg",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    }
+  ],
+  "status" : "OK"
+}

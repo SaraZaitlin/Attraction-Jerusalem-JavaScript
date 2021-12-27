@@ -1,0 +1,253 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7954813,
+          "lng" : 35.2076965
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.79684538029149,
+            "lng" : 35.20907803029151
+          },
+          "southwest" : {
+            "lat" : 31.79414741970849,
+            "lng" : 35.20638006970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "OLIVE",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102775360260987708505\"\u003eשמחה מרגלית\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwI68fZOk-AjTk5semwPOebYMQiLX8g7hxOLox_mH6ZFqqWsSBsTP1IQm7-b1dNURHPpjzeNESkazxdP1-Ai2Y9BAHErI8wN4sipuCi6SZGen29zQChOpnMZrKP7acEdH1RZG4Tj5Ru0qGt8vpJ4dO2Gunqm3eAX813udLJ32Q5eikYZ",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJbXAEWlvXAhUR_E5n7DCsGnk",
+      "plus_code" : {
+        "compound_code" : "Q6W5+53 ירושלים, ישראל",
+        "global_code" : "8G3QQ6W5+53"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJbXAEWlvXAhUR_E5n7DCsGnk",
+      "scope" : "GOOGLE",
+      "types" : [
+        "restaurant",
+        "shopping_mall",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total" : 112,
+      "vicinity" : "שמגר 25, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.79689639999999,
+          "lng" : 35.2132868
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.79828438029149,
+            "lng" : 35.2145653802915
+          },
+          "southwest" : {
+            "lat" : 31.7955864197085,
+            "lng" : 35.2118674197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "קייטרינג בית ישראל",
+      "place_id" : "ChIJt-6olR_WAhURIb9BowM98uc",
+      "plus_code" : {
+        "compound_code" : "Q6W7+Q8 ירושלים, ישראל",
+        "global_code" : "8G3QQ6W7+Q8"
+      },
+      "reference" : "ChIJt-6olR_WAhURIb9BowM98uc",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "עזרת תורה 18, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7948185,
+          "lng" : 35.2083683
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7961306302915,
+            "lng" : 35.2095843302915
+          },
+          "southwest" : {
+            "lat" : 31.7934326697085,
+            "lng" : 35.20688636970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "ביג בייט",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 6480,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105620352900435234852\"\u003eאושרי כהן\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLk5dqdK_51EA3MEznWYuHd0_qdfkXQ3BP072aB2gd4GvPIrNau_W6dRb3bx3TNI9WmjyPRw0PLE1QmOsUcv3pPv1TVSqKiwYCGGZ_MXNA9GX1jpRE9uA55WrH_Q31rL39nyQad5ns-3QQ-Owywjkp_67Gy6Ry4GJWL6S0khO1hPjFX",
+          "width" : 11520
+        }
+      ],
+      "place_id" : "ChIJr-Q4zCPWAhURKUitFT4_NKw",
+      "plus_code" : {
+        "compound_code" : "Q6V5+W8 ירושלים, ישראל",
+        "global_code" : "8G3QQ6V5+W8"
+      },
+      "price_level" : 2,
+      "rating" : 4.4,
+      "reference" : "ChIJr-Q4zCPWAhURKUitFT4_NKw",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 346,
+      "vicinity" : "שמגר 16, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7945426,
+          "lng" : 35.2084508
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.79586018029149,
+            "lng" : 35.2096752802915
+          },
+          "southwest" : {
+            "lat" : 31.7931622197085,
+            "lng" : 35.2069773197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "פיש בייט",
+      "photos" : [
+        {
+          "height" : 1200,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/114613791412410665339\"\u003emendel khafif\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJOBwJERsjs6J0NdUENYpsUn4qvkuopjmSOjv3Er-L9VbM5JK7ifUpsm-Gl36s1ZtmQosn8inAzx7nQ5wYxb_05-xPXrwEr3-rH04WmEavnORr1cCR2Hwe24tbPUVo5qR1pRLTZqi68q9lNn7WK-DJQGE5iqXR1x8Jcl5W6d1m_OZ2W",
+          "width" : 1600
+        }
+      ],
+      "place_id" : "ChIJBQkwzCPWAhURkCNzAgq9WvY",
+      "plus_code" : {
+        "compound_code" : "Q6V5+R9 ירושלים, ישראל",
+        "global_code" : "8G3QQ6V5+R9"
+      },
+      "rating" : 4.1,
+      "reference" : "ChIJBQkwzCPWAhURkCNzAgq9WvY",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 16,
+      "vicinity" : "שמגר 16, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8005719,
+          "lng" : 35.2201067
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8019382802915,
+            "lng" : 35.22142478029149
+          },
+          "southwest" : {
+            "lat" : 31.7992403197085,
+            "lng" : 35.2187268197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "מאפיות סנהדריה",
+      "place_id" : "ChIJO_atwt8pAxURbhbydhcAXSA",
+      "plus_code" : {
+        "compound_code" : "R62C+62 ירושלים, ישראל",
+        "global_code" : "8G3QR62C+62"
+      },
+      "rating" : 5,
+      "reference" : "ChIJO_atwt8pAxURbhbydhcAXSA",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 3,
+      "vicinity" : "ים סוף, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.79442809999999,
+          "lng" : 35.20862049999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.79573063029149,
+            "lng" : 35.20978538029149
+          },
+          "southwest" : {
+            "lat" : 31.7930326697085,
+            "lng" : 35.20708741970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "בורגר בייט",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102213667811365800984\"\u003eShea Stern\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwK6s6trjDHgeUJwk745Y2BfMNM-q39Is51Yg3kmiLkahijsL4pSnZplF5Gn8K4VkpNL_ekDeI_bH7xIG5SIZUN6gGfG7p87q3WS_N6cSEZvWLXzkdwYpJwvuAxIGPXBaYl7Zex2LmN9AEhjilzUkMYxkg7Xm5-Ic5Kz93iks3_4UnPE",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJg6sIziPWAhURztQgUXI-6uE",
+      "plus_code" : {
+        "compound_code" : "Q6V5+QC ירושלים, ישראל",
+        "global_code" : "8G3QQ6V5+QC"
+      },
+      "price_level" : 2,
+      "rating" : 4.4,
+      "reference" : "ChIJg6sIziPWAhURztQgUXI-6uE",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 214,
+      "vicinity" : "שמגר 16, ירושלים"
+    }
+  ],
+  "status" : "OK"
+}

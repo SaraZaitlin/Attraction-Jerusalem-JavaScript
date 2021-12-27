@@ -1,0 +1,820 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "ATtYBwLcbjjgh8bNG1iqklF1O41cUyehJK9f44OlzUR6tYql6xk108AC5YquVRuzrs_aL1BjsrTl_2KA3XB5M05IUFyom0LatcA9twByv-xjlIPpYGer49kcDQgOBBvfUVAn1QAKZ7Fqjvz15q08G82QfCSGj2BA0CJsHKgDxe35cLZARGIY4RL4unQ64gAq5OxOaQ-Y4oBGSApRH3unUvI3vt4lzs_dvPCirYiLB5rITZ6IHTcutBqDE3jGRvo0zr_1sH-bt-BswbvNNQj_t8979GhRNOTHoZSgE3j6LAM7cB20Rc4kJ-ihh2mkuB0orokEhMsal6-zlrQILVu16WwC1SZVyY1nn49uLxviYuqXWfSzv0JowvdYxrsu_HXM0mRPvYy202SoNVnIkBC1qLOSIRxX9ebGyVN-GclQc9nDW05d_k0AKajfzzE",
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.80355,
+          "lng" : 35.23048939999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8049299802915,
+            "lng" : 35.23183188029149
+          },
+          "southwest" : {
+            "lat" : 31.8022320197085,
+            "lng" : 35.2291339197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "The Abba Cave",
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117888116294977419020\"\u003eשלום בן דוד\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIJPnVap2GwE0TsPYLZQ9lHvsGalASOMKAHt0L91za0ovKZi5Uy52RUs43LkAyJT2M02auOEpiP6LO-_aFHssfvx3bZne_hXViFowLlM3KAdIu1fneFROTW0j0-7_1jaoEDftr40gOFbIU5HywZviwUt3tJUh3loeUu5TRFNEhXbWa7",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJFeqrb_EpAxURK8KyzE1X8pI",
+      "plus_code" : {
+        "compound_code" : "R63J+C5 ירושלים",
+        "global_code" : "8G3QR63J+C5"
+      },
+      "rating" : 4,
+      "reference" : "ChIJFeqrb_EpAxURK8KyzE1X8pI",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 14,
+      "vicinity" : "מדבר סיני 24, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7843694,
+          "lng" : 35.2357785
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.78567218029149,
+            "lng" : 35.23737698029149
+          },
+          "southwest" : {
+            "lat" : 31.78297421970849,
+            "lng" : 35.23467901970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "מוזיאון רוקפלר לארכאולוגיה",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3472,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117468439938258232063\"\u003eDina Bova\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIqDHcpH-cr2mMV6ykoiVLlRfMRuQHQOL5AkMyr9f9DlbGJ7FWJCj0bEAPWnIDEYv99rWEKhsS2VxwIHlMTQzGYKfmq3TAe8G99L1QsatK9aL5Yf5DDX1Q3gvfpFTxLgQObtssFCzorX4ss-1RMYCVVNrH_r0y_lxMM0yEFb71YdVLt",
+          "width" : 4624
+        }
+      ],
+      "place_id" : "ChIJBXEhs8ApAxURsFDkXIhhTwQ",
+      "plus_code" : {
+        "compound_code" : "Q6MP+P8 ירושלים",
+        "global_code" : "8G3QQ6MP+P8"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJBXEhs8ApAxURsFDkXIhhTwQ",
+      "scope" : "GOOGLE",
+      "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 466,
+      "vicinity" : "Sultan Suleiman St 27 Jerusalem"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7806325,
+          "lng" : 35.23394020000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.78182698029149,
+            "lng" : 35.2350768802915
+          },
+          "southwest" : {
+            "lat" : 31.7791290197085,
+            "lng" : 35.2323789197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "מוזיאון טרה סנטה",
+      "photos" : [
+        {
+          "height" : 4000,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107725969645064529044\"\u003eTerra Sancta Museum\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJeaf9MqM76id4D33F33XV4gXiq2cbRwmOicwzI-tx1O-enlAROku-XxT5z_uD4xW_C4hattWY9FswjUbZmQQMf8bpoi8bZlLbxlco8S-am588ko3tZwFRyEcNO5hKk2BrWFPwnHUXojGXRSBuLDgyOkQQqdEPFK4rh1QhK0pzcxMOz",
+          "width" : 6000
+        }
+      ],
+      "place_id" : "ChIJhdFSs88pAxURgoqxBwewC3A",
+      "plus_code" : {
+        "compound_code" : "Q6JM+7H ירושלים",
+        "global_code" : "8G3QQ6JM+7H"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJhdFSs88pAxURgoqxBwewC3A",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 61,
+      "vicinity" : "ויה דולורוזה 1, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.78175229999999,
+          "lng" : 35.2241424
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7830511302915,
+            "lng" : 35.2253522302915
+          },
+          "southwest" : {
+            "lat" : 31.7803531697085,
+            "lng" : 35.2226542697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "מוזיאון אסירי המחתרות",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 683,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112800571858697765265\"\u003eYulia Kuzmina\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKQMiHrqlqCLfnrHtulY3VYivcJQV4ucAu0MJGeK8alXv2ZjXjtlECc7-jrVcNV6D7vKDNzcv11S8TMsYef26ZOlCmbngyJlPXJey1m58KRx71CDYEVvTfoUdPOtAEBO5JPQm0mGcPIQoSfngichp5e4Wb0vPL15pK42QAKk2IKAb5I",
+          "width" : 1024
+        }
+      ],
+      "place_id" : "ChIJsX5zQtApAxUR0yuiYiAxgNc",
+      "plus_code" : {
+        "compound_code" : "Q6JF+PM ירושלים, ישראל",
+        "global_code" : "8G3QQ6JF+PM"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJsX5zQtApAxUR0yuiYiAxgNc",
+      "scope" : "GOOGLE",
+      "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 452,
+      "vicinity" : "Israel"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7801291,
+          "lng" : 35.2202954
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7814435302915,
+            "lng" : 35.2216481302915
+          },
+          "southwest" : {
+            "lat" : 31.7787455697085,
+            "lng" : 35.2189501697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "מוזיאון ידידי ישראל",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 2560,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101544640567359955999\"\u003eFriends of Zion Museum\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKwHf4sXEI8_EyBVnHi5dT_InVtu-x5cf07vMPEZrRSpwh1pctarDoH8Azgl5rRKrAIrSG1F1GpFxWw7DSpDSdlnnc7Y3KZa6iucXQnGk_zWUKpIw85XDX-y3ghu0j7J3-FR31HniQSzzXjYnd34M65P-NScfO7jp2x8b1x7OFmkBiz",
+          "width" : 3840
+        }
+      ],
+      "place_id" : "ChIJq2uBNNEpAxURVFpE1-pETpk",
+      "plus_code" : {
+        "compound_code" : "Q6JC+34 ירושלים, ישראל",
+        "global_code" : "8G3QQ6JC+34"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJq2uBNNEpAxURVFpE1-pETpk",
+      "scope" : "GOOGLE",
+      "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1370,
+      "vicinity" : "יוסף ריבלין 20, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7842528,
+          "lng" : 35.23596670000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7855841802915,
+            "lng" : 35.2374652802915
+          },
+          "southwest" : {
+            "lat" : 31.7828862197085,
+            "lng" : 35.2347673197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "רשות העתיקות",
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113942656331542902917\"\u003eLa Fuma\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIi37JhK_11x8ymWpAqwUCpGzf9yQsk7KkMc53z0UuDD4Dd6Ae5maxCqIsSuQ7_Sx2FILGRTqSTDbX8IJG2KhINCwTduirzEVJWY3RV8H1ahvEvqKyfkVnlMNl0LtZ6QiTcxW6qUVOb7rKMve5Ef7JhiK4nHlFWiYiUwfERj5FKFJkH",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJS_zBNNbXAhUROcCbGbvI9Wg",
+      "plus_code" : {
+        "compound_code" : "Q6MP+P9 ירושלים",
+        "global_code" : "8G3QQ6MP+P9"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJS_zBNNbXAhUROcCbGbvI9Wg",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 69,
+      "vicinity" : "מוזיאון רוקפלר, סולטן סולימאן, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.78617089999999,
+          "lng" : 35.2267788
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.78753918029149,
+            "lng" : 35.2282540802915
+          },
+          "southwest" : {
+            "lat" : 31.7848412197085,
+            "lng" : 35.2255561197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "מוזיאון על התפר",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1175,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107651329190735275454\"\u003eEli Katz\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJidKZPrJCyF6qTCA7iH3yP6qk9xPBT_toldnspOxMLz3LswQuAEHC9iwskuIx3Lk1GY5RJEAfCJ78SGysoRCw5at50NnceQMNComHtDD7fkNXjf-f_RypOx3FsgVNsjExm00Gs3dljD6ZIko-Tb8tusoLBzz8edEcvaKezNS4vItfr",
+          "width" : 1812
+        }
+      ],
+      "place_id" : "ChIJgwDqNNbXAhURPuCyWbfa1ns",
+      "plus_code" : {
+        "compound_code" : "Q6PG+FP ירושלים, ישראל",
+        "global_code" : "8G3QQ6PG+FP"
+      },
+      "rating" : 4,
+      "reference" : "ChIJgwDqNNbXAhURPuCyWbfa1ns",
+      "scope" : "GOOGLE",
+      "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 378,
+      "vicinity" : "חיל ההנדסה 4, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7981136,
+          "lng" : 35.2278276
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7991931302915,
+            "lng" : 35.2291595302915
+          },
+          "southwest" : {
+            "lat" : 31.7964951697085,
+            "lng" : 35.2264615697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "גבעת התחמושת - המרכז למורשת ששת הימים ושחרור ירושלים",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 2848,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102940935885949842366\"\u003eגבעת התחמושת - המרכז למורשת ששת הימים ושחרור ירושלים\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKxDzAf3ZstCjN47VEyeG6bTIUMbpwAcws3MmM3H5GwetpzdOpRiUdYtAZOK8_55RpFHRiotZmIoNTkmVnzUDRKrYlhuSfBpvAtYqbhPlHkVet3BkJiWA6ksGlLcvFNUwgiEiYhQwyM8dVT6kk4cY6FF0YEwxPXyl75GqgtVykUruOr",
+          "width" : 4288
+        }
+      ],
+      "place_id" : "ChIJM4zgNu4pAxURZWlLKWKgAKg",
+      "plus_code" : {
+        "compound_code" : "Q6XH+64 ירושלים",
+        "global_code" : "8G3QQ6XH+64"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJM4zgNu4pAxURZWlLKWKgAKg",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "art_gallery", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 2592,
+      "vicinity" : "שלמה זלמן שרגאי 5, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.79289,
+          "lng" : 35.232099
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7942078302915,
+            "lng" : 35.2334533302915
+          },
+          "southwest" : {
+            "lat" : 31.7915098697085,
+            "lng" : 35.2307553697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "Bostoner Rebbe",
+      "place_id" : "ChIJwd7sz-spAxURPEeTiLfR19E",
+      "plus_code" : {
+        "compound_code" : "Q6VJ+5R ירושלים",
+        "global_code" : "8G3QQ6VJ+5R"
+      },
+      "reference" : "ChIJwd7sz-spAxURPEeTiLfR19E",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "דרך הר הזיתים, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7991917,
+          "lng" : 35.2280628
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8003010802915,
+            "lng" : 35.2298998802915
+          },
+          "southwest" : {
+            "lat" : 31.7976031197085,
+            "lng" : 35.2272019197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "גבעת התחמושת - המרכז למורשת ששת הימים בירושלים",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "place_id" : "ChIJPy79sNkpAxURV4uBgZ3MSUk",
+      "plus_code" : {
+        "compound_code" : "Q6XH+M6 ירושלים",
+        "global_code" : "8G3QQ6XH+M6"
+      },
+      "reference" : "ChIJPy79sNkpAxURV4uBgZ3MSUk",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "שלמה זלמן שרגאי 5, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.78849020000001,
+          "lng" : 35.23100660000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7897770802915,
+            "lng" : 35.2323842302915
+          },
+          "southwest" : {
+            "lat" : 31.7870791197085,
+            "lng" : 35.2296862697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "Alnayzak Innovation Lab",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3456,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117803286946622582753\"\u003eAlnayzak Innovation Lab\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJyuIse6FQ9SPfPzwJ5xT25hbdupsMqZy9h29j21ggfx8BjKByYoKauNyl95sMcXnsQWuIoSmjVGLmmz_JLs4-GQZ7Ogss-sQMo3UMFT9fCEMNSQ3FvNBuIcJTON6PoPMyCsrplhFx6RWeE8CG7jeRtoOlPVyLqhPVb82zgKaf1Uzft",
+          "width" : 5184
+        }
+      ],
+      "place_id" : "ChIJk3BVJsIpAxUR8Uz-DQcfzgY",
+      "plus_code" : {
+        "compound_code" : "Q6QJ+9C ירושלים",
+        "global_code" : "8G3QQ6QJ+9C"
+      },
+      "rating" : 3.7,
+      "reference" : "ChIJk3BVJsIpAxUR8Uz-DQcfzgY",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 22,
+      "vicinity" : "עלי אבן אבו טאלב 9, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7891005,
+          "lng" : 35.2462569
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7904561802915,
+            "lng" : 35.2475660802915
+          },
+          "southwest" : {
+            "lat" : 31.7877582197085,
+            "lng" : 35.24486811970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "Temple Mount Sifting Project - Parking",
+      "place_id" : "ChIJN_F1H-UpAxURtQV-Qz0pEDc",
+      "plus_code" : {
+        "compound_code" : "Q6QW+JG ירושלים",
+        "global_code" : "8G3QQ6QW+JG"
+      },
+      "reference" : "ChIJN_F1H-UpAxURtQV-Qz0pEDc",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "Hadassa Lempel St., ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7889701,
+          "lng" : 35.24725960000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7903527302915,
+            "lng" : 35.2486759802915
+          },
+          "southwest" : {
+            "lat" : 31.7876547697085,
+            "lng" : 35.24597801970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "מצפה המשואות",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3840,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106668583965754587255\"\u003eמצפה המשואות\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKDfiFGgiLYx_tZOcJoGMwkJHvZfLDFc4lm3a9EgWmPSrdIS5sYzf1o_F_6F0ukkzC30mu97Y-kPEUAEOHpHXYfqtlI7OdkoyRpTWC_LKV_iPBXdCubH9iQuXTExLadxkoRlREnNqTxnc90F3Swuc90EGntQXd2zmr-PV435p4Ip9qh",
+          "width" : 5760
+        }
+      ],
+      "place_id" : "ChIJo44jIlApAxURo98O-d49o3o",
+      "plus_code" : {
+        "compound_code" : "Q6QW+HW ירושלים",
+        "global_code" : "8G3QQ6QW+HW"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJo44jIlApAxURo98O-d49o3o",
+      "scope" : "GOOGLE",
+      "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 34,
+      "vicinity" : "מרטין בובר 14, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7881116,
+          "lng" : 35.2204668
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7894358802915,
+            "lng" : 35.2218133302915
+          },
+          "southwest" : {
+            "lat" : 31.7867379197085,
+            "lng" : 35.2191153697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "Kedush art",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 4032,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/100453537156845353929\"\u003edavid shachar\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwI3LK0QkbIEzsbzzRLcaSSB_oUWUcMWSDA3T2uN7fkhRIJQB_weodl_9MJ1KS6SdsyPYKX8q4o8o6wQOpDOqtlnUQEtwe3UjNJ9rD-troIiXIlKlRd-yzsWHGmAGoPyK4BEewK3lmA_JXz88kgKxrQNn-2NVRPRkoiLjv-fDMxxFK67",
+          "width" : 3024
+        }
+      ],
+      "place_id" : "ChIJGxjFyUUpAxUR1wpgGkF5zh4",
+      "plus_code" : {
+        "compound_code" : "Q6QC+65 ירושלים, ישראל",
+        "global_code" : "8G3QQ6QC+65"
+      },
+      "reference" : "ChIJGxjFyUUpAxUR1wpgGkF5zh4",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "מאה שערים 21, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.78185,
+          "lng" : 35.235527
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7831989802915,
+            "lng" : 35.2368759802915
+          },
+          "southwest" : {
+            "lat" : 31.7805010197085,
+            "lng" : 35.2341780197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "מלון פנורמה פראג",
+      "photos" : [
+        {
+          "height" : 3268,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102418284306110819402\"\u003eKelly W. Peavey\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLXmQGzrfPc9G7k-GPTrHI5Lydvr0oGhBVr5n1AaBoX6lWdSA5wcuMgrW8TAnugFdNEFlOI4UrQHfPzYeuEp-2p0OMTXjDWJE9IfrPqAmwO0SzIfmlfU4CidZ7VFBSJnRBO04MMdjJEVe6f1yI211L0JUQ8dSWDfOCHwy_fAS80Rnu4",
+          "width" : 4895
+        }
+      ],
+      "place_id" : "ChIJdR-9cscpAxURKOpQN8BqawA",
+      "plus_code" : {
+        "compound_code" : "Q6JP+P6 ירושלים",
+        "global_code" : "8G3QQ6JP+P6"
+      },
+      "rating" : 3.6,
+      "reference" : "ChIJdR-9cscpAxURKOpQN8BqawA",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 11,
+      "vicinity" : "ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.78167449999999,
+          "lng" : 35.2305305
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.78302348029149,
+            "lng" : 35.2318794802915
+          },
+          "southwest" : {
+            "lat" : 31.78032551970849,
+            "lng" : 35.2291815197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "מוזיאון הכיכר הרומית",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 1920,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117604786550176710141\"\u003eNachum Applbaum\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwI7gPaotsoz4hg_8SWWcgnk9WW_uTOjNWxb1CKgboE46rXj2Zlk4SviRUxuu9ckF5lh4asVR7iXnLIUaiF71EJEX5G4KNIbt55rblXGexhvzr943Q7C2YgGt8FD5YFOA9P62xopt-v38gDP_iOzuRKr_BGDLaobnuRcHuwd4LML_xhO",
+          "width" : 1080
+        }
+      ],
+      "place_id" : "ChIJZwqTwsUpAxURM68qVbrYpsw",
+      "plus_code" : {
+        "compound_code" : "Q6JJ+M6 ירושלים",
+        "global_code" : "8G3QQ6JJ+M6"
+      },
+      "reference" : "ChIJZwqTwsUpAxURM68qVbrYpsw",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7824213,
+          "lng" : 35.2259718
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7837599302915,
+            "lng" : 35.2272857802915
+          },
+          "southwest" : {
+            "lat" : 31.7810619697085,
+            "lng" : 35.2245878197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "Magic Garden",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 800,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112799310643370250749\"\u003eturbo jambon\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLvS3HvtwWeH2SdvaxiNh3Nq3FBAodjmx8nWyfXiRV4PZqPSeDRdlXaUTsclq1ExiAWE3UXZYv2f6Wpsev9XBZyjPff9RTTf09gyFt8SiVBHCD_U3zz2hDEe93QV-nsZ29P0DIqTAkkynR-6rqnC7Vey-x_EYSyedenwsiGRvEgO8rp",
+          "width" : 1200
+        }
+      ],
+      "place_id" : "ChIJMzjQnFwpAxURfUt4Ny1YMeI",
+      "plus_code" : {
+        "compound_code" : "Q6JG+X9 ירושלים, ישראל",
+        "global_code" : "8G3QQ6JG+X9"
+      },
+      "reference" : "ChIJMzjQnFwpAxURfUt4Ny1YMeI",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "Unnamed Road, Jerusalem"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7822556,
+          "lng" : 35.2260389
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.78362933029149,
+            "lng" : 35.2273430802915
+          },
+          "southwest" : {
+            "lat" : 31.7809313697085,
+            "lng" : 35.2246451197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "גן קסמים",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 800,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112799310643370250749\"\u003eturbo jambon\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIIWJThbw_CSt8zDTT613dfF_fw442Eh5dBB7k3snxz0iyvcyHABMnHwdy5y79Tu7NL4qg-NLFUyzqY3anasav50hIn6N7tQKHY6HH7KtVxIrcSFUJ45AxYaWf48BOeEsNIFwPgeIPqYVdlTnoj368mjmBcg8MDhi9ufIHrLZKUmLSf",
+          "width" : 1200
+        }
+      ],
+      "place_id" : "ChIJfQKXVPApAxUR4hXFG3S_mTQ",
+      "plus_code" : {
+        "compound_code" : "Q6JG+WC ירושלים, ישראל",
+        "global_code" : "8G3QQ6JG+WC"
+      },
+      "reference" : "ChIJfQKXVPApAxUR4hXFG3S_mTQ",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "Unnamed Road, Jerusalem"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7838441,
+          "lng" : 35.220514
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7852367802915,
+            "lng" : 35.2218787302915
+          },
+          "southwest" : {
+            "lat" : 31.7825388197085,
+            "lng" : 35.2191807697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "Azrieli Gallery",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 1576,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/118371245462509220954\"\u003eAzrieli Gallery\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwK5JzdFTK6S1JL7iyv5NQcWWXv3s7QrBtRi9qKbi7l_fZQNN00VZoapZRN-lCo6TI7SwJd8XM6N_kvSY0kIPJXPuvb9dhmcmb4KC9gLj4Kq8u3yElaN0CucW5GBILA2eFCaYiLXrfyqyOm5su0FWTpG_PojpSino79u4yPQFtaV7eZa",
+          "width" : 2362
+        }
+      ],
+      "place_id" : "ChIJvW2_-YYpAxURkGcQVtKS-pQ",
+      "plus_code" : {
+        "compound_code" : "Q6MC+G6 ירושלים, ישראל",
+        "global_code" : "8G3QQ6MC+G6"
+      },
+      "rating" : 4,
+      "reference" : "ChIJvW2_-YYpAxURkGcQVtKS-pQ",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 2,
+      "vicinity" : "הנביאים 39, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7856801,
+          "lng" : 35.2182031
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.78721303029149,
+            "lng" : 35.2195063802915
+          },
+          "southwest" : {
+            "lat" : 31.78451506970849,
+            "lng" : 35.2168084197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "פתחא דקרתא",
+      "place_id" : "ChIJIR3jYyIpAxURrK17AV_HEbI",
+      "plus_code" : {
+        "compound_code" : "Q6P9+77 ירושלים, ישראל",
+        "global_code" : "8G3QQ6P9+77"
+      },
+      "reference" : "ChIJIR3jYyIpAxURrK17AV_HEbI",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    }
+  ],
+  "status" : "OK"
+}

@@ -1,0 +1,283 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7946681,
+          "lng" : 35.2078678
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7960360302915,
+            "lng" : 35.2092918802915
+          },
+          "southwest" : {
+            "lat" : 31.7933380697085,
+            "lng" : 35.2065939197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "Jerusalem Leather Bindings | כריכה מקורית",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "place_id" : "ChIJIbH3tSPWAhURf7dfQ9F2Omw",
+      "plus_code" : {
+        "compound_code" : "Q6V5+V4 ירושלים, ישראל",
+        "global_code" : "8G3QQ6V5+V4"
+      },
+      "rating" : 5,
+      "reference" : "ChIJIbH3tSPWAhURf7dfQ9F2Omw",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 3,
+      "vicinity" : "שמגר 21, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7921615,
+          "lng" : 35.2098622
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.79359943029149,
+            "lng" : 35.21123993029149
+          },
+          "southwest" : {
+            "lat" : 31.79090146970849,
+            "lng" : 35.2085419697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "מרכז מסחרי פסגות ירושלים",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 1080,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113328453233998995360\"\u003eיוחנן סטיפנסקי\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIgGYgvVw8UPqRxeTBVwn5th65i4L3z6_wQRqeMgKNlr8QVtqkM23sNzQ8aop8Qu-PpXSCXCUNSN2_2a8UvnhmGLRgY6-T_dXl3RZEA54ktnvbnL-p-DaWqaXaQ_pbGQG2RhbcoonUkZJ3--SNbnah2VN3RUOIuOoM9URnkRmsxNGvr",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJU-wqVyHWAhURnE03GaOFbSQ",
+      "plus_code" : {
+        "compound_code" : "Q6R5+VW ירושלים, ישראל",
+        "global_code" : "8G3QQ6R5+VW"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJU-wqVyHWAhURnE03GaOFbSQ",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 10,
+      "vicinity" : "ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7950034,
+          "lng" : 35.20770239999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7963773302915,
+            "lng" : 35.20914788029149
+          },
+          "southwest" : {
+            "lat" : 31.7936793697085,
+            "lng" : 35.2064499197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "מרכז מסחרי בעלזא",
+      "photos" : [
+        {
+          "height" : 960,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/100809865103345701208\"\u003eעטי רוזנטל\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJUYQVM7_01KcUnf_jon1LQ2b3mK0_2C5G4fsRV4Um_CqHcSRmfA9aC-ZhA3-7tK9QI-1JKuK2cWvlsBnKp-1lZsFNXy8IQ3oqTHbrpVbhbd1SGLqbdYAQPg0EeIZKLDZWZNsN2dSvMFPb3dViwonDSdUlF1R5h6db0D2nDxMdiHrPH",
+          "width" : 1280
+        }
+      ],
+      "place_id" : "ChIJGxzoSiLWAhUReNqQtXj0PTI",
+      "plus_code" : {
+        "compound_code" : "Q6W5+23 ירושלים, ישראל",
+        "global_code" : "8G3QQ6W5+23"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJGxzoSiLWAhUReNqQtXj0PTI",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 4,
+      "vicinity" : "שמגר 23, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7919278,
+          "lng" : 35.2102761
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7932691302915,
+            "lng" : 35.2115494802915
+          },
+          "southwest" : {
+            "lat" : 31.7905711697085,
+            "lng" : 35.2088515197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "חניון המסחר פסגות ירושלים",
+      "permanently_closed" : true,
+      "place_id" : "ChIJVUF1TSHWAhURNrwro8nOLsM",
+      "plus_code" : {
+        "compound_code" : "Q6R6+Q4 ירושלים, ישראל",
+        "global_code" : "8G3QQ6R6+Q4"
+      },
+      "rating" : 5,
+      "reference" : "ChIJVUF1TSHWAhURNrwro8nOLsM",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1,
+      "vicinity" : "לואיס ברנדייס 2, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7954813,
+          "lng" : 35.2076965
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.79684538029149,
+            "lng" : 35.20907803029151
+          },
+          "southwest" : {
+            "lat" : 31.79414741970849,
+            "lng" : 35.20638006970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "OLIVE",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102775360260987708505\"\u003eשמחה מרגלית\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJPc-K9n1lwwE2IiOa_IXZCMBkdOtxY3qrIxbl70CVxu0D5M1706YvWdKwvtqFxJ_6OYtE_Xn1ft0tbeM0JjeJoCzGjmFzrvoVSyxdz471eSTAuszj99YGm-tNPZc1g4Xi134M3DNhYYwclCOE7TX6-vsObAixlFa0FYVUZlunaZr4a",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJbXAEWlvXAhUR_E5n7DCsGnk",
+      "plus_code" : {
+        "compound_code" : "Q6W5+53 ירושלים, ישראל",
+        "global_code" : "8G3QQ6W5+53"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJbXAEWlvXAhUR_E5n7DCsGnk",
+      "scope" : "GOOGLE",
+      "types" : [
+        "restaurant",
+        "shopping_mall",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total" : 112,
+      "vicinity" : "שמגר 25, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7804544,
+          "lng" : 35.2138032
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7819245802915,
+            "lng" : 35.2150601302915
+          },
+          "southwest" : {
+            "lat" : 31.7792266197085,
+            "lng" : 35.21236216970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "מתחם מעצבים",
+      "photos" : [
+        {
+          "height" : 2000,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110927706164988038541\"\u003enadav barkai\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwL_lqdE2ov1allqh9jpiKGfDr-RsoGBVDVHZnRTr-OsVJq2cpTJqNCTj5cnNiy8jDQzwnIwwKvnH1NI5ns_NUoHhYo1ZFAHcQ-qfCMzZJMJgxegXeH9UHnL8be7jYAVUr8XPZHdSPwElNdV2osYDVqnHvXNj85xutpx1r-JgKgCl85g",
+          "width" : 2992
+        }
+      ],
+      "place_id" : "ChIJI_Fh9SnWAhUR6R6EefrBzEo",
+      "plus_code" : {
+        "compound_code" : "Q6J7+5G ירושלים, ישראל",
+        "global_code" : "8G3QQ6J7+5G"
+      },
+      "rating" : 3.5,
+      "reference" : "ChIJI_Fh9SnWAhUR6R6EefrBzEo",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 6,
+      "vicinity" : "בצלאל 7, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7829313,
+          "lng" : 35.2154573
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7842955802915,
+            "lng" : 35.2167752302915
+          },
+          "southwest" : {
+            "lat" : 31.7815976197085,
+            "lng" : 35.2140772697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "EK Ceramic",
+      "permanently_closed" : true,
+      "place_id" : "ChIJeRvQ92spAxURw5oUmlbgf0M",
+      "plus_code" : {
+        "compound_code" : "Q6M8+55 ירושלים, ישראל",
+        "global_code" : "8G3QQ6M8+55"
+      },
+      "reference" : "ChIJeRvQ92spAxURw5oUmlbgf0M",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "vicinity" : "26 & 28A Christian Quarter Street"
+    }
+  ],
+  "status" : "OK"
+}

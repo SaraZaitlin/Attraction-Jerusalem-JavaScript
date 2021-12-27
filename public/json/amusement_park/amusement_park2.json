@@ -1,0 +1,51 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7794014,
+          "lng" : 35.20241149999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7807503802915,
+            "lng" : 35.20376048029149
+          },
+          "southwest" : {
+            "lat" : 31.7780524197085,
+            "lng" : 35.20106251970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "גן הוורדים",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 4024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115518789388296411261\"\u003eשניאור מור יוסף\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJdHXaifHaNEFHloZAS7bM_idFn-7DCnMZ5IwtC0wObs8eKYvwj2qInpusVMMRwkk61JDBkorM8ZMm10UGxIUFHVCE8dC7W1s_mXsy-NyUlEAWfJUtdEqrnbWVqaYLpoMgRNkDe1alfrxwAaHNMaSliYo1CkNvyVWsS9EqjlEvla6xP",
+          "width" : 6769
+        }
+      ],
+      "place_id" : "ChIJf4uNyjLWAhURx8obhRVVU7Q",
+      "plus_code" : {
+        "compound_code" : "Q6H2+QX ירושלים, ישראל",
+        "global_code" : "8G3QQ6H2+QX"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJf4uNyjLWAhURx8obhRVVU7Q",
+      "scope" : "GOOGLE",
+      "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 97,
+      "vicinity" : "ירושלים"
+    }
+  ],
+  "status" : "OK"
+}

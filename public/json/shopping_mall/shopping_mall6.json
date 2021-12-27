@@ -1,0 +1,340 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.82428,
+          "lng" : 35.237117
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8255646802915,
+            "lng" : 35.2386473302915
+          },
+          "southwest" : {
+            "lat" : 31.8228667197085,
+            "lng" : 35.2359493697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "קניון הפסגה",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1536,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112339553657506703906\"\u003eהילה אלקיים\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKFdrjXUdFEtVK3Zu--IiPvUiNF91KNSSMBO2hvbBFlFJ3MSXL-id_nCbyJfoyDmkwOVtfw4YiRhfAVcj6pxpKZ3HfeWnxY5mLiQqj8hEzc_kNVThi94p_O-wrq0X6Wu7hogYsC6RW9QYJ9zsSvsJb7EpjW_-4ukRIoOhJaxodzODkz",
+          "width" : 2048
+        }
+      ],
+      "place_id" : "ChIJqQFMHz4qAxURS6wnXxEJxOM",
+      "plus_code" : {
+        "compound_code" : "R6FP+PR ירושלים",
+        "global_code" : "8G3QR6FP+PR"
+      },
+      "rating" : 3.5,
+      "reference" : "ChIJqQFMHz4qAxURS6wnXxEJxOM",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 3019,
+      "vicinity" : "שד' משה דיין 106, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.82885910000001,
+          "lng" : 35.2383413
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8301926802915,
+            "lng" : 35.2396874302915
+          },
+          "southwest" : {
+            "lat" : 31.8274947197085,
+            "lng" : 35.2369894697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "חיל האוויר מרכז קניות",
+      "photos" : [
+        {
+          "height" : 2160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102275071233325033492\"\u003eYosef Roitman\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJ2a8wJUGOmi7phMRM0wEOg8AXh3SNOP7ViERTfWbksBITvbQ86Ah8T4EtkXhXZYO9Yv3uC8QDFQI3Kirm99wMx5dl1dpofoVwcagkAcrOJogGuXn4d44AGvNFFXAMdLOLoTqzqy_vNeOUVMmgGfUaEPvk95MzT6_UaNc_T8ZqIH3MZ",
+          "width" : 3840
+        }
+      ],
+      "place_id" : "ChIJ8cWMakAqAxURrSeA34iYF2U",
+      "plus_code" : {
+        "compound_code" : "R6HQ+G8 ירושלים",
+        "global_code" : "8G3QR6HQ+G8"
+      },
+      "rating" : 3.5,
+      "reference" : "ChIJ8cWMakAqAxURrSeA34iYF2U",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 11,
+      "vicinity" : "שדרות משה דיין 72, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8302496,
+          "lng" : 35.2367479
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8316059302915,
+            "lng" : 35.2381129802915
+          },
+          "southwest" : {
+            "lat" : 31.8289079697085,
+            "lng" : 35.2354150197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "Moshe Dayan Half Circle shopping center",
+      "photos" : [
+        {
+          "height" : 2322,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/114106753252491515215\"\u003emomi maman\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwITNte3K2o1LqwuAfg16Zz3_nJqtEVqtKvmRpZ949mcWWWHE9vE75WrOULhI6NJ6R-Vh4wI3l3S-xXqkq9IxKPlrZcRtRkGd58MWW2aHYdzIc_-YEDB9n6BjMZQNnaktouK_KdCS-TcJLPiIuGNP20KptDaeaukSxBfTglRP1cZTS99",
+          "width" : 4128
+        }
+      ],
+      "place_id" : "ChIJsbZngmoqAxURFYhDaDUJMH4",
+      "plus_code" : {
+        "compound_code" : "R6JP+3M ירושלים",
+        "global_code" : "8G3QR6JP+3M"
+      },
+      "rating" : 3.5,
+      "reference" : "ChIJsbZngmoqAxURFYhDaDUJMH4",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 21,
+      "vicinity" : "שדרות משה דיין 65, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8251332,
+          "lng" : 35.2386944
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8264535802915,
+            "lng" : 35.2400689802915
+          },
+          "southwest" : {
+            "lat" : 31.8237556197085,
+            "lng" : 35.2373710197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "קניונית, תחנת דלק פז, פסגת זאב",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1920,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113737145639684433459\"\u003emoshe assulin\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwL6-dFmE727Inlp5--k-9NVoJZjE40Z6N6IyQOZsnBd80F4PzrpB1RRl1CpOEq68J01MKC7zGJSzmuq1WQKyuVQEXKtYMWkCileg9UZXZdadj3kzsxvTMw8A6irZS9xv5FsYRL7QumEnAhifkmLQqfVctTSJ7nhK8YEWr6PZuPn3WcB",
+          "width" : 1080
+        }
+      ],
+      "place_id" : "ChIJ820msz8qAxUR_kjBoj4pbJU",
+      "plus_code" : {
+        "compound_code" : "R6GQ+3F ירושלים",
+        "global_code" : "8G3QR6GQ+3F"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJ820msz8qAxUR_kjBoj4pbJU",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 7,
+      "vicinity" : "שדרות משה דיין 130, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8242521,
+          "lng" : 35.2372068
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8255524302915,
+            "lng" : 35.23869303029149
+          },
+          "southwest" : {
+            "lat" : 31.8228544697085,
+            "lng" : 35.23599506970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "Каньон Лев Писга",
+      "place_id" : "ChIJ-aeeu0srAxURUCsfy4yAJ88",
+      "plus_code" : {
+        "compound_code" : "R6FP+PV ירושלים",
+        "global_code" : "8G3QR6FP+PV"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJ-aeeu0srAxURUCsfy4yAJ88",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 2,
+      "vicinity" : "שדרות משה דיין 106, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.84347290000001,
+          "lng" : 35.22846190000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8447680802915,
+            "lng" : 35.22997523029149
+          },
+          "southwest" : {
+            "lat" : 31.84207011970851,
+            "lng" : 35.2272772697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "Ramzi's Mall",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 540,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/114388839894017324539\"\u003eDina Blokland\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIj9gZLEnMPYL1ecDTlX9YgFxXgSyDjs7-08baK5RH7D7PG7gHF6rzbnZG8ihB2_zdZjUFF6Er-ej8RYyeFk1C1UYTO8gPUtFzvPL1T7TjjrbqiYe8UNXl_9Tr6XRGATI6YWelrsRwQ2w2j2s2Xfa4W64cTUEoYkcgXxgV8MJsTcYcG",
+          "width" : 960
+        }
+      ],
+      "place_id" : "ChIJLUUhz8IrAxURjzzwcXdZg0M",
+      "plus_code" : {
+        "compound_code" : "R6VH+99 ירושלים",
+        "global_code" : "8G3QR6VH+99"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJLUUhz8IrAxURjzzwcXdZg0M",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 39,
+      "vicinity" : "Jisr A-Natf St, Jerusalem, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.845542,
+          "lng" : 35.2287016
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8468389302915,
+            "lng" : 35.23005158029149
+          },
+          "southwest" : {
+            "lat" : 31.8441409697085,
+            "lng" : 35.2273536197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "TSWQ | تسوق",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 445,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111320478156782142410\"\u003eTSWQ | تسوق\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLT7cchfsz6_g2heN8M3LyqawMykHLpmxASXgjvhCW2-fS02e1rLBvgZ-xb543-qmRAQL1gZEh_G_TXq1YcMm2N2aJ-y0D7XTp7MZRXErHFZGhu_hXqC7v3RL7vNge-h2BDiFte578Y_pxdv0ZT5mWV77igi-c-qXkoJ5SdFb64pbPl",
+          "width" : 273
+        }
+      ],
+      "place_id" : "ChIJg4-m1lIrAxUR07Xin9mQIWI",
+      "plus_code" : {
+        "compound_code" : "R6WH+6F ירושלים",
+        "global_code" : "8G3QR6WH+6F"
+      },
+      "rating" : 5,
+      "reference" : "ChIJg4-m1lIrAxUR07Xin9mQIWI",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "store", "establishment" ],
+      "user_ratings_total" : 4,
+      "vicinity" : "beit hanina street, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8469766,
+          "lng" : 35.2273624
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.84840033029149,
+            "lng" : 35.2286989802915
+          },
+          "southwest" : {
+            "lat" : 31.8457023697085,
+            "lng" : 35.2260010197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "SouqEshop",
+      "photos" : [
+        {
+          "height" : 476,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107011608258955787883\"\u003eSouqEshop\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKRrYoGZ4lxv6zCMf_ap55G3AXKUCvdUs7ldEQla-tfC8LXy9o2iVjApNYosy-K_b7alHilr0iZ9FZ4McFT8S2T7toBtC6tK2KfiklKvDMJOiTawmkFv6mUlnnuvoNDji1JG-olikmWcvqTTAV7PxvsV1e15X1PE8iNsDQFoxHnEU7D",
+          "width" : 494
+        }
+      ],
+      "place_id" : "ChIJ4TQ-ZKArAxURhB2bc4RwTKE",
+      "plus_code" : {
+        "compound_code" : "R6WG+QW ירושלים",
+        "global_code" : "8G3QR6WG+QW"
+      },
+      "reference" : "ChIJ4TQ-ZKArAxURhB2bc4RwTKE",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "vicinity" : "Marj Ben Amer"
+    }
+  ],
+  "status" : "OK"
+}

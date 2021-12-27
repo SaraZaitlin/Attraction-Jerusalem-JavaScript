@@ -1,0 +1,432 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.825033,
+          "lng" : 35.2268074
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8263909802915,
+            "lng" : 35.22825728029149
+          },
+          "southwest" : {
+            "lat" : 31.8236930197085,
+            "lng" : 35.22555931970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "Retro Restaurant",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3456,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105902072293916255592\"\u003eRetro Restaurant\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKULPRqYMenuurfjQ-oGZU2OYfUb791qkSNJJrTVDGsp3j5RHKT0743e3gCe95iJ2YG-kXeGwh2SpUY5sDBDMxCUQESewxIZHD9nSIRWQS9_B-f2aFZ3Q0YZDDqXzRzhMhoyvhgXxB9ofOx06lpG-XK36CUBq73FFmb5eZQeKl-qH77",
+          "width" : 5184
+        }
+      ],
+      "place_id" : "ChIJbXs0sz8rAxURANELzl--sXA",
+      "plus_code" : {
+        "compound_code" : "R6GG+2P ירושלים",
+        "global_code" : "8G3QR6GG+2P"
+      },
+      "price_level" : 2,
+      "rating" : 4,
+      "reference" : "ChIJbXs0sz8rAxURANELzl--sXA",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 182,
+      "vicinity" : "Beit Hanina, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.830131,
+          "lng" : 35.225205
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8314820302915,
+            "lng" : 35.22659418029149
+          },
+          "southwest" : {
+            "lat" : 31.8287840697085,
+            "lng" : 35.22389621970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "مناقيش",
+      "photos" : [
+        {
+          "height" : 2988,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109838391067419673457\"\u003eRamzi Kandalaft\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwL7T-J1ofK9F9GTMTY07oz7l0fP7SWsITOhSz2FQt-75MaJMYOTy9WVxWub_ahGGT4HVa45EN10SAM6HE8sJlBBOK8O1PFxzMz1_GQoJHRNcOtNxw8hgeU6MjoEsDlQc-Hz1hg-rxXYIeq3coHMRgvqX7b4M0sKArbY7ygfIyDLa8Wz",
+          "width" : 5312
+        }
+      ],
+      "place_id" : "ChIJoWCozkQrAxURLOlHHMz-1Pc",
+      "plus_code" : {
+        "compound_code" : "R6JG+33 ירושלים",
+        "global_code" : "8G3QR6JG+33"
+      },
+      "rating" : 4.1,
+      "reference" : "ChIJoWCozkQrAxURLOlHHMz-1Pc",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 14,
+      "vicinity" : "בית חנינא 68, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.823592,
+          "lng" : 35.22727799999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8249551302915,
+            "lng" : 35.22868073029149
+          },
+          "southwest" : {
+            "lat" : 31.82225716970851,
+            "lng" : 35.22598276970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "Ghosheh Meat Center",
+      "photos" : [
+        {
+          "height" : 673,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/100560986902705859671\"\u003eGhosheh Meat Center\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIU3dT-oE2u9BXO7q3GS54nGGCVogKjmgxem-hboSlR5YdJz1nb0gxM8rl6Q4VfAluuR1DJVwhaSKqWLez93B9i3T22uUw7B_femhl-Gyd87n75K3nsHWsohawYH71wfeVkUD2_HY5Kv70oXJFtEPts75JDCWe0sV5lYFXYldjmJ2XE",
+          "width" : 1200
+        }
+      ],
+      "place_id" : "ChIJkTuMShAqAxURfh2N8PbLWjc",
+      "plus_code" : {
+        "compound_code" : "R6FG+CW ירושלים",
+        "global_code" : "8G3QR6FG+CW"
+      },
+      "rating" : 4.2,
+      "reference" : "ChIJkTuMShAqAxURfh2N8PbLWjc",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "store", "establishment" ],
+      "user_ratings_total" : 14,
+      "vicinity" : "דרך בית חנינא 90, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8205402,
+          "lng" : 35.2539088
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8218743802915,
+            "lng" : 35.2552250302915
+          },
+          "southwest" : {
+            "lat" : 31.8191764197085,
+            "lng" : 35.2525270697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "עוז בן סירא בע\"מ",
+      "place_id" : "ChIJ1wYelUErAxURMB-46vQpz1M",
+      "plus_code" : {
+        "compound_code" : "R7C3+6H ירושלים",
+        "global_code" : "8G3QR7C3+6H"
+      },
+      "rating" : 5,
+      "reference" : "ChIJ1wYelUErAxURMB-46vQpz1M",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1,
+      "vicinity" : "דוד פדרמן, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8428011,
+          "lng" : 35.2300317
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8441426302915,
+            "lng" : 35.23132848029149
+          },
+          "southwest" : {
+            "lat" : 31.8414446697085,
+            "lng" : 35.2286305197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "كستليته Castalita",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106635998655713647021\"\u003eMUSTAFA AYŞE YANBASTI OO - Ahmet SEMERCİ\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJZQQDfbxMeCp8zEXOM92zTSSMKfRRUYCdRKtf5qBoItLVJwX38KWB64ixUO8NWSL5DpA4nXFcvFqrkqDgJunzLbmU6rzxoflLWeBQU_Sv-bjNI8xDVAiz7DnpjTh7b3eIIYDYRdmCpDNXy4NUI4CHkWEH5EweiG31O7_5_cw0bdvzt",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJQ-gOcdorAxURZMd3Qp2vISg",
+      "plus_code" : {
+        "global_code" : "8G3QR6VJ+42"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJQ-gOcdorAxURZMd3Qp2vISg",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 402,
+      "vicinity" : "Ramalah Road Jerusalem, Beit Hanina"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.81641089999999,
+          "lng" : 35.2288745
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8177446802915,
+            "lng" : 35.2301849802915
+          },
+          "southwest" : {
+            "lat" : 31.8150467197085,
+            "lng" : 35.2274870197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "Abu seir sweets jerusalem حلويات ابوسير القدس",
+      "photos" : [
+        {
+          "height" : 960,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116431025794693447830\"\u003eWesam Bukhari\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJARcC7PyFn8DJ_uhBoWtHSU021iF32TWXV3_4ELVMSDHurZDTLSsdpmugSv6TZW8Hwa9oxxrfrPfgaTH75DI6j5MEKBxD87nPvw3RFV_a1vZB1MgVH4LUxpxup3GcEjD-prgQ0w3qQDrRG0wF9VURTWTX9d5hvSeUTSysAPAcMCpP0",
+          "width" : 768
+        }
+      ],
+      "place_id" : "ChIJK9_zAb4rAxUROOvDXPgp4ko",
+      "plus_code" : {
+        "compound_code" : "R68H+HG ירושלים",
+        "global_code" : "8G3QR68H+HG"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJK9_zAb4rAxUROOvDXPgp4ko",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 51,
+      "vicinity" : "Bilal, בן רבאח 1, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8145531,
+          "lng" : 35.22978930000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.81589698029151,
+            "lng" : 35.2310979802915
+          },
+          "southwest" : {
+            "lat" : 31.81319901970851,
+            "lng" : 35.2284000197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "Pizza Hut Shufat",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1600,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102832306336506933860\"\u003ePizza Hut Shufat\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwI-3VkL9NRXRg-Aqo__J39FhJLaGw7m_U463u5xu7vNmYmmdLjFMBHIgp8stbOR3n8U3ai-JLWsiGqkl3ugwK78PLYyjyrNEfspargm8luPbMa38IVaT4WAzaFemIsrOgxOHfh8KXuj0y30_IjlKdAnFW7hlZ1DRmQlmaKtPXw6E5lr",
+          "width" : 720
+        }
+      ],
+      "place_id" : "ChIJQeiGWJsrAxURPs8nEwxoIMo",
+      "plus_code" : {
+        "compound_code" : "R67H+RW ירושלים",
+        "global_code" : "8G3QR67H+RW"
+      },
+      "price_level" : 2,
+      "rating" : 5,
+      "reference" : "ChIJQeiGWJsrAxURPs8nEwxoIMo",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1,
+      "vicinity" : "Shufat 34, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.81147099999999,
+          "lng" : 35.2424511
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.81289663029149,
+            "lng" : 35.24361013029149
+          },
+          "southwest" : {
+            "lat" : 31.8101986697085,
+            "lng" : 35.24091216970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "camellia pizza restaurant",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 4032,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116838482323346548553\"\u003ecamellia pizza restaurant\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwL7RVCddN-pfFJUfVHfz_9p_mbX7Lglzhag6LiPck2royThyQeHeCFj7CT60ze9U3ngBbBIAwl-JokyWXCRz1Kty90msyIg_alkuOvOuM0BTedqaX-R88FvZvYqd5a9w71ns9egYllUhs5jRg5S9g32FgQYdNkOSdYTNBDAoJKe_6Xw",
+          "width" : 1960
+        }
+      ],
+      "place_id" : "ChIJc_FSlmYrAxURFL7EQMt15yM",
+      "plus_code" : {
+        "compound_code" : "R66R+HX ירושלים",
+        "global_code" : "8G3QR66R+HX"
+      },
+      "rating" : 4.8,
+      "reference" : "ChIJc_FSlmYrAxURFL7EQMt15yM",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 4,
+      "vicinity" : "طريق بيت حنينا 30, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.837774,
+          "lng" : 35.2201827
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8391110302915,
+            "lng" : 35.2215165302915
+          },
+          "southwest" : {
+            "lat" : 31.8364130697085,
+            "lng" : 35.2188185697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "مطعم عبد محمد علي",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 466,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/114351886067223009150\"\u003eمطعم عبد محمد علي\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIHsuiSvoEQcYkRsNtGKphe0levkq48a24A5FOTkEhcuLFfzd-tL_q3MHyaRBKOP8kk8j9wuLgUbVsFG_-qcpe4o94tntkl3NKVa9bwvQ_ZNR9FOv3flQmLZR-YbymWRY7iFdhttqaBuCm-Hwr0Fh9W6x0XkjXYWgfTzjmTK4CKX7M",
+          "width" : 828
+        }
+      ],
+      "place_id" : "ChIJFXrmSlMrAxURo-gRb2gbD8k",
+      "plus_code" : {
+        "compound_code" : "R6QC+43 ירושלים",
+        "global_code" : "8G3QR6QC+43"
+      },
+      "rating" : 3.8,
+      "reference" : "ChIJFXrmSlMrAxURo-gRb2gbD8k",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 61,
+      "vicinity" : "אלזיתונה, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.815152,
+          "lng" : 35.2266858
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8165324802915,
+            "lng" : 35.2280355802915
+          },
+          "southwest" : {
+            "lat" : 31.8138345197085,
+            "lng" : 35.2253376197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "CAVA Stake & Wine",
+      "photos" : [
+        {
+          "height" : 3968,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115594309686724112355\"\u003eSally Shalabi\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJUeaF5HjYeQGSm37vpoN_LAy61Z7djVs9rXSHEzqd7NW_1XI4eWyF8pbGyZVH_qMUC3-nCVF_ttElF-8JXkWwAO8BARntkXj2z0JvdrmFnNbx7cYc8ist-4-CXpbRdXDi7DCajpmMy1NyLp5dpe6Y7TCQIv2vtSTqHSh43P8wLvosM",
+          "width" : 2976
+        }
+      ],
+      "place_id" : "ChIJzdInY7grAxUR5ecNDyT1sFk",
+      "plus_code" : {
+        "compound_code" : "R68G+3M ירושלים",
+        "global_code" : "8G3QR68G+3M"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJzdInY7grAxUR5ecNDyT1sFk",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 32,
+      "vicinity" : "א סהל, بيت جالا"
+    }
+  ],
+  "status" : "OK"
+}

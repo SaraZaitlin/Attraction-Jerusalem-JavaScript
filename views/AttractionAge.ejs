@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he" xmlns="http://www.w3.org/1999/html">
+<head>
+    <script type="text/javascript" src="/javascripts/attractionAge.js"></script>
+    <script type="text/javascript" src="/javascripts/functionAtt.js"></script>
+    <script type="text/javascript" src="/javascripts/GeneralFunctions.js"></script>
+    <script type="text/javascript" src="/javascripts/geocode.js"></script>
+
+    <%- include('include/start.ejs') %>
+    <%- include('include/titleWeb.ejs') %>
+    <%- include('include/returnLandingPage.ejs') %>
+    <%- include('include/modle.ejs') %>
+
+
+    <div class="container-fluid  text-right">
+
+        <div  id="listTypeAtt" >
+            <h3>  סוגי אטרקציות פופולריות <%= age %></h3>
+            <div class="row row-cols-1 row-cols-md-5 g-4 card-deck p-3 m-2" >
+                <div class="col p-2">
+                    <div class=" card  shadow h-100">
+                        <img class="card-img-top" src='/images/park.jpg' style=" cursor: pointer;" id="attGil" pid-data="park" alt="Card image cap javascript button">
+                        <div class="card-body">
+                            <h3 class="card-title">פארקים</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col p-2">
+                    <div class=" card shadow h-100">
+                        <img class="card-img-top " src='/images/museum.jpg' style=" cursor: pointer;" id="attGil" pid-data="museum" alt="Card image cap javascript button">
+                        <div class="card-body">
+                            <h3 class="card-title">מוזאונים</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col p-2">
+                    <div class="card shadow h-100">
+                        <img class="card-img-top" src='/images/image.jpg' style=" cursor: pointer;" id="attGil" pid-data="restaurant" alt="Card image cap javascript button">
+                        <div class="card-body">
+                            <h3 class="card-title">מסעדות</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col p-2 ">
+                    <div class=" card shadow h-100" style=" cursor: pointer;">
+                        <img class="card-img-top " src='/images/zoo.jpg' id="attGil" pid-data="zoo" alt="Card image cap javascript button">
+                        <div class="card-body">
+                            <h3 class="card-title">גן חיות</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="col p-2 ">
+                    <div class=" card shadow h-100" >
+                        <img class="card-img-top " style=" cursor: pointer;" src='/images/shoping.jpg'  id="attGil" pid-data="shopping" alt="Card image cap javascript button">
+                        <div class="card-body">
+                            <h3 class="card-title">קניונים</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="d-none text-center" id="pulley">
+            <img src  ="/images/imag.gif "  class=" center " width = 100px height=100px   >
+            <span><h4>המתן...</h4></span>
+
+        </div>
+        <div id="result"></div>
+        <button class="btn btn-outline-warning d-none" id="moreAtt" >תוצאות נוספות</button>
+
+
+    </div>
+    <!-- I am using this paragraph to insert the result in the HTML page - or an error message -->
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+    <script
+            src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&libraries=&v=weekly"
+
+            async
+    ></script>
+
+    <%- include('include/end.ejs') %>
+
+

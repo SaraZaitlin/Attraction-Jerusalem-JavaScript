@@ -1,0 +1,340 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8175,
+          "lng" : 35.1944444
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8192441302915,
+            "lng" : 35.1960189802915
+          },
+          "southwest" : {
+            "lat" : 31.8165461697085,
+            "lng" : 35.1933210197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "קניון רמות",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 4000,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112799766738476784115\"\u003eפנינה שיר\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwL069wKi_FGttL6Um5Z4ghVD8Gf8mzyuWy3Cu-yMV1A6vhoLUY8SBjKcwddd9_ZFr8j_1EZlGs2D_wtm-G7IXTOnk4Ay1lhKOJoeqvqCAQ2U7wv4tRPAucDFcj_K6QI7alxtwQNzcVrtDiEsZCbCetTOQ9SzQSCeLvLQufOuRoL6fXl",
+          "width" : 2252
+        }
+      ],
+      "place_id" : "ChIJtdXVdw_WAhUR9BY5rEF71bk",
+      "plus_code" : {
+        "compound_code" : "R58V+XQ ירושלים",
+        "global_code" : "8G3QR58V+XQ"
+      },
+      "rating" : 4.1,
+      "reference" : "ChIJtdXVdw_WAhUR9BY5rEF71bk",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 6548,
+      "vicinity" : "שדרות גולדה מאיר 255, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.79473500000001,
+          "lng" : 35.2085088
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7960335302915,
+            "lng" : 35.20967583029149
+          },
+          "southwest" : {
+            "lat" : 31.79333556970851,
+            "lng" : 35.2069778697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "קניון רב שפע",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2268,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106785469914972701895\"\u003eיוני סיבוני\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJxvUY5j2_R2AqPzeU7PYMKsRM1xreI-35QcpreIkfQuqEJ_JbU-J9F3BED15ckfLyhtH7s6r3GKhMxff1pPztanQzevvSBRFIMDAiQnKIam3je8J2Kxrg6eNONUdSlzDTuBoF_aVIsqk5jHFgJQYOQhmkJIzEt5QU_7COWH-71o3KB",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJ9zjczCPWAhURDpFJNwMH4ko",
+      "plus_code" : {
+        "compound_code" : "Q6V5+VC ירושלים, ישראל",
+        "global_code" : "8G3QQ6V5+VC"
+      },
+      "rating" : 3.9,
+      "reference" : "ChIJ9zjczCPWAhURDpFJNwMH4ko",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 3542,
+      "vicinity" : "שמגר 16, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.82,
+          "lng" : 35.1955556
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.82132963029149,
+            "lng" : 35.1968279302915
+          },
+          "southwest" : {
+            "lat" : 31.81863166970849,
+            "lng" : 35.1941299697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "מרכז אונגוואר",
+      "photos" : [
+        {
+          "height" : 1836,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115632517810502627563\"\u003eשמואל רוזנר\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJ735x45tN-2L38EpVtDfewbDi9Gd7_bpL5XSjegmVaa6-gtPU9UsexoyNtc1ouhb32GY7eTj0BW5Wf1VKrjAjWt80RZbgXn0M-WSKdf7Z9ubJK7HTxx5EO_WMRpxWNtsF-FtfTMvCii9ne8s-jsoNgtlhT8PG1ajMsMtSZDbLZ6o4",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJq6qrigrWAhURQNLle-KTx6w",
+      "plus_code" : {
+        "compound_code" : "R59W+X6 ירושלים",
+        "global_code" : "8G3QR59W+X6"
+      },
+      "rating" : 3.8,
+      "reference" : "ChIJq6qrigrWAhURQNLle-KTx6w",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 328,
+      "vicinity" : "ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8003879,
+          "lng" : 35.211944
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.80163223029149,
+            "lng" : 35.2132996802915
+          },
+          "southwest" : {
+            "lat" : 31.7989342697085,
+            "lng" : 35.21060171970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "קניון הר חוצבים",
+      "photos" : [
+        {
+          "height" : 1080,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112798496949533663113\"\u003eAssaf Borenstein\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKSfxdmsNfohRItW9-DQ70cFuCk0quJdMonR7-HmOdXs-inYB5H2pzYU_8LaBjeM-cOiZrOatHU3ZxX959gP5zqPmLKOzQ95RIluzvmJ89ns-E6BH-No4kXSxFChsALL7aa2_rarL3m-_F3sYkp_8B3XTGTpfek0Y29kqbJtS2GOIUU",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJB7xpYB7WAhURlEx9x8Hhll0",
+      "plus_code" : {
+        "compound_code" : "R626+5Q ירושלים, ישראל",
+        "global_code" : "8G3QR626+5Q"
+      },
+      "rating" : 3.3,
+      "reference" : "ChIJB7xpYB7WAhURlEx9x8Hhll0",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 252,
+      "vicinity" : "הרטום, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7954813,
+          "lng" : 35.2076965
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.79684538029149,
+            "lng" : 35.20907803029151
+          },
+          "southwest" : {
+            "lat" : 31.79414741970849,
+            "lng" : 35.20638006970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "OLIVE",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102775360260987708505\"\u003eשמחה מרגלית\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKPMTiek1p8ghKVZRrHQWaP1V-yJ2MdkWni7LSM0pzo_LOtXZCazb0wmrMxz6gWbiE-_EtHqaIA_38aezRuwKenFOj2_aIDrBhNoZmmGmrORUWrjYP87ps0wOSTT7BkCeO0DqlN56gWpkjn30150nLK1xIAzyyVyd9xDy1SozKkK8qb",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJbXAEWlvXAhUR_E5n7DCsGnk",
+      "plus_code" : {
+        "compound_code" : "Q6W5+53 ירושלים, ישראל",
+        "global_code" : "8G3QQ6W5+53"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJbXAEWlvXAhUR_E5n7DCsGnk",
+      "scope" : "GOOGLE",
+      "types" : [
+        "restaurant",
+        "shopping_mall",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total" : 112,
+      "vicinity" : "שמגר 25, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7950034,
+          "lng" : 35.20770239999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7963773302915,
+            "lng" : 35.20914788029149
+          },
+          "southwest" : {
+            "lat" : 31.7936793697085,
+            "lng" : 35.2064499197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "מרכז מסחרי בעלזא",
+      "photos" : [
+        {
+          "height" : 960,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/100809865103345701208\"\u003eעטי רוזנטל\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJ-vqybLEM2QE9jdC_uzcje90NpA57Gzfi-Uzm7d7G1sMsWHA4CNlHkS6bheqAe-tHLt5vAwGBgUGa-ejU-WJysHTT1VA3TsdPTDFbbK8EQAAXqzbVFynyeTQVkNoLqrSMuHmU4IUI_LJixi0O3aDOq2PhHwxxMpfw_iZJVx8bE1lks",
+          "width" : 1280
+        }
+      ],
+      "place_id" : "ChIJGxzoSiLWAhUReNqQtXj0PTI",
+      "plus_code" : {
+        "compound_code" : "Q6W5+23 ירושלים, ישראל",
+        "global_code" : "8G3QQ6W5+23"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJGxzoSiLWAhUReNqQtXj0PTI",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 4,
+      "vicinity" : "שמגר 23, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7946681,
+          "lng" : 35.2078678
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7960360302915,
+            "lng" : 35.2092918802915
+          },
+          "southwest" : {
+            "lat" : 31.7933380697085,
+            "lng" : 35.2065939197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "Jerusalem Leather Bindings | כריכה מקורית",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "place_id" : "ChIJIbH3tSPWAhURf7dfQ9F2Omw",
+      "plus_code" : {
+        "compound_code" : "Q6V5+V4 ירושלים, ישראל",
+        "global_code" : "8G3QQ6V5+V4"
+      },
+      "rating" : 5,
+      "reference" : "ChIJIbH3tSPWAhURf7dfQ9F2Omw",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 3,
+      "vicinity" : "שמגר 21, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.794603,
+          "lng" : 35.20789189999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7959707802915,
+            "lng" : 35.20931538029149
+          },
+          "southwest" : {
+            "lat" : 31.7932728197085,
+            "lng" : 35.20661741970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "מרכז קניות פנינת חמד",
+      "place_id" : "ChIJ63z3tSPWAhURwSUqx5lpcY0",
+      "plus_code" : {
+        "compound_code" : "Q6V5+R5 ירושלים, ישראל",
+        "global_code" : "8G3QQ6V5+R5"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJ63z3tSPWAhURwSUqx5lpcY0",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 2,
+      "vicinity" : "שמגר 21, ירושלים"
+    }
+  ],
+  "status" : "OK"
+}

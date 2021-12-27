@@ -1,0 +1,102 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.76076999999999,
+          "lng" : 35.1767008
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.76207563029149,
+            "lng" : 35.1782474802915
+          },
+          "southwest" : {
+            "lat" : 31.7593776697085,
+            "lng" : 35.17554951970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "אמא אדמה",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3456,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113058867138400994116\"\u003eMenachem Fooksman\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKcQOlp9LUJZ8uen-IxCmm5_TiAsp9tYk6vivthNueSJEJJsr_DFSQkme6aCF7onoNPnVp0ejUsiTPspfx2Y0DIeI6SpbIj4_Uslvn739wieoiaV_ansFRE_AqGx0Fc5QtnF7NuwW1JWfIvmfDqDGo2rsjxhpg0t5j2j11giQ0C42aP",
+          "width" : 4608
+        }
+      ],
+      "place_id" : "ChIJhXsLp0TXAhURL67OYqx5G3k",
+      "plus_code" : {
+        "compound_code" : "Q56G+8M ירושלים, ישראל",
+        "global_code" : "8G3QQ56G+8M"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJhXsLp0TXAhURL67OYqx5G3k",
+      "scope" : "GOOGLE",
+      "types" : [
+        "shopping_mall",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total" : 9,
+      "vicinity" : "אורוגואי 1, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7606045,
+          "lng" : 35.1764714
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7618892802915,
+            "lng" : 35.1776539802915
+          },
+          "southwest" : {
+            "lat" : 31.7591913197085,
+            "lng" : 35.1749560197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "name" : "המרכז המסחרי קרית היובל",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 4608,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113058867138400994116\"\u003eMenachem Fooksman\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKe3Zdwi5VfZ1keeFCeXQU-Uw8y1luzkxbAG-Ti-mC-uImdcp4KVvaQjC1_EpmtBnFgypTVdfzUyYMFNZRJ1kgH0Fh3za2pTrAvhtTJHs3WyxlFbo9GRAahN87SYrgK6UyocCybSBWSMtk2lUCNz7OjpB5pe2GkvODWixTAEK9tFoGf",
+          "width" : 3456
+        }
+      ],
+      "place_id" : "ChIJsyc1LIDXAhURaDizejtodBI",
+      "plus_code" : {
+        "compound_code" : "Q56G+6H ירושלים, ישראל",
+        "global_code" : "8G3QQ56G+6H"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJsyc1LIDXAhURaDizejtodBI",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 22,
+      "vicinity" : "אורוגואי 3, ירושלים"
+    }
+  ],
+  "status" : "OK"
+}

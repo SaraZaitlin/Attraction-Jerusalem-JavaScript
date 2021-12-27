@@ -1,0 +1,56 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8441364,
+          "lng" : 35.240816
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.84548008303647,
+            "lng" : 35.24225051135704
+          },
+          "southwest" : {
+            "lat" : 31.84278212245347,
+            "lng" : 35.23955255077404
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן רוזנפלד",
+      "place_id" : "ChIJY4dM4V4qAxURltokTHw5RJA",
+      "reference" : "ChIJY4dM4V4qAxURltokTHw5RJA",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8389415,
+          "lng" : 35.2271242
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.84029594121691,
+            "lng" : 35.22839548819581
+          },
+          "southwest" : {
+            "lat" : 31.83759798063391,
+            "lng" : 35.22569752761282
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן נוסייבה",
+      "place_id" : "ChIJDS_oNG4qAxURJYf90ruqXsc",
+      "reference" : "ChIJDS_oNG4qAxURJYf90ruqXsc",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    }
+  ],
+  "status" : "OK"
+}

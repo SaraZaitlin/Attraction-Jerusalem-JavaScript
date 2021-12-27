@@ -1,0 +1,47 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7503115,
+          "lng" : 35.19355730000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7516546802915,
+            "lng" : 35.1946750802915
+          },
+          "southwest" : {
+            "lat" : 31.7489567197085,
+            "lng" : 35.1919771197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "ירושלמים",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 1920,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106337299827554869699\"\u003eMoises Zack\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLeH7rvSJixcmmHeJ6ovZZP1eipvF-3poEky44tSEQgQ82AJHP1QJfMVZ5D08FdBbkVmX53xkwOr8NzRbyb1fLXl8XjEc_YY-Ttek9caaLOuxvWmet-xG8rOk8_qIMVPNjEG7jAYwd9QQtQ9TbxqFaSH7D5QLboh87GkQQjyO_WZ5RW",
+          "width" : 1080
+        }
+      ],
+      "place_id" : "ChIJM_mI1vLXAhUR1PJ4GL_hC04",
+      "plus_code" : {
+        "compound_code" : "Q52V+4C ירושלים, ישראל",
+        "global_code" : "8G3QQ52V+4C"
+      },
+      "reference" : "ChIJM_mI1vLXAhUR1PJ4GL_hC04",
+      "scope" : "GOOGLE",
+      "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+      "vicinity" : "חניון טדי מזרח, ירושלים"
+    }
+  ],
+  "status" : "OK"
+}

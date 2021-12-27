@@ -1,0 +1,37 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7987161,
+          "lng" : 35.20586309999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8000313802915,
+            "lng" : 35.2072567302915
+          },
+          "southwest" : {
+            "lat" : 31.7973334197085,
+            "lng" : 35.2045587697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "הרב אברהם גרין",
+      "permanently_closed" : true,
+      "place_id" : "ChIJ5c6PBSfXAhURMIy-6f2SXS0",
+      "plus_code" : {
+        "compound_code" : "Q6X4+F8 ירושלים, ישראל",
+        "global_code" : "8G3QQ6X4+F8"
+      },
+      "reference" : "ChIJ5c6PBSfXAhURMIy-6f2SXS0",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "הרב סורוצקין 35, ירושלים"
+    }
+  ],
+  "status" : "OK"
+}

@@ -1,0 +1,217 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.743425,
+          "lng" : 35.178171
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.74482798029149,
+            "lng" : 35.1795542302915
+          },
+          "southwest" : {
+            "lat" : 31.74213001970849,
+            "lng" : 35.1768562697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "עין יעל",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 2992,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116814927730404771670\"\u003eLior Aviram\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKYluS533FjWvz6ig8TPXeB7uYOx-cURcpQpCuuzBPn2DopkySwdmn56i78YO_YhFoC2QaT6MtBFq-O9HgRJLXaDEoLPLIelGiduovyiS73Tt6UXdWWVIt74qwaGn5da4k_zFdVwNuMg9GMXEwWeHd8HvN-MTnJ4TRhpwnwyb9bHrfM",
+          "width" : 4000
+        }
+      ],
+      "place_id" : "ChIJ5-azL5DXAhURcTQLUcyjjK0",
+      "plus_code" : {
+        "compound_code" : "P5VH+97 ירושלים, ישראל",
+        "global_code" : "8G3QP5VH+97"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJ5-azL5DXAhURcTQLUcyjjK0",
+      "scope" : "GOOGLE",
+      "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 592,
+      "vicinity" : "עין יעל, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7523898,
+          "lng" : 35.1878781
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.75372808029151,
+            "lng" : 35.1892192302915
+          },
+          "southwest" : {
+            "lat" : 31.75103011970851,
+            "lng" : 35.1865212697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "גן ארכיאולוגי",
+      "place_id" : "ChIJ-UmE4GXXAhUR6xH2yxvIyTg",
+      "plus_code" : {
+        "compound_code" : "Q52Q+X5 ירושלים, ישראל",
+        "global_code" : "8G3QQ52Q+X5"
+      },
+      "reference" : "ChIJ-UmE4GXXAhUR6xH2yxvIyTg",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7539451,
+          "lng" : 35.1939569
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7553023302915,
+            "lng" : 35.1953115302915
+          },
+          "southwest" : {
+            "lat" : 31.7526043697085,
+            "lng" : 35.1926135697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "קטמונה סיפריה גלריה",
+      "permanently_closed" : true,
+      "place_id" : "ChIJY65OI-3XAhURP28G3hTrw6Q",
+      "plus_code" : {
+        "compound_code" : "Q53V+HH ירושלים, ישראל",
+        "global_code" : "8G3QQ53V+HH"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJY65OI-3XAhURP28G3hTrw6Q",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 3,
+      "vicinity" : "רבי צדוק 15, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7484012,
+          "lng" : 35.20519289999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7497531802915,
+            "lng" : 35.2065403302915
+          },
+          "southwest" : {
+            "lat" : 31.7470552197085,
+            "lng" : 35.2038423697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "\"שבלול\" פסל משחק של רוסלן סרגייב",
+      "photos" : [
+        {
+          "height" : 3120,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101402263050505184704\"\u003eLeonid Brutman\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIqJ8DCh9csVo_Zakufhf6gCdS0PqCqXp688m0AdbGT4du0FrXMVQBiXz3kd1h-YBcmSTnOv45Ds2vswSHLqKeqo2IQ_MPN94YMD4HAqOqjrhY0McW6Q5yiA1D6K_oZWUg2GaRFi98XeHgU0f7sV0z97pG2-F-vSFmPpH8VAjRXFS3N",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJf6BltfrXAhURUH6UEKsWqPE",
+      "plus_code" : {
+        "compound_code" : "P6X4+93 ירושלים",
+        "global_code" : "8G3QP6X4+93"
+      },
+      "rating" : 3.4,
+      "reference" : "ChIJf6BltfrXAhURUH6UEKsWqPE",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 25,
+      "vicinity" : "מתנ\"ס בית צפאפא"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7506331,
+          "lng" : 35.206922
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7518878802915,
+            "lng" : 35.2084095302915
+          },
+          "southwest" : {
+            "lat" : 31.7491899197085,
+            "lng" : 35.2057115697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "Grave of Oskar Schindler",
+      "permanently_closed" : true,
+      "place_id" : "ChIJN-XqenfXAhURZnUnnT0RjDM",
+      "plus_code" : {
+        "compound_code" : "Q624+7Q ירושלים, ישראל",
+        "global_code" : "8G3QQ624+7Q"
+      },
+      "reference" : "ChIJN-XqenfXAhURZnUnnT0RjDM",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7404908,
+          "lng" : 35.2136268
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7418217802915,
+            "lng" : 35.21502588029151
+          },
+          "southwest" : {
+            "lat" : 31.7391238197085,
+            "lng" : 35.21232791970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "Old Kathisma | Church of the Seat of Mary",
+      "place_id" : "ChIJ47GnC3vXAhURUu2PhNqK4mg",
+      "plus_code" : {
+        "compound_code" : "P6R7+5F רמת רחל, ישראל",
+        "global_code" : "8G3QP6R7+5F"
+      },
+      "reference" : "ChIJ47GnC3vXAhURUu2PhNqK4mg",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "53 Road, Ramat Rachel"
+    }
+  ],
+  "status" : "OK"
+}

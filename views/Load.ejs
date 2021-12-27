@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he">
+
+<head>
+
+    <style>
+    .rating {
+        display: inline-block;
+        position: relative;
+        height: 50px;
+        line-height: 50px;
+        font-size: 50px;
+    }
+
+    .rating label {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        cursor: pointer;
+    }
+
+    .rating label:last-child {
+        position: static;
+    }
+
+    .rating label:nth-child(1) {
+        z-index: 5;
+    }
+
+    .rating label:nth-child(2) {
+        z-index: 4;
+    }
+
+    .rating label:nth-child(3) {
+        z-index: 3;
+    }
+
+    .rating label:nth-child(4) {
+        z-index: 2;
+    }
+
+    .rating label:nth-child(5) {
+        z-index: 1;
+    }
+
+    .rating label input {
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0;
+    }
+
+    .rating label .icon {
+        float: left;
+        color: transparent;
+    }
+
+    .rating label:last-child .icon {
+        color: #000;
+    }
+
+    .rating:not(:hover) label input:checked ~ .icon,
+    .rating:hover label:hover input ~ .icon {
+        color: gold;
+    }
+
+    .rating label input:focus:not(:checked) ~ .icon:last-child {
+        color: #000;
+        text-shadow:gold;
+    }
+</style>
+
+
+        <%- include('include/start.ejs') %>
+        <%- include('include/titleWeb.ejs') %>
+        <%- include('include/returnLandingPage.ejs') %>
+
+
+        <div class="container-fluid text-center">
+<h3> דרג את רמת העומס באטרקציה</h3>
+<p class="text-small">כאשר 1 זה לא עמוס ו-5 עמוס מאוד </p>
+<form  action="/load" method="post" class="rating">
+    <label>
+        <input type="radio" name="stars" value="1" onchange="this.form.submit()" />
+        <span class="icon">★</span>
+    </label>
+    <label>
+        <input type="radio" name="stars" value="2" onchange="this.form.submit()" />
+        <span class="icon">★</span>
+        <span class="icon">★</span>
+    </label>
+    <label>
+        <input type="radio" name="stars" value="3" onchange="this.form.submit()" />
+        <span class="icon">★</span>
+        <span class="icon">★</span>
+        <span class="icon">★</span>
+    </label>
+    <label>
+        <input type="radio" name="stars" value="4" onchange="this.form.submit()" />
+        <span class="icon">★</span>
+        <span class="icon">★</span>
+        <span class="icon">★</span>
+        <span class="icon">★</span>
+    </label>
+    <label>
+        <input type="radio" name="stars" value="5" onchange="this.form.submit()" />
+        <span class="icon">★</span>
+        <span class="icon">★</span>
+        <span class="icon">★</span>
+        <span class="icon">★</span>
+        <span class="icon">★</span>
+    </label>
+</form>
+    </div>
+
+    <%- include('include/end.ejs') %>
+

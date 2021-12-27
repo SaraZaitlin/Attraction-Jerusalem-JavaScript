@@ -1,0 +1,927 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "ATtYBwIugB0pKKoFUx4f7FaEiqdnNmloaEihgaWVN5cg6n8954xTJZwRK399sOxtH0fr8qeqhsh2YBlacgs7NlPUI1nONMd3qGWPdOgoE2vJOXe5ROf5fZ5P-lmxiFFZUbE1dZSOrD7yUtluFs0fH_HNEiXpbcKznHux1o8xUAx2s1wBzhKGsbV-ck3NWV7ykWmyJmVQO-4j761a2-kwck_90LrE-TRq8uxJKhZxpLrGS4vZSFpBrt3RFdXDA5wofSSqt2WpnxiCe1ClKDw5cCshCdFsYawJ4C2O_5vSx4Fzd-QIofwgkaybNvmkopo8cDctXDnTv9JUbl6YZnRc2TMRgXT--47u2YzKGa-1IVIFOSxmdd15flmObbZ5Lhm0DLIyFi015hX2cTfx9cIMl62i6j3KnfCmRe9XvlnEmdKRJWnKQWKzpDEvyfq9x39mjfzYvqLF5imv4t9HxUNmUjQjx_K5PAW_gSPIByyzhcAJrn50VnySU3N1GRBrPJi_qFBK4fcLKyUAqABcmuHAUVrHYr-FohHK3SHIwhGoyaMKE-OOKMjeZSPaaRcrgdTk3RQRtXiFgUxnYm1YPc5M_xD7adILkdGKVBqk9vLlc3IJ2RCCjAKBCwWJfxKyX5JoUBUkWINbvtnuwlnbUWpckg",
+  "results" : [
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7877779,
+          "lng" : 35.2231426
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7891765302915,
+            "lng" : 35.22450953029149
+          },
+          "southwest" : {
+            "lat" : 31.7864785697085,
+            "lng" : 35.22181156970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "יואלי'ס",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 2340,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110897421958455112740\"\u003eDavid Cooper\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJK_b7-cg8Fy3UQN9bUjtTt1N52Aos5aCE5cF3M2I5YcevcvfFDY6I3DrlwjSsYiJCNm8WwotZZ5GNBzzVx9G3v76yxo_z_E2lqTEeA5GA8N0i4zPfNguC6o55YgXvJXWHdk_vCcPHAkpseZv5k4VMfCXoXvw1Ys1yIoCIOIhj1pqls",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJRY_hj9wpAxUReFEqwBFiy9s",
+      "plus_code" : {
+        "compound_code" : "Q6QF+47 ירושלים, ישראל",
+        "global_code" : "8G3QQ6QF+47"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJRY_hj9wpAxUReFEqwBFiy9s",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 130,
+      "vicinity" : "בית ישראל 2, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7878242,
+          "lng" : 35.22273630000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7892074802915,
+            "lng" : 35.2240869802915
+          },
+          "southwest" : {
+            "lat" : 31.7865095197085,
+            "lng" : 35.2213890197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "שבט אחים",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 2160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106091419523674344131\"\u003eאלשחר אהרן\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKX8tCT3qJtfn4pBDajy4KtQWJZ6En57zAPh3ppydxwH9UUMW0PuTYMntSNtdAnYeZI7QhT4BLIc7SuYTN8v1lkx3oXtNX-WomH6MpdNl9au981piWe9PuOcm2E5SmBXuEnr4P_16cRPO4xdvHbkYTJ0jCDPSHjIgalDjfOzmn9Ptdj",
+          "width" : 3600
+        }
+      ],
+      "place_id" : "ChIJsaymf9wpAxURfWHyzYnLHn0",
+      "plus_code" : {
+        "compound_code" : "Q6QF+43 ירושלים, ישראל",
+        "global_code" : "8G3QQ6QF+43"
+      },
+      "price_level" : 1,
+      "rating" : 4.3,
+      "reference" : "ChIJsaymf9wpAxURfWHyzYnLHn0",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 278,
+      "vicinity" : "חסידי קרלין 4, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.78676849999999,
+          "lng" : 35.223543
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.78814733029149,
+            "lng" : 35.2249315802915
+          },
+          "southwest" : {
+            "lat" : 31.78544936970849,
+            "lng" : 35.2222336197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "טועמיה בע\"מ",
+      "place_id" : "ChIJfV5fcNspAxURiAeoWGoddcs",
+      "plus_code" : {
+        "compound_code" : "Q6PF+PC ירושלים, ישראל",
+        "global_code" : "8G3QQ6PF+PC"
+      },
+      "rating" : 4,
+      "reference" : "ChIJfV5fcNspAxURiAeoWGoddcs",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 3,
+      "vicinity" : "מאה שערים 1, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7823031,
+          "lng" : 35.2288819
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7836558802915,
+            "lng" : 35.23023278029149
+          },
+          "southwest" : {
+            "lat" : 31.7809579197085,
+            "lng" : 35.2275348197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "מסעדת אלעאיד",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111862814881777960442\"\u003eSHoOTeR GAMING\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLwk_GOmtZIks4OR-dcq9brkoEGaKF4pmENG0KG2MxhG3y09iJd9pNE362fYmm5-I0YjZwierXESf083L0gXcaQXGbhISiq2ncpW78ertYPXyew0cDyUC7H_fUwXoV8LuypgvrM_WNFAPGRq4cZpNrYl7g4zGQaoBs9jrf-VqvNTQ6X",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJG_yso8UpAxURM5rhlDoziKU",
+      "plus_code" : {
+        "compound_code" : "Q6JH+WH ירושלים",
+        "global_code" : "8G3QQ6JH+WH"
+      },
+      "price_level" : 1,
+      "rating" : 4.1,
+      "reference" : "ChIJG_yso8UpAxURM5rhlDoziKU",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 114,
+      "vicinity" : "הנביאים 4, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7942548,
+          "lng" : 35.2174466
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7956628802915,
+            "lng" : 35.2187579802915
+          },
+          "southwest" : {
+            "lat" : 31.7929649197085,
+            "lng" : 35.2160600197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "דוקטור פיצה",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 435,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105387132982145515619\"\u003eדוקטור פיצה\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIFMkZ1yyG8V5jHY2M_lPfArLCGpx4EY21qIeV48-g1vHU1BC7HSHz1GEfpi_qcPRwqmrEblxZMA5yXbiYnft7qWr8BTpr-uv2qX73Do9VLpVOUS9K7rYCwyBLc3DZOpoQDqUTr3NBgnL-D1gwLy2Egr6tfI9myNyRH3JiRuvrbEH5T",
+          "width" : 874
+        }
+      ],
+      "place_id" : "ChIJxcBrM-cpAxUR_1UaxgyLmR0",
+      "plus_code" : {
+        "compound_code" : "Q6V8+PX ירושלים, ישראל",
+        "global_code" : "8G3QQ6V8+PX"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJxcBrM-cpAxUR_1UaxgyLmR0",
+      "scope" : "GOOGLE",
+      "types" : [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total" : 391,
+      "vicinity" : "בר אילן 31, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7891674,
+          "lng" : 35.21845579999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7904937802915,
+            "lng" : 35.2198004302915
+          },
+          "southwest" : {
+            "lat" : 31.7877958197085,
+            "lng" : 35.2171024697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "הולי בייגל",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 639,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112679735756077249875\"\u003eHoly Bagel Geula &quot;badatz Aedah HaChareidis&quot; הולי בייגל אנג׳ל גאולה העדה החרדית\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIqNQdzg77279Br6eFvadHhQfB320bThBS5vj1rWR-TdNv5yqEDuspXOQHldj4WO3pMKjE9sQFZwL3Yl-Zrli-iFwrUiePJUguwBmRFDQ-GKBOZIwo_8AI5KKi16r58xvlZ1v4bKXyNtVZSF3utz8OXEqrzFCPJ_UMNoIEJsa_6fuT-",
+          "width" : 1136
+        }
+      ],
+      "place_id" : "ChIJ3U4oM9kpAxUR8vPRyrFN4R4",
+      "plus_code" : {
+        "compound_code" : "Q6Q9+M9 ירושלים, ישראל",
+        "global_code" : "8G3QQ6Q9+M9"
+      },
+      "price_level" : 2,
+      "rating" : 4.4,
+      "reference" : "ChIJ3U4oM9kpAxUR8vPRyrFN4R4",
+      "scope" : "GOOGLE",
+      "types" : [
+        "bakery",
+        "meal_takeaway",
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total" : 249,
+      "vicinity" : "חגי 20, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7934818,
+          "lng" : 35.2154503
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7948101302915,
+            "lng" : 35.2167055302915
+          },
+          "southwest" : {
+            "lat" : 31.7921121697085,
+            "lng" : 35.2140075697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "בוש בייגלס",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3072,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105696156550766996184\"\u003eTrần Văn Khánh\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJC8X681C5cDRd4wsCCfOD6SZlVDBnVh-1CpPn7RqkxiDpn2g3dcOUnYVu-RXshOz-WrUpTt910IbpefJsqFDWjzz1Ga-ScVuFeCTSG4OjcRepsjwXuasevf4nFNpGeNMDpNFYtgI2wC1iXXnaJTuD4Q6ziWuygXJtTtG2IWGhvmcdP",
+          "width" : 4096
+        }
+      ],
+      "place_id" : "ChIJXd29jt8pAxURsHNdQ00YSZg",
+      "plus_code" : {
+        "compound_code" : "Q6V8+95 ירושלים, ישראל",
+        "global_code" : "8G3QQ6V8+95"
+      },
+      "price_level" : 2,
+      "rating" : 4.5,
+      "reference" : "ChIJXd29jt8pAxURsHNdQ00YSZg",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 234,
+      "vicinity" : "צפניה 61, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7841667,
+          "lng" : 35.2213889
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7853053302915,
+            "lng" : 35.22267198029149
+          },
+          "southwest" : {
+            "lat" : 31.7826073697085,
+            "lng" : 35.21997401970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name" : "וילה בראון מלון בוטיק בירושלים",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 315,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110131737870888230695\"\u003eVilla Brown Jerusalem Boutique Hotel | מלון וילה בראון ירושלים\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKgMSzwTDwX2B2EPn_yxkPEFTH0l-COdafABR_eLgtVXdnQrl7--slTTsbSw_twPb9-SOlFqulvCeGUMIar0PIiDk1xK6tkrh03CFvEyYWQGw74Gau7NGRAgKsd-NZtg8z2Hyv0buCquyTjtQg2Y5vg3RjyxRIjcRpdRXisxrPOcoHg",
+          "width" : 600
+        }
+      ],
+      "place_id" : "ChIJ-W0MD9opAxURX4qING_nA5Y",
+      "plus_code" : {
+        "compound_code" : "Q6MC+MH ירושלים, ישראל",
+        "global_code" : "8G3QQ6MC+MH"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJ-W0MD9opAxURX4qING_nA5Y",
+      "scope" : "GOOGLE",
+      "types" : [
+        "spa",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total" : 485,
+      "vicinity" : "הנביאים 54, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7892903,
+          "lng" : 35.21526430000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7906232802915,
+            "lng" : 35.2166053802915
+          },
+          "southwest" : {
+            "lat" : 31.7879253197085,
+            "lng" : 35.21390741970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "סאם בייגלס",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 2448,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105447453437302986204\"\u003eאיתיאל נקי\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJo5lxzGafv8-jWNpaTbTr6AnsFBSthsfJEUG-8mDlh8VvBKfZ783YpIahsqAHzZqBqb-__H4eyH98YAgl51lXnAklIhv5TG3ZVftqgGE0xJOO6Wn44aJQ3UwOpZ8CiUNkZ8vE58868Xg1Y76XkONEvJdjFNgo-5CgjKme4P2oUGdLS",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJ91RFo9gpAxURupSEf1rqEnE",
+      "plus_code" : {
+        "compound_code" : "Q6Q8+P4 ירושלים, ישראל",
+        "global_code" : "8G3QQ6Q8+P4"
+      },
+      "price_level" : 2,
+      "rating" : 4.2,
+      "reference" : "ChIJ91RFo9gpAxURupSEf1rqEnE",
+      "scope" : "GOOGLE",
+      "types" : [
+        "bakery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total" : 635,
+      "vicinity" : "מלכי ישראל 26, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7790477,
+          "lng" : 35.2223634
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7804010802915,
+            "lng" : 35.2237220302915
+          },
+          "southwest" : {
+            "lat" : 31.7777031197085,
+            "lng" : 35.2210240697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name" : "וופל בר",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 3120,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104887730565373916550\"\u003eGal Meltzer\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwI8F4z7QTj6DEyt02aFdoitEK0PoqK7eCHgcR5g_wv3TsU6f0ZyO8NJIwmxfjqxbBDoK8hoWyo58PZ-YJppdDJUr0rpFpGNMWNBrDgbGwuoNcgNpdwlDQXqaS4AJmoFmQWqkJJzCnHwPO__W7fUsMSqMxj6-PLc6V4L-jD1S6gWw9ke",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJvbeE15LXAhUR-TulqMM4QuA",
+      "plus_code" : {
+        "compound_code" : "Q6HC+JW ירושלים, ישראל",
+        "global_code" : "8G3QQ6HC+JW"
+      },
+      "price_level" : 2,
+      "rating" : 3.9,
+      "reference" : "ChIJvbeE15LXAhUR-TulqMM4QuA",
+      "scope" : "GOOGLE",
+      "types" : [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total" : 771,
+      "vicinity" : "שלומציון המלכה 18, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.797013,
+          "lng" : 35.2134407
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7984186302915,
+            "lng" : 35.21470253029149
+          },
+          "southwest" : {
+            "lat" : 31.7957206697085,
+            "lng" : 35.2120045697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "מסעדת גולדיס בית ישראל",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 2322,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110217458709659133275\"\u003eאלי סמט\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLEIYR9nWPSKj9jUhzrBedCpYlVGNCOilERNSCc4nLlx4KHMQ9vjdpfIE_8-vcN5OfF-1kILC5D5vu3l3hv0jNGNFP1lwlVqWjhkCJ_islYg76sVBzJV1UzUhj3tFPhfBfZq3fAfXETiYSV3bSgU2edMl96uzROtOLQYfD17dlhGjjS",
+          "width" : 4128
+        }
+      ],
+      "place_id" : "ChIJe5OzwB_WAhURTWLNOLjaO-U",
+      "plus_code" : {
+        "compound_code" : "Q6W7+R9 ירושלים, ישראל",
+        "global_code" : "8G3QQ6W7+R9"
+      },
+      "price_level" : 2,
+      "rating" : 4.5,
+      "reference" : "ChIJe5OzwB_WAhURTWLNOLjaO-U",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 477,
+      "vicinity" : "עזרת תורה 18, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7794557,
+          "lng" : 35.23079570000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7808046802915,
+            "lng" : 35.2321446802915
+          },
+          "southwest" : {
+            "lat" : 31.7781067197085,
+            "lng" : 35.22944671970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "Family Restaurant",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103035351663090007995\"\u003eFamily Restaurant\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJmWFO4BwZElVNl3NQ0--YLzsiPaG-QemFY_fyvJ_oB5wt6rNDnzZ1JoNi5XKQynhlbqwP5Pzwyumd12oHCLcNRoszeJ7kjOqCVndW2C5gNsgQC1LHj9x0oCEvUebvvgTRWFtbWX2GDReJw6x7545AVwJR0BDOqdDvacjel6AzDSNLh",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJJaMYT88pAxURUKNaaDcbdf4",
+      "plus_code" : {
+        "compound_code" : "Q6HJ+Q8 ירושלים",
+        "global_code" : "8G3QQ6HJ+Q8"
+      },
+      "rating" : 4.2,
+      "reference" : "ChIJJaMYT88pAxURUKNaaDcbdf4",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 73,
+      "vicinity" : "via de la rosa, khan el-zeit street no.77 next to the 7th station of the, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7833887,
+          "lng" : 35.2197541
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7847287302915,
+            "lng" : 35.22109268029151
+          },
+          "southwest" : {
+            "lat" : 31.7820307697085,
+            "lng" : 35.21839471970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "אנה מסעדה איטלקית",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 4832,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109021099143481185047\"\u003eAnna\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLIcfxcfDbtExibCEBh2IVG_Gm5brxV98HnnpGnmHUV8tF_PvO1G0dPwbVrUcD1HfmQ7otq0eSTEhZCpcMFGImYJlMPs6JQE8d7UV-PbD_zsqJYNV_4hydFwkIb9PvS5uDUqd4yWRgOWsjHRMDfutI08b3HSzja_1CY0OYVoJ77OlL4",
+          "width" : 7249
+        }
+      ],
+      "place_id" : "ChIJURLZadcpAxURcFcNBpL9txA",
+      "plus_code" : {
+        "compound_code" : "Q6M9+9W ירושלים, ישראל",
+        "global_code" : "8G3QQ6M9+9W"
+      },
+      "price_level" : 2,
+      "rating" : 4.4,
+      "reference" : "ChIJURLZadcpAxURcFcNBpL9txA",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1234,
+      "vicinity" : "הרב אג\"ן 10, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8019409,
+          "lng" : 35.2132911
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8033055802915,
+            "lng" : 35.2147048802915
+          },
+          "southwest" : {
+            "lat" : 31.8006076197085,
+            "lng" : 35.2120069197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "WOK STATION",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3456,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110021579046048289210\"\u003eEffy Teva\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIRTdjeZQqX3EBl8QiKxOG8mlQJhpSyXUvGiPlmhdPuk9b1KdhbgjV8jkoX9urHu4eM_CSiHOQQgJr-YeO8BoURwU_apQHWjgIVYWcxLsBqPs_MbJSfkkd9caz2NG-Tpr2-87bURag2dBAmraF-1vdlPqmvXCcveJDclsPCEwdBestV",
+          "width" : 4608
+        }
+      ],
+      "place_id" : "ChIJfWS0vx3WAhURhQxYZoAldqU",
+      "plus_code" : {
+        "compound_code" : "R627+Q8 ירושלים, ישראל",
+        "global_code" : "8G3QR627+Q8"
+      },
+      "price_level" : 2,
+      "rating" : 4.1,
+      "reference" : "ChIJfWS0vx3WAhURhQxYZoAldqU",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 246,
+      "vicinity" : "הרטום 7, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7821153,
+          "lng" : 35.22114610000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7834753802915,
+            "lng" : 35.22251318029149
+          },
+          "southwest" : {
+            "lat" : 31.7807774197085,
+            "lng" : 35.2198152197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "מסעדת דארנא",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107433198319322966452\"\u003eGhassan Maslamani\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKGrxc_Vc3F_GfCyGeS-CHiXmt50ItFPR98m1WnjE79ZSwyBBC46eecWOSJQEYxN9XxjSfVevXwVm-s1V2aArPbvVcmn776GB4Zvx94wNf5O2Juk_GKg0Uk2wRQLMCMDnJktFWcmMhunCbphx41upGegYbuk-y9JZF8MllgGtCVl0DB",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJ0wpnuNApAxUR7a1vuaLmfuk",
+      "plus_code" : {
+        "compound_code" : "Q6JC+RF ירושלים, ישראל",
+        "global_code" : "8G3QQ6JC+RF"
+      },
+      "price_level" : 3,
+      "rating" : 4.1,
+      "reference" : "ChIJ0wpnuNApAxUR7a1vuaLmfuk",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 484,
+      "vicinity" : "יוחנן הורקנוס 3, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7820241,
+          "lng" : 35.2205156
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7833960302915,
+            "lng" : 35.2218391802915
+          },
+          "southwest" : {
+            "lat" : 31.7806980697085,
+            "lng" : 35.2191412197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "Restaurante etio Israel",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2448,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/104268185367995685566\"\u003eAlon Aharon\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKTkbtg58p1D0SZsfu93FsGhHS7A3G_cgmFBTXpX_ZHF5ma2SUJQZSTTXUsnj-d8cnvrhRmuEWieE8Qbvt8xVvbk2gm5gDVkQZnBeaMyL_KnxnZ7ykdSkaXjwf5HXs3lhH6Wtqx7cJntR6GfIfDh2ojKvTDVk4dFBCLacARdMkum73R",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJHfOdy9ApAxUR6SoCPEk611k",
+      "plus_code" : {
+        "compound_code" : "Q6JC+R6 ירושלים, ישראל",
+        "global_code" : "8G3QQ6JC+R6"
+      },
+      "rating" : 3,
+      "reference" : "ChIJHfOdy9ApAxUR6SoCPEk611k",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 3,
+      "vicinity" : "יצחק אלישר 6, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8039925,
+          "lng" : 35.2135501
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8051842802915,
+            "lng" : 35.2146946302915
+          },
+          "southwest" : {
+            "lat" : 31.8024863197085,
+            "lng" : 35.2119966697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "ריפרש",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3263,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103970418596451192142\"\u003eריפרש\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJj6XG_GxiLmwn56P-_ytn-AEgmEv-TjmIxrLQuJVYCsQqL0lT3WWRkvvPZnOmRHWouN8KkFvhjXxp3kc4zziYbR6_R2rMmI4Kc5HocttoUQf3-N4e5vS9pjHHrhxVAHb9TAxdrq-ynuKq8xzkpJtivLfQbOw8hEkMu0fGnjFs-yBcA",
+          "width" : 4902
+        }
+      ],
+      "place_id" : "ChIJFf08Ch3WAhURRIIHVoqJllI",
+      "plus_code" : {
+        "compound_code" : "R637+HC ירושלים, ישראל",
+        "global_code" : "8G3QR637+HC"
+      },
+      "price_level" : 2,
+      "rating" : 4,
+      "reference" : "ChIJFf08Ch3WAhURRIIHVoqJllI",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 234,
+      "vicinity" : "בית הדר, הרטום 10, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7812659,
+          "lng" : 35.220514
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7826827802915,
+            "lng" : 35.2219243802915
+          },
+          "southwest" : {
+            "lat" : 31.7799848197085,
+            "lng" : 35.21922641970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "נוצ'",
+      "place_id" : "ChIJP9tZ0dApAxURQsQkG8u8RXA",
+      "plus_code" : {
+        "compound_code" : "Q6JC+G6 ירושלים, ישראל",
+        "global_code" : "8G3QQ6JC+G6"
+      },
+      "reference" : "ChIJP9tZ0dApAxURQsQkG8u8RXA",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "vicinity" : "יפו 31, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8004005,
+          "lng" : 35.2117645
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8016381302915,
+            "lng" : 35.2131100802915
+          },
+          "southwest" : {
+            "lat" : 31.7989401697085,
+            "lng" : 35.2104121197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "מסעדת אנטריקוט",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1066,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/110367132790905975953\"\u003eליבנת וקנין\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKSGRBju8ta6PvuidEF1OR7MNHaRFqOhh1Yh-2wMzbvQndeQ0OQmm-LsqKH-Gek0__k6ack66zRozhOrxMXeOdQIu5M-Zfu_7CamRbguGW2B8cgip2MpvU5XfCACD5cnydaIva9or7a01_mBBKmkL9tfferT2M4LMYDzJe35FejKmg8",
+          "width" : 1600
+        }
+      ],
+      "place_id" : "ChIJpSjhfx7WAhURcmoT40Lr1nk",
+      "plus_code" : {
+        "compound_code" : "R626+5P ירושלים, ישראל",
+        "global_code" : "8G3QR626+5P"
+      },
+      "price_level" : 2,
+      "rating" : 4,
+      "reference" : "ChIJpSjhfx7WAhURcmoT40Lr1nk",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1409,
+      "vicinity" : "המרפא 1, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.78123309999999,
+          "lng" : 35.2211278
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.78252373029149,
+            "lng" : 35.2224047802915
+          },
+          "southwest" : {
+            "lat" : 31.7798257697085,
+            "lng" : 35.2197068197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "name" : "קופי בין",
+      "photos" : [
+        {
+          "height" : 2592,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113017640441067316568\"\u003eAryeh Holtzberg\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJCFgoT8yZSEosT23_eBE2LsxA2Wncb7YzJ2MrDuqDVpyaePYCMzMOy5VTIDEzY6PUKoBJZZsEjjNR20fQ9FtL1I3r3hZMGj2m-bQYLbKXvWkoIxLeNkFfwtIMjdRUPdgxfxVt21_w08AATJR_WwgCVJXbAjobzqT-2uXw9jWQUHuPo",
+          "width" : 4608
+        }
+      ],
+      "place_id" : "ChIJZ6ph0dApAxURQ6RzZ3nY3po",
+      "plus_code" : {
+        "compound_code" : "Q6JC+FF ירושלים, ישראל",
+        "global_code" : "8G3QQ6JC+FF"
+      },
+      "price_level" : 2,
+      "rating" : 3.8,
+      "reference" : "ChIJZ6ph0dApAxURQ6RzZ3nY3po",
+      "scope" : "GOOGLE",
+      "types" : [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total" : 961,
+      "vicinity" : "יפו 34, ירושלים"
+    }
+  ],
+  "status" : "OK"
+}

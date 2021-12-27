@@ -1,0 +1,889 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "ATtYBwIreO3vfF4lTHdLov9GpFVZb_olmksNoZ_4j-DhuF2nN1s3grWqHDJ1sHYTJDthhK3nhauVdQSQenuDxXQ0ujiUy1GI-cqFUaikF6SMA0-iQ_0kp_UeieeX4AvDKPUKUNZ7CEVKGBRQEaruDuxhDcBbnos7C7Vb_d4ezFVIRr23HM7DgjsJQB59fug4pgy0zkxCyoxSfvuaqDYzPwnsPQYq3RvL5deS_zhwedbKnA1uU2_OQoJoRZNs1HOYguvud9ovZcjfRmHOuG9pvT92XwdOUYDi-n-dpTpnq0oDjrgFIaBP5Z30fvRyFfdXDUMAhxvAxo4oFzKzCrIfEwIsKCnyH2mMd1Mc5510A6jC0iPAxBuqj1EyDjUcio9w7gLQvmXgUKf0N9T4GCUGtSrUkC8Mq3-1Ybxo_GNLet2-08a86GbhUuSPUwfY4Daw",
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8225879,
+          "lng" : 35.2376613
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8239273802915,
+            "lng" : 35.23899573029151
+          },
+          "southwest" : {
+            "lat" : 31.8212294197085,
+            "lng" : 35.23629776970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "באגט הפעמון",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 290,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116054432482952490166\"\u003eבאגט הפעמון\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJVOMDffHuIsz57gJiYOuajyI6JBMq2_4tkN4aLobv2lZ8Cnn1F-oE1fq77J0uflhHHHOp0EddvduCIUuqRWC-CmTFo3TZcKPpDzjpIHTby3cBJP1mq6Kd-sl7xhyxF7gaXkTKyruWyEi5YYzgJ3WfqhuabK3qjr7x7T_KuQOT3wjmK",
+          "width" : 512
+        }
+      ],
+      "place_id" : "ChIJCSiE5D0qAxURhzYu2KG1tDQ",
+      "plus_code" : {
+        "compound_code" : "R6FQ+23 ירושלים",
+        "global_code" : "8G3QR6FQ+23"
+      },
+      "rating" : 3.8,
+      "reference" : "ChIJCSiE5D0qAxURhzYu2KG1tDQ",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 152,
+      "vicinity" : "פסגת זאב, שדרות משה דיין 156, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8202358,
+          "lng" : 35.2398545
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8215832802915,
+            "lng" : 35.2413339302915
+          },
+          "southwest" : {
+            "lat" : 31.8188853197085,
+            "lng" : 35.2386359697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "מפגש השייח",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1588,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105426428829552797370\"\u003eanwor alashrm\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLAc3yIrPTOyXSBOEcYQVF8Np3RRhAlD8vS84Qe8lEpGKQEf0oUSrJje8FDZTjdS1Dj4QiM4LdvGCgzQEaDCF1wDpRGH_pS8bp8btt58f0SP_7ikZAL5I2ykfSz7c0ut_ferEe26cTPyIHDUguWdpoyaCr7bdoDVAK_7B6PHOdoZJhm",
+          "width" : 3264
+        }
+      ],
+      "place_id" : "ChIJVSMxUjwqAxURIhu-2C8TOVA",
+      "plus_code" : {
+        "compound_code" : "R6CQ+3W ירושלים",
+        "global_code" : "8G3QR6CQ+3W"
+      },
+      "price_level" : 1,
+      "rating" : 4.1,
+      "reference" : "ChIJVSMxUjwqAxURIhu-2C8TOVA",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 238,
+      "vicinity" : "שדרות משה דיין 166, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.835071,
+          "lng" : 35.22757199999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8364184802915,
+            "lng" : 35.22895588029149
+          },
+          "southwest" : {
+            "lat" : 31.8337205197085,
+            "lng" : 35.22625791970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "Abu Shukri Restaurant",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 2610,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115939561136492500083\"\u003eeiad salymeh\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJr7MaKL_a9mjBFB-hg0OX5C72DCMcWnuaWbtml8-1AthYhEtnILgFX0YLvllisc2M2TuoaqtSAuxC8d19h_JHw2Rs3pTqF3VH3Aj8BEFPF1lCjbD7X9qqJX_YJLYrcbnIfjSY-lmaFNWD0qG7HsGQcPqMSMbE8pMFHe32Z6o-ynaSI",
+          "width" : 4640
+        }
+      ],
+      "place_id" : "ChIJ2cK1xm0qAxUR1GxdSiqPkAA",
+      "plus_code" : {
+        "compound_code" : "R6PH+22 ירושלים",
+        "global_code" : "8G3QR6PH+22"
+      },
+      "price_level" : 1,
+      "rating" : 4.3,
+      "reference" : "ChIJ2cK1xm0qAxUR1GxdSiqPkAA",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 461,
+      "vicinity" : "Derech Beit Hanina , Between Al-Mu'tasem street & Abed e-rahman Dajani Street"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8195607,
+          "lng" : 35.24881209999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.82099103029149,
+            "lng" : 35.2501514302915
+          },
+          "southwest" : {
+            "lat" : 31.8182930697085,
+            "lng" : 35.2474534697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "קראנץ' באגט",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113250515763674513264\"\u003etal yankovich\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLqTlKbiyhh0IzyGGYHn-zjH1IQ7LmGvtXuIlXafZijEEUiyIi5FMiSJ_Rol8WQaH4TmUsoXWccYUo4PapBy269NiBmtvWkqx99UPIlojKeoK7Q33us3jDVhPB6-ZBzZnJr96sMpQlhU7uyR_M27DtzvTGhppekmErj9edN2nZvV191",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJW7J9TDcqAxURQU9PAKQMLpE",
+      "plus_code" : {
+        "compound_code" : "R69X+RG ירושלים",
+        "global_code" : "8G3QR69X+RG"
+      },
+      "rating" : 4,
+      "reference" : "ChIJW7J9TDcqAxURQU9PAKQMLpE",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 95,
+      "vicinity" : "מאיר גרשון 34, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.828004,
+          "lng" : 35.240199
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8293456802915,
+            "lng" : 35.2415315302915
+          },
+          "southwest" : {
+            "lat" : 31.8266477197085,
+            "lng" : 35.2388335697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "פסגת הבאגט תחנת דלק פז פ.זאב",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 810,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115869028237488457526\"\u003eפסגת הבאגט תחנת דלק פז פ.זאב\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJXBTdCAGjM707Dax4ncBb4YQRUXKc9MQbRqAnnWLF2egmSJqj6uoH8I69M3J8OtjUIKthsCO6CTfOTaTehZdKuIsbPhT0Dlo8e65H1wHWFRxfZgHYVLnGb2HKTAMPbxbVxuTjEXqdj9Nm4VUUUru-G1rXhyVPULZaFam7QTMXiFDt0",
+          "width" : 1080
+        }
+      ],
+      "place_id" : "ChIJW_eNWSXWAhUR7Tvtz5GDzHY",
+      "plus_code" : {
+        "compound_code" : "R6HR+63 ירושלים",
+        "global_code" : "8G3QR6HR+63"
+      },
+      "rating" : 3.9,
+      "reference" : "ChIJW_eNWSXWAhUR7Tvtz5GDzHY",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 33,
+      "vicinity" : "שדרות משה דיין 98, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8251138,
+          "lng" : 35.23863
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8264271302915,
+            "lng" : 35.2400109302915
+          },
+          "southwest" : {
+            "lat" : 31.8237291697085,
+            "lng" : 35.2373129697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "פסגת ההאגט",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "place_id" : "ChIJBWg1sz8qAxURAFeZF2U85hw",
+      "plus_code" : {
+        "compound_code" : "R6GQ+2F ירושלים",
+        "global_code" : "8G3QR6GQ+2F"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJBWg1sz8qAxURAFeZF2U85hw",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 24,
+      "vicinity" : "שדרות משה דיין, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.82134110000001,
+          "lng" : 35.23960410000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8226807302915,
+            "lng" : 35.24093853029149
+          },
+          "southwest" : {
+            "lat" : 31.81998276970851,
+            "lng" : 35.23824056970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "אומאמי פסגת זאב",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 587,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/118336130459550675547\"\u003eאומאמי פסגת זאב\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKHqDUY95NA3vUH4dYVVSVfT19Ap1ctxpA6pwHWj74-kwDDb13I4HWquHuqBPfZwSmyT7q_ePYtg0NMTXhPRTZxT5hKD_DRTy-R_Djas9gK3Dm8XHurCvDTn_44r5wkv4xBWFBU2Z2QkfDH5lWaydKmPxvDCs-GANhg1GhyNvOOnvNw",
+          "width" : 960
+        }
+      ],
+      "place_id" : "ChIJd4HVk0orAxUROHtjsP5GZog",
+      "plus_code" : {
+        "compound_code" : "R6CQ+GR ירושלים",
+        "global_code" : "8G3QR6CQ+GR"
+      },
+      "rating" : 4,
+      "reference" : "ChIJd4HVk0orAxUROHtjsP5GZog",
+      "scope" : "GOOGLE",
+      "types" : [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total" : 26,
+      "vicinity" : "שדרות משה דיין 162, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.82072579999999,
+          "lng" : 35.2399349
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.82208583029149,
+            "lng" : 35.2413231302915
+          },
+          "southwest" : {
+            "lat" : 31.81938786970849,
+            "lng" : 35.2386251697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "ניו דלי Newdeli",
+      "photos" : [
+        {
+          "height" : 1200,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103762075195252873305\"\u003eניו דלי Newdeli\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLODw-3TXbHkrze9MNoUhFccfWeTzJv3lnKsIC4G6c7jedtu2n_sidZr2fWMJcjjUXwfZDQv0yk3rXwu7MxWyTAfAF1JQnweilqXljv1F3oESirKlyJv_0CPmch4taHbrauUsBfGpAPOB9j3OD2PEslFZ3l5wr91NIJympMSx1PNNXl",
+          "width" : 1600
+        }
+      ],
+      "place_id" : "ChIJxyDVGVwrAxUR3yPrAi3sb-E",
+      "plus_code" : {
+        "compound_code" : "R6CQ+7X ירושלים",
+        "global_code" : "8G3QR6CQ+7X"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJxyDVGVwrAxUR3yPrAi3sb-E",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 64,
+      "vicinity" : "Moshe dayan 164, Pisgat Zeev, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8311218,
+          "lng" : 35.229162
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.83247463029149,
+            "lng" : 35.23046953029149
+          },
+          "southwest" : {
+            "lat" : 31.82977666970849,
+            "lng" : 35.2277715697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "Villa Pizza",
+      "photos" : [
+        {
+          "height" : 960,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115242044002399377280\"\u003eVilla Pizza\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLSnM1H-PfiFIsRWlIY5jIX7AAQkrPrybHI1kwCi-ytPnjJ9_IRcSXIQpPPyXBSBBRNM2_I7KS43If7dwk0Z_i9JOkwK0eOprdSCNr1lAIFA3e1n0wo4QbW-KzB0bHVneZrx-0OHyjEyzmk92q28gPRDTFw7HL-gmBrNU1awdq_Om2E",
+          "width" : 720
+        }
+      ],
+      "place_id" : "ChIJz4WJzmIrAxURIOeC3WEfsrk",
+      "plus_code" : {
+        "compound_code" : "R6JH+CM בית חנינא",
+        "global_code" : "8G3QR6JH+CM"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJz4WJzmIrAxURIOeC3WEfsrk",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 21,
+      "vicinity" : "Derech Beit Hanina 37, Beit Hanina"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.83088009999999,
+          "lng" : 35.2290896
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8322312802915,
+            "lng" : 35.2304265302915
+          },
+          "southwest" : {
+            "lat" : 31.8295333197085,
+            "lng" : 35.2277285697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "מסעדת ים הדגים - مطعم بحر السمك - Sea of Fish Restaurant",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1600,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103124117895596268261\"\u003eמסעדת ים הדגים - مطعم بحر السمك - Sea of Fish Restaurant\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKs4e8pNvTEdAb46TCSE5HniVZtoEozNSujjeT46w-4BBMJEjDjYjRDRRWFxJGWNaUTHR57fOcVenZALIQ_9qt5NPqAdM-dXDGoDMOgSgTa7EXkStFor8X86jg3lHuFLbHf1f5IPzSzhbZUQAVrqPZfxH1cFjshkqihw2cOi9qlL-k3",
+          "width" : 900
+        }
+      ],
+      "place_id" : "ChIJ6TF1-WsrAxUR2zECfp7KKKg",
+      "plus_code" : {
+        "compound_code" : "R6JH+9J ירושלים",
+        "global_code" : "8G3QR6JH+9J"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJ6TF1-WsrAxUR2zECfp7KKKg",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 128,
+      "vicinity" : "Gan Eden Square/Bait Hanina Road, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8203156,
+          "lng" : 35.2399487
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8216677802915,
+            "lng" : 35.2413799802915
+          },
+          "southwest" : {
+            "lat" : 31.8189698197085,
+            "lng" : 35.2386820197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "Burgersbar",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102464673343815779492\"\u003egadeer Gyj\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwK8CiGvUFMr0psOMOQqaofuk7nyDFWpHljpuvWmYNEhQMQIfsPqS6ZyDTsi2zAWflomesHmCSCsdCxfa_r1CDFTIgYSEH393T0pd6NMBpXyUXIzJMOqkACfYgHduq5Q50rmyBmr2oj1TfRh8YbGmJjEZONGVHImR-u900mix7jT1bn4",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJa4L8UTwqAxURMsodDcoH3Os",
+      "plus_code" : {
+        "compound_code" : "R6CQ+4X ירושלים",
+        "global_code" : "8G3QR6CQ+4X"
+      },
+      "rating" : 4.2,
+      "reference" : "ChIJa4L8UTwqAxURMsodDcoH3Os",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 348,
+      "vicinity" : "שדרות משה דיין 170, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8202595,
+          "lng" : 35.2399426
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8216074802915,
+            "lng" : 35.2413781802915
+          },
+          "southwest" : {
+            "lat" : 31.81890951970851,
+            "lng" : 35.2386802197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "בורגראנץ' פסגת זאב",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "place_id" : "ChIJrzahF0AqAxUR3TktedEFf40",
+      "plus_code" : {
+        "compound_code" : "R6CQ+4X ירושלים",
+        "global_code" : "8G3QR6CQ+4X"
+      },
+      "price_level" : 2,
+      "rating" : 3.2,
+      "reference" : "ChIJrzahF0AqAxUR3TktedEFf40",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 167,
+      "vicinity" : "פסגת זאב קניון הפסגה, שדרות משה דיין 166, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8412111,
+          "lng" : 35.2407137
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8426725302915,
+            "lng" : 35.2420626802915
+          },
+          "southwest" : {
+            "lat" : 31.8399745697085,
+            "lng" : 35.2393647197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "ברכת ה'מזון",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1868,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112130759656532401769\"\u003eיוסף חיים בוחבוט\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLurEQqsKke7SySrPghHc9NkmFcaL7saNer0osk4yrzExwW80dh3jRiDKbNtsc-kRJ986yFBOkBI7NbSeaYI73pqLUVIzlYfyxWBJOP7M8kqTa-od0YQCxzzKJSp2ZFYEuNqK4c5C0VMCyTq6dIEwzXkVf0F_ZT-jM4nncm2ipFDjxT",
+          "width" : 4000
+        }
+      ],
+      "place_id" : "ChIJ05z9TLwrAxURzYEZ5UOZEsY",
+      "plus_code" : {
+        "compound_code" : "R6RR+F7 ירושלים",
+        "global_code" : "8G3QR6RR+F7"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJ05z9TLwrAxURzYEZ5UOZEsY",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 4,
+      "vicinity" : "נווה יעקב/ מרכז מסחרי ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.84123559999999,
+          "lng" : 35.2412233
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.84258938029149,
+            "lng" : 35.2420913802915
+          },
+          "southwest" : {
+            "lat" : 31.83989141970849,
+            "lng" : 35.23939341970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "פיצה רויאל",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 1599,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105803180642514030926\"\u003eפיצה רויאל\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIHe-ci4dOM2g7rmhPh7WTCVzrf21WQ_J2fThFrUbVYydhqHPES7RFumIM2AkVDiG0ceXIjzpYFFdEcmaFoKXiPPNs23-Wur5wmwT0gHyrOzx3gwmQz3Ir-oTHighgFTEWZ9dmZTtsZCOIVI4M45zGGyy3Kdk3ZV_RnuXIR3jrDSNva",
+          "width" : 899
+        }
+      ],
+      "place_id" : "ChIJKbz7MrErAxUR5rsYT-DStmQ",
+      "plus_code" : {
+        "compound_code" : "R6RR+FF ירושלים",
+        "global_code" : "8G3QR6RR+FF"
+      },
+      "rating" : 4.2,
+      "reference" : "ChIJKbz7MrErAxUR5rsYT-DStmQ",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 98,
+      "vicinity" : "שדרות נווה יעקב, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8323939,
+          "lng" : 35.22875090000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8337184802915,
+            "lng" : 35.23005338029151
+          },
+          "southwest" : {
+            "lat" : 31.83102051970851,
+            "lng" : 35.22735541970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "Alyan BBQ&Steak Restaurant",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 540,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101855274290998791423\"\u003eAlyan BBQ&amp;Steak Restaurant\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwImEo94qXndFxzEvNlyGPbz6rdUQrrmsDrnQoDr0qrhmw7mdiL7ygVBbX4K8-fy2sP7goFQ268lJp8LUWf47Llh-z14w3GCwV6PKa_lkN6bZQ-JkggMxbT8tJoYHTTZVkXgpXejkyLrPUipI7eRhWeXuSpmCyKb7tvWaGx_-Ol1Av7q",
+          "width" : 960
+        }
+      ],
+      "place_id" : "ChIJuwPZIVcrAxURNLvocX6GTCM",
+      "plus_code" : {
+        "compound_code" : "R6JH+XG ירושלים",
+        "global_code" : "8G3QR6JH+XG"
+      },
+      "rating" : 4.2,
+      "reference" : "ChIJuwPZIVcrAxURNLvocX6GTCM",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 146,
+      "vicinity" : "Janet Adan, Beit Hanina Main St, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.829183,
+          "lng" : 35.228381
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8305305802915,
+            "lng" : 35.2297358302915
+          },
+          "southwest" : {
+            "lat" : 31.8278326197085,
+            "lng" : 35.2270378697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "مطعم العكرماوي",
+      "photos" : [
+        {
+          "height" : 1960,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111212250833276763370\"\u003enabil bsharat\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwICwFVNl5nZA1964hxsM9DjQxM04iA51IenZLU-EVyv0mp_vzMWbI6rRbluSw0-6U0_QZEas2vLrW1tCwGlrDnz0zZ6bIA28IwxGX7GNJjk6YZWZ9jBONpd22n4JOXk49zuGSZ37ROlPeZum-c6i88lJCYMqtkQw37mkxeLPXPCKU6-",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJZXdY6mgrAxURiboaflJqJf0",
+      "plus_code" : {
+        "compound_code" : "R6HH+M9 ירושלים",
+        "global_code" : "8G3QR6HH+M9"
+      },
+      "rating" : 3.4,
+      "reference" : "ChIJZXdY6mgrAxURiboaflJqJf0",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 19,
+      "vicinity" : "בית חנינא 38, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.82881030000001,
+          "lng" : 35.2279011
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8301878302915,
+            "lng" : 35.2292647302915
+          },
+          "southwest" : {
+            "lat" : 31.8274898697085,
+            "lng" : 35.2265667697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "مطعم و كافيه البستان - Bustan Restaurant & Cafe",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3255,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105817797966930321248\"\u003eمطعم و كافيه البستان - Bustan Restaurant &amp; Cafe\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJ8uSxQD0WnXGK8ZDAFLymYVCGyZKv0Y5VTecoDv52sH-EJgcoQx3-ofMQjiXwjnejpmSFm99jaMB2Rp7ovGnV6MZ4Oc57Cq4OxLXeAg-Ir0e93xkwZIPVrnQ8wYrtZQ5GWjqopSvopm199NrAVJvbzJ9SURoIHMMZS5YjYqNL4Q_A",
+          "width" : 4883
+        }
+      ],
+      "place_id" : "ChIJwdmy2P4rAxURMyJLipBNqMY",
+      "plus_code" : {
+        "compound_code" : "R6HH+G5 ירושלים",
+        "global_code" : "8G3QR6HH+G5"
+      },
+      "rating" : 4.2,
+      "reference" : "ChIJwdmy2P4rAxURMyJLipBNqMY",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 55,
+      "vicinity" : "Abd Alhamed Shoman, bait hanena, Jerusalem"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8273972,
+          "lng" : 35.2275076
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8287699802915,
+            "lng" : 35.2288194802915
+          },
+          "southwest" : {
+            "lat" : 31.8260720197085,
+            "lng" : 35.2261215197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "Fishing and Chips",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 721,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/117809095978286797435\"\u003eFishing and Chips\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIYmrVkoOWuKERyqxz2ygoJ_dvGi2KjfQFPTclFyhvyAehcXCS8kO4h9R-eHIk4UC2LaetriNtusKF8eDkhgdoYqcuVbIhQDXn_44z_6zX018Vu6bRwZ6uygM7OGTHYv-DYG6mJ59ubyVjeEISqcY4PJyUEvDhrqruAb4opllrk9Rbf",
+          "width" : 1280
+        }
+      ],
+      "place_id" : "ChIJEU88qE4rAxURBd_mQlDh-w4",
+      "plus_code" : {
+        "compound_code" : "R6GH+X2 ירושלים",
+        "global_code" : "8G3QR6GH+X2"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJEU88qE4rAxURBd_mQlDh-w4",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 3,
+      "vicinity" : "Beit Hanina main street 72, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8196782,
+          "lng" : 35.2499917
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8210796802915,
+            "lng" : 35.2513449802915
+          },
+          "southwest" : {
+            "lat" : 31.8183817197085,
+            "lng" : 35.2486470197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "שלום פלאפל פסגת זאב",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 302,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109976738444615582548\"\u003eשלום פלאפל פסגת זאב\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLgf4g2CobSjzcAHTqxjLs55OvNXiqi492h4uNxYTn9oFOugZIH4u0zVnGI1-X6BMtBaC5bU2QMAF4AdOl5mlsxaS6cOmEiAryfXeuPe33C9-6Krd2GSJAPJM128KfUGDiQUgQ4Zz2gp9N9cTREUo00SVkYeDO-QlOsk-e90EiwVDo5",
+          "width" : 540
+        }
+      ],
+      "place_id" : "ChIJDeZgw90rAxURsaq0n3Giruk",
+      "plus_code" : {
+        "compound_code" : "R69X+VX ירושלים",
+        "global_code" : "8G3QR69X+VX"
+      },
+      "price_level" : 1,
+      "rating" : 4.5,
+      "reference" : "ChIJDeZgw90rAxURsaq0n3Giruk",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 46,
+      "vicinity" : "מאיר גרשון 42, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8244729,
+          "lng" : 35.227289
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8258152302915,
+            "lng" : 35.22860483029149
+          },
+          "southwest" : {
+            "lat" : 31.8231172697085,
+            "lng" : 35.2259068697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "name" : "مطعم الخطيب للمأكولات البيتية",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/109100159578416452339\"\u003eBurhan Abdallah\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJg4QybfeGOqgrtWpDe94Jp37oQW8gLe6CcLcdpo42VNrtE4rJzWC38M6hn-tFFPGaC1Du1XLeGrmVkSI89NWtopi9GJfgf1lrdDZT0_nFjBdfLpq9laQ7_vhvHzEvnpwjjL7idNc1CQqrgH7TJcjNje4UObzMLK_1uYuyOwWYZTmjf",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJySEVuBEqAxURUfckPM3EcAQ",
+      "plus_code" : {
+        "compound_code" : "R6FG+QW ירושלים",
+        "global_code" : "8G3QR6FG+QW"
+      },
+      "price_level" : 2,
+      "rating" : 3.8,
+      "reference" : "ChIJySEVuBEqAxURUfckPM3EcAQ",
+      "scope" : "GOOGLE",
+      "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 76,
+      "vicinity" : "شارع, Beit Hanina Street, Jerusalem"
+    }
+  ],
+  "status" : "OK"
+}

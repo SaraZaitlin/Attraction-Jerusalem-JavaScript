@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he">
+<head>
+
+    <%- include('include/start.ejs') %>
+    <%- include('include/titleWeb.ejs') %>
+    <%- include('include/startLogin.ejs') %>
+
+
+
+
+                                <div class="text-center">
+                                    <h1 class="h4 text-gray-900 mb-4">התחברות </h1>
+                                </div>
+
+                                <form action="/login" method="post" class="user">
+                                    <div class="form-group">
+                                        <input type="email" name="email" class="form-control form-control-user"
+                                               id="exampleInputEmail" aria-describedby="emailHelp"
+                                               placeholder="הכנס כתובת מייל">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="password" name="password" class="form-control form-control-user"
+                                               id="password" placeholder="סיסמא">
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="custom-control custom-checkbox small">
+                                            <input type="checkbox" class="custom-control-input" id="customCheck">
+                                            <label class="custom-control-label" for="customCheck">זכור אותי</label>
+                                        </div>
+                                    </div>
+                                    <input type="submit" name="כניסה" class="btn btn-warning btn-user btn-block  rounded-full rounded-pill">
+
+                                    <hr>
+                                </form>
+                                <hr>
+                                <p ><%= result %> </p>
+
+                                <div class="flex border-solid border-0 border-t border-ce -mx-10 mt-8 ">
+                                    <div class="w-1/2 text-center text-brand font-semibold border-solid border-0 border-l border-ce">
+                                      <a class="text-warning block text-brand py-3 login_password_reset no-popunder" href="forgot-password.html">שכחת סיסמא</a></div>
+                                    <div class="flex border-solid border-0 border-t border-ce -mx-10 mt-8 ">
+                                    <a class="text-warning block-right text-brand py-3 login_password_reset no-popunder" href="/login/register">משתמש חדש</a>
+                                </div>
+
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+    <%- include('include/end.ejs') %>
+
+

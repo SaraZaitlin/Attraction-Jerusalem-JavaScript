@@ -1,0 +1,546 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7959696,
+          "lng" : 35.224978
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7974698298619,
+            "lng" : 35.22596401150386
+          },
+          "southwest" : {
+            "lat" : 31.79477186927891,
+            "lng" : 35.22326605092086
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן רובנס",
+      "photos" : [
+        {
+          "height" : 3120,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108055469817201410161\"\u003eJanek R\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwL8w9lMEAGi7zlXKR610L4EBkONwZNmyUVFGIZ0_9PXos4s3B6ssWdeILB95sGXndnqaHmM6FVMKYREt6i6m-i2oysbesyoycJsG6EibmzXeIW98KnCZC2J7WUxKSlQLovSyvHknNEQthOMmlPV697t2A5AkuNhZAP5OZ71MNkfhrp8",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJoZyoFOYpAxURQ98OdZGrfwE",
+      "reference" : "ChIJoZyoFOYpAxURQ98OdZGrfwE",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7911035,
+          "lng" : 35.24626629999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.79463703840441,
+            "lng" : 35.24716442738483
+          },
+          "southwest" : {
+            "lat" : 31.79074328787188,
+            "lng" : 35.24155808241881
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן הפסלים",
+      "photos" : [
+        {
+          "height" : 3120,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108055469817201410161\"\u003eJanek R\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwI1sXemBOLSAtSstTXSK5_0PgBjg4caH2MgbD7Qa1mPgAkMeh99v4m5pNhFj7fNS5pytRzNiUlBqdmQR_VAFVvjZKLulejn5zbNNscAHy6aWoJBdcy7wjr5GwoVkhXHweNimtHsDYgcYSfE_VO7MYyvCGlrynamH13lSw1M8HQRTE4e",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJ0ZUMEJEpAxURplOxG_OWeeU",
+      "reference" : "ChIJ0ZUMEJEpAxURplOxG_OWeeU",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8032056,
+          "lng" : 35.2378976
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8045544465178,
+            "lng" : 35.23930732126077
+          },
+          "southwest" : {
+            "lat" : 31.80185648593481,
+            "lng" : 35.23660936067777
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן אלי",
+      "photos" : [
+        {
+          "height" : 1960,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102464574165665934756\"\u003eDave\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKoyZJBR5A8WOW7JJ4Gko65uyn_HloJlFcfjKlQ5kIXtNzQL_-0ytiUHhYL1ZB6ZjGNYQRY8uIaAHg273Rx9ir_ZxorMsts330eYIlYKDTw0LgzsIdGcZjDB7eOpZMsF3CyDKTcriJZqW7ED56o5BuqoLA3n8UGmbNAgqd3f6MHv1_3",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJOQ4aXIspAxURHHcFTv2k1aM",
+      "reference" : "ChIJOQ4aXIspAxURHHcFTv2k1aM",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.801884,
+          "lng" : 35.224978
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.80300505755945,
+            "lng" : 35.22641037179816
+          },
+          "southwest" : {
+            "lat" : 31.80030709697645,
+            "lng" : 35.22371241121516
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן החמישה עשר",
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/107929441253980941635\"\u003eBat Chen Aronson\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLearIRjtj5yFKhIINpa_yVV6LqShP5_pUUbeTELQrgIzicYm2jdHXEvO3Xvk2jgFktXaNMA3D9_sge1PA-ThQXfXYaI0PcCurntJi6tRVSi2FH10pRj_MC4TidfY7XhypfmOqFuirRUXvZ_l6gVDA5A-3fuR9GXgyv8gMiwr1LiuL1",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJR6fnsPopAxURRRuy3xPplqY",
+      "reference" : "ChIJR6fnsPopAxURRRuy3xPplqY",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8039525,
+          "lng" : 35.2400864
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.80557299556022,
+            "lng" : 35.24146303791937
+          },
+          "southwest" : {
+            "lat" : 31.80287503497722,
+            "lng" : 35.23876507733637
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן השלושה",
+      "photos" : [
+        {
+          "height" : 3000,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113058867138400994116\"\u003eMenachem Fooksman\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKUS4byrA-NmNor67Fhb7jeaovUVhAAglkhlttxaSyqKGNpcU9FNSbxUfWBYUNSfQlDul9kPGIgcRn9rtQeD35zgFIhf9v2UxwhETqkIB28ddJNgvwA-3p9O14pEvhw79cwZUJi4T4zvRgSPB-hLKYPUoxXKwP1FSqtifMFUh92HlMw",
+          "width" : 4000
+        }
+      ],
+      "place_id" : "ChIJc5Ftr4spAxUR79r2rA7uU-4",
+      "reference" : "ChIJc5Ftr4spAxUR79r2rA7uU-4",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8057186,
+          "lng" : 35.23991470000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.80723713559543,
+            "lng" : 35.24093268289877
+          },
+          "southwest" : {
+            "lat" : 31.80453917501244,
+            "lng" : 35.23823472231577
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן גבעת שפירא",
+      "photos" : [
+        {
+          "height" : 3120,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111777538837758143372\"\u003eAlla Anatot\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLqfSdSUbAkoaIl2lMAdpBxYfeio9HSmt7_xpFsJel8asOC3Hirtu-UM25KrO7kEbt5TC059f5HTD2fwly5dfVt_lr5AhXBVK34b8z8Y7Ivaz-40vCYLslGS5zD86G__-frCH_zKJXC0uHIsQukhKyi8cTX4McKINAA6xL-21Yy1xKe",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJYV3jWYopAxUR8jBs4l6hxbw",
+      "reference" : "ChIJYV3jWYopAxUR8jBs4l6hxbw",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7993791,
+          "lng" : 35.2186247
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.80058544109524,
+            "lng" : 35.22014895521762
+          },
+          "southwest" : {
+            "lat" : 31.79788748051224,
+            "lng" : 35.21745099463462
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן הסנהדרין",
+      "photos" : [
+        {
+          "height" : 3456,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/114526201205209855022\"\u003eישראל israel קלאוזנר klauzner\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIMIZFapip5LowKPSesFV6D_TtnBkEkbIPK44WNmX2WB8Wkz2FMxaz3KyfTNIH35H2Lkhgyjmh2nsdvAOCrZJKePEU6GYJPaO1lcoeWhRE75WmkBxaFnaZFxZhRW4TEIHhW-o7Hu9wocg9HfxKn9MMneGlI31a4ZYNM1rFq7wlMFlD6",
+          "width" : 4608
+        }
+      ],
+      "place_id" : "ChIJPylN3-MpAxURUW-twm8chvk",
+      "reference" : "ChIJPylN3-MpAxURUW-twm8chvk",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8013845,
+          "lng" : 35.2199126
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.80251254345289,
+            "lng" : 35.22112675856264
+          },
+          "southwest" : {
+            "lat" : 31.79981458286989,
+            "lng" : 35.21842879797964
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן משולם",
+      "photos" : [
+        {
+          "height" : 4160,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108055469817201410161\"\u003eJanek R\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIyWja8lKQvxzk_AfeqkElcwfj7vz5jmmgBaC2hUy5LggZiqbDhHzE96-WFDG_orgLpRJ1vlX78ZyYKV0Zx_NnyvZT7lBiHxfMcGfUQEZh39deFRCJICcuFxb5TWrk0ZzvzPV6L9f_cXXGeEjuWU7Kc1rx-nUSmH0YM2rfrfz7_V4lc",
+          "width" : 3120
+        }
+      ],
+      "place_id" : "ChIJwQjPfOMpAxURXT3qYKcExdc",
+      "reference" : "ChIJwQjPfOMpAxURXT3qYKcExdc",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8013519,
+          "lng" : 35.2185389
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.80273259739604,
+            "lng" : 35.21998462350903
+          },
+          "southwest" : {
+            "lat" : 31.80003463681305,
+            "lng" : 35.21728666292604
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "מקס וורן",
+      "photos" : [
+        {
+          "height" : 3120,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108055469817201410161\"\u003eJanek R\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJE97qYwHvTV2oyeOO11zASmwfY6jx1CVoHFoSc6EzvGftDo25PXBy1tmRWbQGMDuclAItAHvLr1a0uS2E_v-_ABJktx8-DcRv-PxLRBjNu7xRS_e3RWZaMUiMjt8LlVaGVs_r3QdUJQQbz8G5xsCCV5NXX2kHFVTkHm6sph6-CGVJJ",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJF7xWoeMpAxURV9Iemta3HRg",
+      "reference" : "ChIJF7xWoeMpAxURV9Iemta3HRg",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7812805,
+          "lng" : 35.2290987
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.78352350820793,
+            "lng" : 35.23518047254694
+          },
+          "southwest" : {
+            "lat" : 31.77962992707923,
+            "lng" : 35.22675693606313
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן משעול הפנינים",
+      "photos" : [
+        {
+          "height" : 3120,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108055469817201410161\"\u003eJanek R\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwL7-BMGJ57ris1jxpKivXe4-JmNSEo9x5FVoGFODABcv6xBp2PzKFn2IIDKzHpJFLFmrdCQ5XkC3VUIQUN60epVyalOtY4Pvra94JRNdZ3K-KcUEPBvimidYsyVspUYsWBQwVDGckW9udxCS3v9zRewCYd_0TgQoJBqWCgkY2rAUuWU",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJR0Kigc8pAxURqUnhF3Cut5k",
+      "reference" : "ChIJR0Kigc8pAxURqUnhF3Cut5k",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7978667,
+          "lng" : 35.2173818
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.79919162523684,
+            "lng" : 35.21864744701203
+          },
+          "southwest" : {
+            "lat" : 31.79649366465384,
+            "lng" : 35.21594948642904
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן גבעת משה",
+      "place_id" : "ChIJ2ycOpOEpAxUR8SMNbHHCQdU",
+      "reference" : "ChIJ2ycOpOEpAxUR8SMNbHHCQdU",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7816641,
+          "lng" : 35.2276393
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.78298811650509,
+            "lng" : 35.22891318045052
+          },
+          "southwest" : {
+            "lat" : 31.7802901559221,
+            "lng" : 35.22621521986752
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן הצנחנים",
+      "photos" : [
+        {
+          "height" : 3120,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108055469817201410161\"\u003eJanek R\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJ16mJtv8acWAADcBZU10skRX7nDhCe57-W4gw8Hp0qb3ndesr7hSvdN42pZQcM5pLN6pySTlDkArQZv7AHq-B3vBX3qmFZsggIRX2NIq9ZmJ0guwJ1ai5Xpam8gdsoD-BD5-nGRkOglqsYzIr-KJOS9p1uGURYGUfjCvQFJ1SONN8d",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJ9S9iXsUpAxURCmQHpkOFrJQ",
+      "reference" : "ChIJ9S9iXsUpAxURCmQHpkOFrJQ",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7943251,
+          "lng" : 35.2127003
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.79571890590013,
+            "lng" : 35.21405829829902
+          },
+          "southwest" : {
+            "lat" : 31.79302094531713,
+            "lng" : 35.21136033771602
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן חנה",
+      "photos" : [
+        {
+          "height" : 2988,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116908678282579672212\"\u003eMichael Berrebi\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJ76F1AT3MB5D096KIUl3llIhxWu_hcacXhdNWZmIaZ5Zu42Rgo9mgrjctlJuw8gQYQbPLSPAczgWwvc2TV4hKDri6mRPMXJStoZxoJDIAOB43fe9i2Q6niwU43TwJSnrmWD8j1VPaMh1I8zKEQ0oP7cUHN8nriQEkPri8jKKlcjTTv",
+          "width" : 5312
+        }
+      ],
+      "place_id" : "ChIJtSw5TyDWAhURcWhJJBZpwTk",
+      "reference" : "ChIJtSw5TyDWAhURcWhJJBZpwTk",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.8120077,
+          "lng" : 35.2207712
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.81344289097144,
+            "lng" : 35.22224280249238
+          },
+          "southwest" : {
+            "lat" : 31.81074493038844,
+            "lng" : 35.21954484190938
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן רמת שלמה",
+      "place_id" : "ChIJewg--AHWAhUROrcTJFhHolc",
+      "reference" : "ChIJewg--AHWAhUROrcTJFhHolc",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7796364,
+          "lng" : 35.2242053
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.78108296435694,
+            "lng" : 35.22550583033884
+          },
+          "southwest" : {
+            "lat" : 31.77838500377395,
+            "lng" : 35.22280786975584
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן דניאל",
+      "photos" : [
+        {
+          "height" : 3016,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101682812917383952376\"\u003eYaacov Wilk\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKrj1jkqz2Ox8OmqSsG57y6CPIqmLkYRua4vx6RDRS0Sb05v3Hu6z29ZgcoqbRmSNSjeLr_bHVwWn_Kh0gYm6P7v9Gry2fqkKRjgreAVgLUeLTzuKj_JblmDPMvi19F8pL-BPgPNfrMS_aliDWx3JnaHq0nxfSiSt1zHeRvAUhMqq4b",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJMS-ps9EpAxURvCSsDvef4zE",
+      "reference" : "ChIJMS-ps9EpAxURvCSsDvef4zE",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7797008,
+          "lng" : 35.2455368
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.78102837391073,
+            "lng" : 35.24691039985334
+          },
+          "southwest" : {
+            "lat" : 31.77833041332773,
+            "lng" : 35.24421243927034
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "גן ניוול",
+      "photos" : [
+        {
+          "height" : 4608,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/112752535864537013213\"\u003eAbdallah Dajani\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLC9UN9oGcJpLQEFQLzL6mmicLHCuLXYuIYTBsX_XDM8jG8Ysk1lSeh-Szu5B-3QVYcDTad3EZEhpz4FMpVdNLE3OLw7TuiuO3fW1TxGMPS3ZbXZTvXcr2CbkgMoeE3wC4_YIgCfB79o7uaQgdk9FNVz92I_ed23Qf0d21JPSJYzOhK",
+          "width" : 3456
+        }
+      ],
+      "place_id" : "ChIJY0xrcbspAxURvmiCEUy-uDI",
+      "reference" : "ChIJY0xrcbspAxURvmiCEUy-uDI",
+      "scope" : "GOOGLE",
+      "types" : [ "park", "premise", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    }
+  ],
+  "status" : "OK"
+}

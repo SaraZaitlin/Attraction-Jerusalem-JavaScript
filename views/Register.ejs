@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="he">
+<head>
+
+    <%- include('include/start.ejs') %>
+    <%- include('include/titleWeb.ejs') %>
+    <%- include('include/startLogin.ejs') %>
+
+                                    <a href="/login" class="float-right"><span><i class='fa fa-arrow-right ' style='font-size:24px'></i></span></a>
+
+                                    <div class="text-center">
+                                        <h1 class="h4 text-gray-900 mb-4">רישום משתמש חדש </h1>
+                                    </div>
+
+                                    <form action="/login/register" method="post" class="user">
+                                        <div class="form-group">
+                                            <input type="text" name="userName" class="form-control form-control-user"
+                                                   id="exampleInputUserName" placeholder="שם משתמש">
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="email" name="email" class="form-control form-control-user"
+                                                   id="exampleInputEmail" aria-describedby="emailHelp"
+                                                   placeholder="הכנס כתובת מייל">
+                                        </div>
+
+                                        <div class="form-group">
+                                            <div class="custom-control custom-checkbox small">
+                                                <input type="checkbox" class="custom-control-input" id="customCheck">
+                                                <label class="custom-control-label" for="customCheck">זכור אותי</label>
+                                            </div>
+                                        </div>
+                                        <button type="submit" name="רישום " class="btn btn-warning btn-user btn-block  rounded-full rounded-pill" > הרשמה </button>
+
+                                        <hr>
+                                    </form>
+                                    <hr>
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <p><%= result %> </p>
+
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+    <%- include('include/end.ejs') %>

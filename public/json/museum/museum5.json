@@ -1,0 +1,558 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.776991,
+          "lng" : 35.184946
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7782940802915,
+            "lng" : 35.1863504302915
+          },
+          "southwest" : {
+            "lat" : 31.7755961197085,
+            "lng" : 35.1836524697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "חווית הנתינה הישראלית",
+      "place_id" : "ChIJcctyvXbXAhURlvcPg5YOWoc",
+      "plus_code" : {
+        "compound_code" : "Q5GM+QX ירושלים, ישראל",
+        "global_code" : "8G3QQ5GM+QX"
+      },
+      "reference" : "ChIJcctyvXbXAhURlvcPg5YOWoc",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "שדרות הרצל 124, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7766584,
+          "lng" : 35.20547740000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.77800738029149,
+            "lng" : 35.2068263802915
+          },
+          "southwest" : {
+            "lat" : 31.7753094197085,
+            "lng" : 35.2041284197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "בית הפרלמנט הישראלי",
+      "permanently_closed" : true,
+      "place_id" : "ChIJ54TdD2_XAhURuzySCq8hK3E",
+      "plus_code" : {
+        "compound_code" : "Q6G4+M5 ירושלים, ישראל",
+        "global_code" : "8G3QQ6G4+M5"
+      },
+      "reference" : "ChIJ54TdD2_XAhURuzySCq8hK3E",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "קפלן/רופין, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.77557729999999,
+          "lng" : 35.1831168
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.77684038029149,
+            "lng" : 35.1845847302915
+          },
+          "southwest" : {
+            "lat" : 31.7741424197085,
+            "lng" : 35.1818867697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "name" : "היכל הזיכרון הממלכתי בהר הרצל",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/103840838028911807630\"\u003eOmer Livne\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKUP7OFnK-HxdSDVJAQoTR2Z_HPGRyyY35U4sXWsPzX7DcXbIPL-vfNjEg3jvC6pw3HzCOeXzfjH1v7wuUAyY6Hxr-J2lI3xpjLPjgY4Xtw9IiUeGRb4zrPopY2N0oxTIiBATqXNkJUsmE1cepSG84bf5H1YnuP21MHG3tOzbS8MAPU",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJGQwPdbDXAhURcTavz3HSKSI",
+      "plus_code" : {
+        "compound_code" : "Q5GM+66 ירושלים, ישראל",
+        "global_code" : "8G3QQ5GM+66"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJGQwPdbDXAhURcTavz3HSKSI",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1011,
+      "vicinity" : "שדרות הרצל 124-128, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7728802,
+          "lng" : 35.2022228
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7742291802915,
+            "lng" : 35.2035717802915
+          },
+          "southwest" : {
+            "lat" : 31.7715312197085,
+            "lng" : 35.20087381970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "Art Garden",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115625054739537719488\"\u003eOren Natan\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKnCX50QTeoHcGyxZP831f4cHn8zAqPgwKELlHF7C6R_qAN_3P-V6QI_7o_4b2rqfdhbfM2NJISFxuL9Sn_i0dYCmhmM7wkjpJEY2QLhfO8fX3McRDMcMibVF61BDxTcaO5eaSaLa30Tt_VXX9WFyOa8ZO8nC6XcHlWrg2Luc5Qw4KK",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJBwRAQc7XAhURu8HVbuSDGLo",
+      "plus_code" : {
+        "compound_code" : "Q6F2+5V ירושלים, ישראל",
+        "global_code" : "8G3QQ6F2+5V"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJBwRAQc7XAhURu8HVbuSDGLo",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 12,
+      "vicinity" : "נחמן אביגד, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7795452,
+          "lng" : 35.2104199
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7808501302915,
+            "lng" : 35.2117801802915
+          },
+          "southwest" : {
+            "lat" : 31.7781521697085,
+            "lng" : 35.2090822197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "The Minglewood's - By Residency",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 4032,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/113787668314404879573\"\u003eSh Gr\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJwLLY54fSsPA95wq2LaARVFdA5Js1X-Hm16WE6To11KcKtg8Qqj5_5FWiJE6wYj6lZEKAGCxEXfl3WiPi7ageZaaQG4lsFKtiqnFHZn4TgwDndOEI8Rk47oVizY2BYdQrPaY0U8rGVvco4h1PFEzSLz1gBgvGGIZ7KgTarE8E-gE2k",
+          "width" : 3024
+        }
+      ],
+      "place_id" : "ChIJA34CXFPXAhUR1-_-w0L8__k",
+      "plus_code" : {
+        "compound_code" : "Q6H6+R5 ירושלים, ישראל",
+        "global_code" : "8G3QQ6H6+R5"
+      },
+      "rating" : 5,
+      "reference" : "ChIJA34CXFPXAhUR1-_-w0L8__k",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 4,
+      "vicinity" : "צפת 34, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7875652,
+          "lng" : 35.2121419
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7889190802915,
+            "lng" : 35.2135466302915
+          },
+          "southwest" : {
+            "lat" : 31.7862211197085,
+            "lng" : 35.2108486697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "the josef haleba place",
+      "permanently_closed" : true,
+      "place_id" : "ChIJIVO-7ArXAhURfiiluEBf38Q",
+      "plus_code" : {
+        "compound_code" : "Q6Q6+2V ירושלים, ישראל",
+        "global_code" : "8G3QQ6Q6+2V"
+      },
+      "reference" : "ChIJIVO-7ArXAhURfiiluEBf38Q",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "תחכמוני 9, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7831537,
+          "lng" : 35.2128196
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7844735802915,
+            "lng" : 35.2139782802915
+          },
+          "southwest" : {
+            "lat" : 31.7817756197085,
+            "lng" : 35.2112803197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "בית אפרים נבון",
+      "permanently_closed" : true,
+      "place_id" : "ChIJPbVQ8ffXAhURA4lYl2OxS_w",
+      "plus_code" : {
+        "compound_code" : "Q6M7+74 ירושלים, ישראל",
+        "global_code" : "8G3QQ6M7+74"
+      },
+      "reference" : "ChIJPbVQ8ffXAhURA4lYl2OxS_w",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "הגלבוע 11, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7907703,
+          "lng" : 35.2125241
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7918750802915,
+            "lng" : 35.2137628802915
+          },
+          "southwest" : {
+            "lat" : 31.7891771197085,
+            "lng" : 35.2110649197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "קהילות ישראל - המרכז למורשת העם היהודי",
+      "place_id" : "ChIJeV2yP-jXAhUR7b6U7i6V39M",
+      "plus_code" : {
+        "compound_code" : "Q6R7+82 ירושלים, ישראל",
+        "global_code" : "8G3QQ6R7+82"
+      },
+      "reference" : "ChIJeV2yP-jXAhUR7b6U7i6V39M",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "מלכי ישראל 34, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7834722,
+          "lng" : 35.2137784
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7848239302915,
+            "lng" : 35.2149538802915
+          },
+          "southwest" : {
+            "lat" : 31.7821259697085,
+            "lng" : 35.2122559197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "Wiener Heritage Center",
+      "photos" : [
+        {
+          "height" : 3120,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/108055469817201410161\"\u003eJanek R\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwL9T3i_0PS3QgoJZL-X829eLGkjnJCfn763Gw4CrIzDHOEjdeTmfj_pjCQMRWW-kaPBkFP3def_8YfPziXX-kfjR-gxCIpow5HSvocvDHIJqLC2X3BJck_xxN6mvVtgKxabL6iYcvYsojRagnl-462kKcCL2UMCc89UW0EHLVi5Xh7h",
+          "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJp78CNCjWAhURbo1CmUPk1-E",
+      "plus_code" : {
+        "compound_code" : "Q6M7+9G ירושלים, ישראל",
+        "global_code" : "8G3QQ6M7+9G"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJp78CNCjWAhURbo1CmUPk1-E",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 2,
+      "vicinity" : "הכרמל 14-16, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7987161,
+          "lng" : 35.20586309999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.8000313802915,
+            "lng" : 35.2072567302915
+          },
+          "southwest" : {
+            "lat" : 31.7973334197085,
+            "lng" : 35.2045587697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "הרב אברהם גרין",
+      "permanently_closed" : true,
+      "place_id" : "ChIJ5c6PBSfXAhURMIy-6f2SXS0",
+      "plus_code" : {
+        "compound_code" : "Q6X4+F8 ירושלים, ישראל",
+        "global_code" : "8G3QQ6X4+F8"
+      },
+      "reference" : "ChIJ5c6PBSfXAhURMIy-6f2SXS0",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "הרב סורוצקין 35, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7815869,
+          "lng" : 35.2135209
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.78292833029149,
+            "lng" : 35.2148964302915
+          },
+          "southwest" : {
+            "lat" : 31.78023036970849,
+            "lng" : 35.2121984697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "סיורי נחלאות - מיכל",
+      "permanently_closed" : true,
+      "place_id" : "ChIJEwJPiGLXAhURozTOg9uTiqE",
+      "plus_code" : {
+        "compound_code" : "Q6J7+JC ירושלים, ישראל",
+        "global_code" : "8G3QQ6J7+JC"
+      },
+      "reference" : "ChIJEwJPiGLXAhURozTOg9uTiqE",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "הנצי\"ב 9, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7843398,
+          "lng" : 35.214282
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7859338302915,
+            "lng" : 35.2158564302915
+          },
+          "southwest" : {
+            "lat" : 31.78323586970851,
+            "lng" : 35.2131584697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "The Bureau - Studio for Art & Bureaucracy",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/118331552396039074176\"\u003eHa Ketem\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKk9H8gZ-HmbEGC24-UM4tvuT2Yr7E0MgfuN-gdkats42snbXGDjTxTxjR_4V3k5bF9FcpzgSp3N85n7zIEkbTUMgBgohhMSRLiH1AnlXq6K4yh_yWt4AensXRTgnobaBg6lq1wz1HwA5FBFL6ewKdqmSY1U7VhiTyUJIQVOISEkPdN",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJKc8gydApAxUR7Kq3Pj9T7Oo",
+      "plus_code" : {
+        "compound_code" : "Q6M7+PP ירושלים, ישראל",
+        "global_code" : "8G3QQ6M7+PP"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJKc8gydApAxUR7Kq3Pj9T7Oo",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 6,
+      "vicinity" : "יפו 97, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7751092,
+          "lng" : 35.21028370000001
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.77646053029149,
+            "lng" : 35.21172653029149
+          },
+          "southwest" : {
+            "lat" : 31.7737625697085,
+            "lng" : 35.20902856970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "Kyle Manir",
+      "permanently_closed" : true,
+      "place_id" : "ChIJJ6AY5irXAhURRQBAiSBhT8o",
+      "plus_code" : {
+        "compound_code" : "Q6G6+24 ירושלים, ישראל",
+        "global_code" : "8G3QQ6G6+24"
+      },
+      "reference" : "ChIJJ6AY5irXAhURRQBAiSBhT8o",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7828059,
+          "lng" : 35.2153102
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7841474802915,
+            "lng" : 35.2166742302915
+          },
+          "southwest" : {
+            "lat" : 31.7814495197085,
+            "lng" : 35.2139762697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "גלריה שודדי ים",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 1000,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115219083789400053377\"\u003eYaniv Berman\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKvNmBpIZqvOYEotWj8vPZLpNh8eDvOl2o3ljYrGye0JF6iypeP1WIFir4eAR322ugJSeQZxzLIVeHEoAgAJa9JQe4XJatwfKB3oNW4DuTB8hHK6jJ7rgw1ftnwCa2IyWJuRFZp2rMk3BwLYzsPlsDNbomOnqX56yHSfzIbYIDhKK-0",
+          "width" : 1499
+        }
+      ],
+      "place_id" : "ChIJWwE0z6gpAxURDRUqpYdpZ7g",
+      "plus_code" : {
+        "compound_code" : "Q6M8+44 ירושלים, ישראל",
+        "global_code" : "8G3QQ6M8+44"
+      },
+      "reference" : "ChIJWwE0z6gpAxURDRUqpYdpZ7g",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "מסילת ישרים 27, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7742984,
+          "lng" : 35.1784463
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7755489802915,
+            "lng" : 35.1795137302915
+          },
+          "southwest" : {
+            "lat" : 31.7728510197085,
+            "lng" : 35.1768157697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "אנדרטאת נצר אחרון",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3000,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/111439410922810033393\"\u003eDel Zep\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwI4ctBTja6JoQFRyEuu2bltxsjBjdO8ka5sQtA2p2G0SqeLpN9wxY4pD_pJnRMBQlxZlb5VnJZ7VYc4KcNrn6uFB7AlyIhuaWyUeHUTZjZAWY04cmnPu__eFTWFXMzoaxn7eX9b5k77XO_TOAwOSPKuie8hDgTwN1p9LeB56fdXBm-v",
+          "width" : 4000
+        }
+      ],
+      "place_id" : "ChIJM4yeUqTXAhURaiilFHjrWds",
+      "plus_code" : {
+        "compound_code" : "Q5FH+P9 ירושלים, ישראל",
+        "global_code" : "8G3QQ5FH+P9"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJM4yeUqTXAhURaiilFHjrWds",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 8,
+      "vicinity" : "ירושלים"
+    }
+  ],
+  "status" : "OK"
+}

@@ -1,0 +1,491 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.78352289999999,
+          "lng" : 35.2197021
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.78483028029149,
+            "lng" : 35.2210088302915
+          },
+          "southwest" : {
+            "lat" : 31.7821323197085,
+            "lng" : 35.2183108697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "Kokia Visitor Center",
+      "photos" : [
+        {
+          "height" : 1363,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/106747944662082678382\"\u003eKokia House Visitor Center\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIKYr2rA-JTUQ3V2zaymoAyf9OpVnSVI9sf1YXpC4t751bjF7hmudAytye8eRGpJtgCnJ1sx_Gjpyuzue7kDMyZi1P3CO8HYSgxLmgfbE6cELHk0Ig_UeI53O16nMHo_hKZRyBhpxzmwNqLv8GdaKTmGLCtg1hxcoKMLlNDVfXMIs3q",
+          "width" : 2048
+        }
+      ],
+      "place_id" : "ChIJURLZadcpAxURI0lVJ3HMfkQ",
+      "plus_code" : {
+        "compound_code" : "Q6M9+CV ירושלים, ישראל",
+        "global_code" : "8G3QQ6M9+CV"
+      },
+      "rating" : 4.8,
+      "reference" : "ChIJURLZadcpAxURI0lVJ3HMfkQ",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 191,
+      "vicinity" : "הרב אג\"ן 10, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.783501,
+          "lng" : 35.2197084
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7848148302915,
+            "lng" : 35.2210181302915
+          },
+          "southwest" : {
+            "lat" : 31.7821168697085,
+            "lng" : 35.21832016970851
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "Ticho House Museum",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 1080,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/105977709033581103700\"\u003eTicho House Museum\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIpMpEwkkyaIzsEFFfiMWPhDzJoAtcOuMfTlR15DgGWnr26hi-gLvYAgEC04STDneDzjoO4SDZ8_TBjEO8ln4YNrutGpkjuNK0FVTpfvDKevM31KoucO-dE73iq49vIGSLBQX70tdMnZoy3hZKqbZ92vFMwdGgAq8PB4cJCJ8hc-iHy",
+          "width" : 1920
+        }
+      ],
+      "place_id" : "ChIJgwDqNNbXAhURN_gwdxr039c",
+      "plus_code" : {
+        "compound_code" : "Q6M9+CV ירושלים, ישראל",
+        "global_code" : "8G3QQ6M9+CV"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJgwDqNNbXAhURN_gwdxr039c",
+      "scope" : "GOOGLE",
+      "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 224,
+      "vicinity" : "הרב אג\"ן 10, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7820243,
+          "lng" : 35.22157309999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7833498802915,
+            "lng" : 35.2229473302915
+          },
+          "southwest" : {
+            "lat" : 31.7806519197085,
+            "lng" : 35.2202493697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "Русское Подворье- Троицкий Собор",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/100076726101590079743\"\u003eAndrey Khanukaev\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJGCimqT5E9ZyZqRSqoqpoqIJC_snYVto7u6zJZP_1Mt_URpqaA1hSOMqkDXUUm95J9vrAKKuYFtxRsjYmiX6tAU6HtrcP-NPsgtCAEQJ3bnnUNJ79r2iGQCRXTKOfgPHeQwtmQVrXE7TPlU08hpn9Smjw8gZVeZ4xv6mQ_R-nrgtbT",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJw5yYv9ApAxURmqGetHrVQOs",
+      "plus_code" : {
+        "compound_code" : "Q6JC+RJ ירושלים, ישראל",
+        "global_code" : "8G3QQ6JC+RJ"
+      },
+      "rating" : 3.5,
+      "reference" : "ChIJw5yYv9ApAxURmqGetHrVQOs",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 4,
+      "vicinity" : "הלני המלכה 9, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7907703,
+          "lng" : 35.2125241
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7918750802915,
+            "lng" : 35.2137628802915
+          },
+          "southwest" : {
+            "lat" : 31.7891771197085,
+            "lng" : 35.2110649197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "קהילות ישראל - המרכז למורשת העם היהודי",
+      "place_id" : "ChIJeV2yP-jXAhUR7b6U7i6V39M",
+      "plus_code" : {
+        "compound_code" : "Q6R7+82 ירושלים, ישראל",
+        "global_code" : "8G3QQ6R7+82"
+      },
+      "reference" : "ChIJeV2yP-jXAhUR7b6U7i6V39M",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "מלכי ישראל 34, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.78043319999999,
+          "lng" : 35.2215137
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7817969302915,
+            "lng" : 35.22288973029149
+          },
+          "southwest" : {
+            "lat" : 31.7790989697085,
+            "lng" : 35.2201917697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "The Jerusalem Biennale",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 3840,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/118348096994489397224\"\u003eJerusalem Biennale\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLTzzEFquhgydQKaUv7hNDXa4JYd8crK4I749I4824mqf2eBEmqa2B1QfLhdpb1n8AiL-MxwzMNpIy64hF1m2d8O7GcmXvAMcy_NaESadMOgXX2hBr_IL3vnrPBBpYaaqzXdMomJ3w0BwZbK0Yyy-wg7x4i7MnlwQeXfUYlGfGHlkjG",
+          "width" : 2160
+        }
+      ],
+      "place_id" : "ChIJu49GwL8pAxURzazMM4DFI6I",
+      "plus_code" : {
+        "compound_code" : "Q6JC+5J ירושלים, ישראל",
+        "global_code" : "8G3QQ6JC+5J"
+      },
+      "rating" : 5,
+      "reference" : "ChIJu49GwL8pAxURzazMM4DFI6I",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1,
+      "vicinity" : "4 shlomzion, Heleni ha-Malka Street, Jerusalem"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.780609,
+          "lng" : 35.219521
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7819791302915,
+            "lng" : 35.2208144802915
+          },
+          "southwest" : {
+            "lat" : 31.7792811697085,
+            "lng" : 35.2181165197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "מוזיאון המוזיקה העברי",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+          "height" : 3456,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/101687436090936652557\"\u003eUri Ron\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwImyOdDGYtwT8PD8oW3b5gauSEFZhHNGhy8_GuLy7ojDSU6WjWB6R18QB3Z82ItXQrtapqKpQ6YH_muN5WmQIVP21njpwk_2fhtyNgMfGdnHDBbX5wk8AB8sIeFPiilnE7rCgJCo7U3E3a8iTrUDvz9_d40KBDAlLxEMUvSduPLvpHA",
+          "width" : 4608
+        }
+      ],
+      "place_id" : "ChIJfSdG0NYpAxURwhxo_Y1xD-I",
+      "plus_code" : {
+        "compound_code" : "Q6J9+6R ירושלים, ישראל",
+        "global_code" : "8G3QQ6J9+6R"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJfSdG0NYpAxURwhxo_Y1xD-I",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1149,
+      "vicinity" : "יואל משה סלומון 10, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7767544,
+          "lng" : 35.2289117
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7781033802915,
+            "lng" : 35.23026068029149
+          },
+          "southwest" : {
+            "lat" : 31.7754054197085,
+            "lng" : 35.22756271970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "Wujoud Museum",
+      "photos" : [
+        {
+          "height" : 4032,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/115625054739537719488\"\u003eOren Natan\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwIC5qTr9_WmFajAuuDfU6t6AifkQq762wVAOGYF1vwkTdIqGekqzEhWytbqu6-9Jl8DCfRV8bHDY8iVTANgMqrVAhPE-ejXUpzUWSI9v6qGem0N54f8gwysMG9RSKJfgFLYZDXx1DnO4zuPKKkBWgrp5jkHDuKXAsjrUZHroZ1wCcfh",
+          "width" : 3024
+        }
+      ],
+      "place_id" : "ChIJV0ZKic4pAxURkOp4mBkkSxI",
+      "plus_code" : {
+        "compound_code" : "Q6GH+PH ירושלים",
+        "global_code" : "8G3QQ6GH+PH"
+      },
+      "rating" : 3.9,
+      "reference" : "ChIJV0ZKic4pAxURkOp4mBkkSxI",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 9,
+      "vicinity" : "12 Sweiqet Alloun"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.77636840000001,
+          "lng" : 35.2319383
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.77771738029151,
+            "lng" : 35.23328728029149
+          },
+          "southwest" : {
+            "lat" : 31.77501941970851,
+            "lng" : 35.23058931970849
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "המגדל הישראלי - The Israelit Tower",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/116541709163940005000\"\u003eTzvi Sklar\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwLLppwfkjDFOvAvUGkfkGaddG86GAk3pPfwG85FzIKrqQQoLHcfdQRr4Owjwl6KAE-yQtF674lx3pjey7VuWQKxTkzqNM0tfPBIXJS3LYfCGGJLlGtbGHrGD5A6yKqmSCCj06JqT5MFUlYftkaMiO5fksJseg-cTqZFWKhnGevIaK9e",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJVelyN8kpAxURilu6sFviCW8",
+      "plus_code" : {
+        "compound_code" : "Q6GJ+GQ ירושלים",
+        "global_code" : "8G3QQ6GJ+GQ"
+      },
+      "rating" : 4.5,
+      "reference" : "ChIJVelyN8kpAxURilu6sFviCW8",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 31,
+      "vicinity" : "פלוגת הכותל 8, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7875652,
+          "lng" : 35.2121419
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7889190802915,
+            "lng" : 35.2135466302915
+          },
+          "southwest" : {
+            "lat" : 31.7862211197085,
+            "lng" : 35.2108486697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "the josef haleba place",
+      "permanently_closed" : true,
+      "place_id" : "ChIJIVO-7ArXAhURfiiluEBf38Q",
+      "plus_code" : {
+        "compound_code" : "Q6Q6+2V ירושלים, ישראל",
+        "global_code" : "8G3QQ6Q6+2V"
+      },
+      "reference" : "ChIJIVO-7ArXAhURfiiluEBf38Q",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "vicinity" : "תחכמוני 9, ירושלים"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7843398,
+          "lng" : 35.214282
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.7859338302915,
+            "lng" : 35.2158564302915
+          },
+          "southwest" : {
+            "lat" : 31.78323586970851,
+            "lng" : 35.2131584697085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "name" : "The Bureau - Studio for Art & Bureaucracy",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+          "height" : 3024,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/118331552396039074176\"\u003eHa Ketem\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwJwVXT67KFqb7-mKN7Cma6Qe4PQknTRD6H_FjSDQ--2-yJ3Oa2DMqbimBk7UXKbFsp_LOo_qTcBit5L4KsnWEBsCyHs5_EIN-nqU1LhdEyxbc0k4eqjHjoTCEyyd625OqZOYsWATYdgVhvU9XAKA5Y167gxZwu8nDjAZYadNinlnafP",
+          "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJKc8gydApAxUR7Kq3Pj9T7Oo",
+      "plus_code" : {
+        "compound_code" : "Q6M7+PP ירושלים, ישראל",
+        "global_code" : "8G3QQ6M7+PP"
+      },
+      "rating" : 4.7,
+      "reference" : "ChIJKc8gydApAxUR7Kq3Pj9T7Oo",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 6,
+      "vicinity" : "יפו 97, ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.7792462,
+          "lng" : 35.22076159999999
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.78066628029149,
+            "lng" : 35.2221463802915
+          },
+          "southwest" : {
+            "lat" : 31.77796831970849,
+            "lng" : 35.2194484197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "Center for Human Dignity",
+      "permanently_closed" : true,
+      "place_id" : "ChIJgwDqNNbXAhURY97BSEo6UWk",
+      "plus_code" : {
+        "compound_code" : "Q6HC+M8 ירושלים, ישראל",
+        "global_code" : "8G3QQ6HC+M8"
+      },
+      "rating" : 5,
+      "reference" : "ChIJgwDqNNbXAhURY97BSEo6UWk",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1,
+      "vicinity" : "ירושלים"
+    },
+    {
+      "business_status" : "CLOSED_TEMPORARILY",
+      "geometry" : {
+        "location" : {
+          "lat" : 31.77749529999999,
+          "lng" : 35.2247751
+        },
+        "viewport" : {
+          "northeast" : {
+            "lat" : 31.77872443029149,
+            "lng" : 35.2260843802915
+          },
+          "southwest" : {
+            "lat" : 31.77602646970849,
+            "lng" : 35.2233864197085
+          }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "name" : "מעלית הזמן",
+      "permanently_closed" : true,
+      "photos" : [
+        {
+          "height" : 3456,
+          "html_attributions" : [
+            "\u003ca href=\"https://maps.google.com/maps/contrib/102555381567040030702\"\u003eMASMIJM Rebecca\u003c/a\u003e"
+          ],
+          "photo_reference" : "ATtYBwKi_q26hwf-DJiet83CjdeXxLo-UllLT339DpHV7DaPKc-CIgPWhZgA-e6SNaAnavCNTNR0K4I5Jv4DlYD3wGaCnX1JFOQdZsN9oqpK3jrWF-i0fUPYKsy4PcbqATC1vk41MVsqfLGuSvNzXCqSELrXvfeTeNFOT0nTOME2pucLE6Ao",
+          "width" : 4608
+        }
+      ],
+      "place_id" : "ChIJYVWE9dEpAxURaT9dGXFhJtI",
+      "plus_code" : {
+        "compound_code" : "Q6GF+XW ירושלים, ישראל",
+        "global_code" : "8G3QQ6GF+XW"
+      },
+      "rating" : 3.8,
+      "reference" : "ChIJYVWE9dEpAxURaT9dGXFhJtI",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 1084,
+      "vicinity" : "יצחק קריב 6, ירושלים"
+    }
+  ],
+  "status" : "OK"
+}
