@@ -59,7 +59,7 @@ let  my=(function (){
                                 "    <div class='row g-0'>" +
                                 "    <div class='col col-md-4'>" +
                                 "    <img src='/images/image.jpg' class='img-fluid rounded-start' alt='image'></div>" +
-                               // "<img src=" + 'https://maps.googleapis.com/maps/api/place/photo?maxwidth=' + 180 + '&maxheight=' + 140 + '&photoreference=' + att.photo_reference + '&key=AIzaSyANtFQxXSibMy6HAzjQePzos8JrB9qX-G8' +"></div>"+
+                               // "<img src=" + 'https://maps.googleapis.com/maps/api/place/photo?maxwidth=' + 180 + '&maxheight=' + 140 + '&photoreference=' + att.photo_reference + '&key=API_KEY' +"></div>"+
                                 "    <div class='col col-md-8'>" +
                                 "    <div class='row h-100'><div class='col col-md-8>'" +
                                 "    <div class='card-body'>" +
