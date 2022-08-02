@@ -11,9 +11,11 @@ General instructions:
 2. You can open the site in any browser.
 3. When the user enters the site he can search for attractions near him (when he is in Jerusalem) or search for attractions by address in Jerusalem.
 4. The site will identify the user's location when the user asks for certain attractions to give him the attractions closest to him.
+
 ![image](https://user-images.githubusercontent.com/88738433/182319209-de8e12af-bc05-4570-a52c-dbfccf0a6302.png)
 
 The home page has 2 filter options.
+
 ![image](https://user-images.githubusercontent.com/88738433/182316282-f9a31781-43b6-4d86-91ac-9bd7d45139d3.png)
 
  1.It is possible to filter the attractions by age - which includes: children, families and adults.
