@@ -39,7 +39,14 @@ button to report attraction load (when user is in attraction he can report what 
 report load at the attraction:
 * When the user is at the attraction and he wants to report the level of congestion at the attraction he can only when he is connected to the site with his details.
 * A user can not report a load on an attraction more than once.
+
 ![image](https://user-images.githubusercontent.com/88738433/182318709-5dbfdaaa-973d-4ee1-a3be-a9a885598b9e.png)
+
+New user registration:
+The user registers on the site with a name and email.
+The user then moves to the password entry screen, when the password must be entered within a minute, otherwise returns to the login page.
+
+![image](https://user-images.githubusercontent.com/88738433/182322658-0b5e5bbe-1874-42ab-9ec6-927dbe02fcd5.png)
 
 The various departments:
 Customer side departments:
