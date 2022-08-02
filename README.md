@@ -28,10 +28,12 @@ The home page has 2 filter options.
 After the user filters the attractions according to what he wants, he is presented with 10 attractions that include his filter and that are closest to him.
 It is possible to display additional results, and then the user is presented with 10 more attractions that include his filter and that are closest to him (after what was displayed). 
 This way the user can continue to see more results until the end ...
+
 ![image](https://user-images.githubusercontent.com/88738433/182317165-b18ba958-c46f-460e-9b21-898bf9c7632f.png)
 
 For each attraction is displayed: attraction name, attraction address, place rating, phone number (if any), user reviews of the attraction,
 button to report attraction load (when user is in attraction he can report what level of load in attraction), attraction load (attraction When users reported), link to Google Maps of the attraction.
+
 ![image](https://user-images.githubusercontent.com/88738433/182318536-1a21a067-947a-4039-9ce3-2c53a6f7d768.png)
 
 report load at the attraction:
