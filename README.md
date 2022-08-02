@@ -19,6 +19,7 @@ The home page has 2 filter options.
 ![image](https://user-images.githubusercontent.com/88738433/182316282-f9a31781-43b6-4d86-91ac-9bd7d45139d3.png)
 
  1.It is possible to filter the attractions by age - which includes: children, families and adults.
+ 
 ![image](https://user-images.githubusercontent.com/88738433/182316399-e76dbf4b-1af6-4c5d-915e-2102208c66d4.png)
 
  2.It is possible to filter the attractions by type - this includes: parks, museums, malls, restaurants and zoos.
