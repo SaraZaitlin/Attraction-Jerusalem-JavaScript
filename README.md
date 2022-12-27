@@ -5,7 +5,7 @@ Author: Sara Zeitlin ID: 209181874
 Author: Elisheva Roi ID: 322277161
 
 About the website:
-A site for searching for attractions in Jerusalem near the user, the site was developed in JavaScript in a webStrom work environment.
+A web app for searching for attractions in Jerusalem near the user with filtering options, the site was developed in JavaScript in a webStrom work environment.
 General instructions:
 1. When entering the site, permission must be granted to access the location of the device from which they entered the site.
 2. You can open the site in any browser.
