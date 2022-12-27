@@ -1,7 +1,7 @@
 # Attraction-Jerusalem-JavaScript
 
 Submission of a year project c.
-Author: Sara Zaitlin ID: 209181874
+Author: Sara Zeitlin ID: 209181874
 Author: Elisheva Roi ID: 322277161
 
 About the website:
