@@ -49,7 +49,7 @@ The user then moves to the password entry screen, when the password must be ente
 ![image](https://user-images.githubusercontent.com/88738433/182322658-0b5e5bbe-1874-42ab-9ec6-927dbe02fcd5.png)
 
 The various departments:
-Customer side departments:
+Client-side departments:
 * attraction- A department that is responsible for handling all user clicks on the page of displaying the attractions by type.
 * attractionAge- A department responsible for handling all user clicks on the page showing the attractions by age.
 A department that handles all the common functions on the attraction display pages.
